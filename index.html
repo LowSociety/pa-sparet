@@ -1,1 +1,456 @@
-<h1>Hello world!</h1>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.11.0/mapbox-gl.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+            font-size:1em;
+        }
+
+        #map {
+            height: 100%;
+        }
+
+        #controls {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: center;
+            z-index: 99;
+            height: 2rem;
+            padding: 0 1rem;
+        }
+
+        #stats {
+            position: fixed;
+            background: rgba(0,0,0,0.3);
+            right: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 200px;
+            color: white;
+            z-index: 99;
+            padding: 2rem;
+            backdrop-filter: blur(5px);
+        }
+        #stats ol {
+            margin: 0;
+            padding: 0 1rem;
+        }
+        @media screen and (max-width: 780px) {
+            #stats {
+                top: auto;
+                bottom: 0;
+                right: 0;
+                left: 0;
+                width: 100%;
+                transform: none;
+                column-count: 2;
+            }
+        }
+    </style>
+    <style>
+        .range_container {
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            max-width: 600px;
+            position: relative;
+
+        }
+        input[type=range]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            pointer-events: all;
+            width: 24px;
+            height: 24px;
+            background-color: #fff;
+            border-radius: 50%;
+            box-shadow: 0 0 0 1px #C6C6C6;
+            cursor: pointer;
+        }
+
+        input[type=range]::-moz-range-thumb {
+            -webkit-appearance: none;
+            pointer-events: all;
+            width: 24px;
+            height: 24px;
+            background-color: #fff;
+            border-radius: 50%;
+            box-shadow: 0 0 0 1px #C6C6C6;
+            cursor: pointer;
+        }
+
+        input[type=range]::-webkit-slider-thumb:hover {
+            background: #f7f7f7;
+        }
+
+        input[type=range]::-webkit-slider-thumb:active {
+            box-shadow: inset 0 0 3px #387bbe, 0 0 9px #387bbe;
+            -webkit-box-shadow: inset 0 0 3px #387bbe, 0 0 9px #387bbe;
+        }
+
+        input[type=number]::-webkit-inner-spin-button,
+        input[type=number]::-webkit-outer-spin-button {
+            opacity: 1;
+        }
+
+        input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            height: 2px;
+            width: 100%;
+            position: absolute;
+            top: 12px;
+            background-color: #C6C6C6;
+            pointer-events: none;
+        }
+
+        input[name="from"] {
+            height: 0;
+            z-index: 1;
+        }
+
+        .range_container .dates {
+            position: absolute;
+            color: white;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        .mapboxgl-popup-content h2, .mapboxgl-popup-content p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div id="controls">
+    <div class="range_container">
+        <input aria-label="Från" name="from" type="range" value="" min="" max=""/>
+        <input aria-label="Till" id="toSlider" name="to" type="range" value="" min="" max=""/>
+        <span class="dates"></span>
+    </div>
+</div>
+<div id="stats"></div>
+<div id="map"></div>
+<script>
+    let isMapLoaded = false;
+    let isDataLoaded = false;
+
+    const controls = {
+        container: document.querySelector('#controls'),
+        from: document.querySelector('#controls input[name=from]'),
+        to: document.querySelector('#controls input[name=to]'),
+        dates: document.querySelector('#controls .dates')
+    }
+
+    controls.container.addEventListener('input', (e) => {
+        if (e.target === controls.from && controls.from.value > controls.to.value) {
+            controls.from.value = controls.to.value;
+        }
+        if (e.target === controls.to && controls.to.value < controls.from.value) {
+            controls.to.value = controls.from.value;
+        }
+        filter[e.target.name] = e.target.value;
+    }, true);
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoiZnJlZHJpa2p1bmdzdGVkdCIsImEiOiJjbGF3bGQ1bTAwZ3d0M3hzanZ6NGEzcjJwIn0.Rf_kgT0fidzcmXu0NxWVbQ';
+    const map = new mapboxgl.Map({
+        container: 'map',
+        // Choose from Mapbox's core styles, or make your own style with Mapbox Studio
+        style: 'mapbox://styles/fredrikjungstedt/clawm7bps006l14n9q79cqhze',
+        center: [18.063240, 59.334591],
+        zoom: 2,
+        attributionControl: false
+    });
+    map.addControl(new mapboxgl.AttributionControl({
+        customAttribution: 'Fredrik Jungstedt'
+    }));
+
+    let data = null;
+    let filter = null;
+
+    const loadData = function() {
+        fetch('data.json').then((response) => {
+            return response.json()
+        }).then((responseData) => {
+            data = responseData
+            dataLoaded();
+        })
+    }
+    loadData();
+
+    const dataLoaded = function() {
+        const minMax = data.reduce((carry, episode) => {
+            const year = episode.date.match(/.+(\d{4})/)[1];
+            if (year < carry.min) {
+                carry.min = year;
+            }
+            if (year > carry.max) {
+                carry.max = year;
+            }
+            return carry;
+        }, {max: Number.NEGATIVE_INFINITY, min: Number.POSITIVE_INFINITY})
+
+        controls.from.min = minMax.min;
+        controls.to.min = minMax.min;
+        controls.from.max = minMax.max;
+        controls.to.max = minMax.max;
+        controls.from.value = minMax.min;
+        controls.to.value = minMax.max;
+
+
+        filter = new Proxy(
+            {
+                from: minMax.min,
+                to: minMax.max,
+                locations: null
+            },
+            {
+                get(obj, prop) {
+                    return obj[prop]
+                },
+                set(obj, prop, value) {
+                    obj[prop] = value;
+
+                    if(prop !== 'locations') {
+                        obj.locations = Object.values(getLocations());
+                    }
+                    updateFilter();
+                    updateStats();
+                }
+            }
+        )
+        controls.dates.innerText = `${filter.from} - ${filter.to}`;
+
+        filter.locations = Object.values(getLocations());
+        updateStats();
+        isDataLoaded = true;
+        initMapLayers();
+    }
+
+    const getLocations = function () {
+        return data.reduce((all, episode) => {
+            const year = episode.date.match(/.+(\d{4})/)[1];
+            if ((filter.from && filter.from > year) || (filter.to && filter.to < year)) {
+                return all;
+            }
+            episode.locations.forEach((location) => {
+                if (!location.lat && !location.lng) return;
+                if (!(location.name in all)) {
+                    all[location.name] = {
+                        type: 'Feature',
+                        geometry: {
+                            type: 'Point',
+                            coordinates: [location.lng, location.lat]
+                        },
+                        properties: {
+                            title: location.name,
+                            name: location.name,
+                            count: 0,
+                            episodes: []
+                        }
+                    }
+                }
+                all[location.name].properties.count += 1;
+                all[location.name].properties.episodes.push(episode);
+            })
+            return all;
+        }, {});
+    }
+
+    const updateFilter = function () {
+        controls.dates.innerText = `${filter.from} - ${filter.to}`;
+        const source = map?.getSource('destinations');
+        if(!source) {
+            return;
+        }
+        source.setData(
+            {
+                type: 'FeatureCollection',
+                features: filter.locations
+            }
+        )
+    }
+
+    const updateStats = function() {
+        const locations = [ ...filter.locations ].sort((a, b) => {
+            return b.properties.count - a.properties.count;
+        }).splice(0, 10);
+        const list = document.createElement('ol');
+        locations.forEach((location) => {
+            const li = document.createElement('li');
+            li.innerText = `${location.properties.name} (${location.properties.count})`;
+            list.appendChild(li)
+        })
+        document.querySelector('#stats').innerHTML = '';
+        document.querySelector('#stats').appendChild(list);
+    }
+
+    const initMapLayers = function() {
+        if(!isMapLoaded || !isDataLoaded) return;
+
+        map.addSource('destinations', {
+            'type': 'geojson',
+            'data': {
+                type: 'FeatureCollection',
+                features: filter.locations
+            }
+        });
+
+        window.map = map;
+
+        map.addLayer(
+            {
+                'id': 'destinations-heat',
+                'type': 'heatmap',
+                'source': 'destinations',
+                'maxzoom': 9,
+                'paint': {
+                    // Increase the heatmap weight based on frequency and property count
+                    'heatmap-weight': [
+                        'interpolate',
+                        ['linear'],
+                        ['get', 'count'],
+                        0,
+                        0,
+                        6,
+                        2
+                    ],
+                    // Increase the heatmap color weight weight by zoom level
+                    // heatmap-intensity is a multiplier on top of heatmap-weight
+                    'heatmap-intensity': [
+                        'interpolate',
+                        ['linear'],
+                        ['zoom'],
+                        0,
+                        1,
+                        9,
+                        3
+                    ],
+                    // Color ramp for heatmap.  Domain is 0 (low) to 1 (high).
+                    // Begin color ramp at 0-stop with a 0-transparancy color
+                    // to create a blur-like effect.
+                    'heatmap-color': [
+                        'interpolate',
+                        ['linear'],
+                        ['heatmap-density'],
+                        0,
+                        'rgba(33,102,172,0)',
+                        0.2,
+                        'rgb(103,169,207)',
+                        0.4,
+                        'rgb(209,229,240)',
+                        0.6,
+                        'rgb(253,219,199)',
+                        0.8,
+                        'rgb(239,138,98)',
+                        1,
+                        'rgb(178,24,43)'
+                    ],
+                    // Adjust the heatmap radius by zoom level
+                    'heatmap-radius': [
+                        'interpolate',
+                        ['linear'],
+                        ['zoom'],
+                        0,
+                        2,
+                        9,
+                        20
+                    ],
+                    // Transition from heatmap to circle layer by zoom level
+                    'heatmap-opacity': [
+                        'interpolate',
+                        ['linear'],
+                        ['zoom'],
+                        7,
+                        1,
+                        9,
+                        0
+                    ]
+                }
+            }
+        );
+
+        map.addLayer(
+            {
+                'id': 'destinations-circle',
+                'type': 'circle',
+                'source': 'destinations',
+                'minzoom': 5,
+                'paint': {
+                    // Size circle radius by count and zoom level
+                    'circle-radius': [
+                        'interpolate',
+                        ['linear'],
+                        ['zoom'],
+                        7,
+                        ['interpolate', ['linear'], ['get', 'count'], 1, 10, 8, 20],
+                        16,
+                        ['interpolate', ['linear'], ['get', 'count'], 1, 5, 6, 50]
+                    ],
+                    // Color circle by count
+                    'circle-color': [
+                        'interpolate',
+                        ['linear'],
+                        ['get', 'count'],
+                        1,
+                        'rgba(33,102,172,0)',
+                        2,
+                        'rgb(103,169,207)',
+                        3,
+                        'rgb(209,229,240)',
+                        4,
+                        'rgb(253,219,199)',
+                        5,
+                        'rgb(239,138,98)',
+                        6,
+                        'rgb(178,24,43)'
+                    ],
+                    'circle-stroke-color': 'white',
+                    'circle-stroke-width': 1,
+                    // Transition from heatmap to circle layer by zoom level
+                    'circle-opacity': [
+                        'interpolate',
+                        ['linear'],
+                        ['zoom'],
+                        5,
+                        0,
+                        6,
+                        1
+                    ]
+                }
+            }
+        );
+        map.on('click', 'destinations-circle', (e) => {
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const description = JSON.parse(e.features[0].properties.episodes).map(e => e.date).join('<br/>');
+
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            new mapboxgl.Popup()
+                .setLngLat(coordinates)
+                .setHTML('<h2>' + e.features[0].properties.name + '</h2><p>' + description + '</p>')
+                .addTo(map);
+        });
+    }
+
+
+    map.on('load', () => {
+        isMapLoaded = true;
+        initMapLayers();
+    });
+
+</script>
+</body>
+</html>

@@ -1,0 +1,7847 @@
+[
+  {
+    "date": "5 september 1987",
+    "locations": [
+      {
+        "name": "Borlänge",
+        "url": "https://sv.wikipedia.org/wiki/Borl%C3%A4nge",
+        "lat": 60.484304,
+        "lng": 15.433969
+      },
+      {
+        "name": "Lycksele",
+        "url": "https://sv.wikipedia.org/wiki/Lycksele",
+        "lat": 64.5958098,
+        "lng": 18.676367
+      },
+      {
+        "name": "Landskrona",
+        "url": "https://sv.wikipedia.org/wiki/Landskrona",
+        "lat": 55.8703477,
+        "lng": 12.8300802
+      }
+    ]
+  },
+  {
+    "date": "12 september 1987",
+    "locations": [
+      {
+        "name": "Söderhamn",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%B6derhamn",
+        "lat": 61.3055762,
+        "lng": 17.0628102
+      },
+      {
+        "name": "Norrköping",
+        "url": "https://sv.wikipedia.org/wiki/Norrk%C3%B6ping",
+        "lat": 58.587745,
+        "lng": 16.192421
+      },
+      {
+        "name": "Göteborg",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%B6teborg",
+        "lat": 57.70887,
+        "lng": 11.97456
+      }
+    ]
+  },
+  {
+    "date": "19 september 1987",
+    "locations": [
+      {
+        "name": "Halmstad",
+        "url": "https://sv.wikipedia.org/wiki/Halmstad",
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      },
+      {
+        "name": "Västervik",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4stervik",
+        "lat": 57.75771559999999,
+        "lng": 16.6369759
+      },
+      {
+        "name": "Trollhättan",
+        "url": "https://sv.wikipedia.org/wiki/Trollh%C3%A4ttan",
+        "lat": 58.28348939999999,
+        "lng": 12.2858206
+      }
+    ]
+  },
+  {
+    "date": "26 september 1987",
+    "locations": [
+      {
+        "name": "Kristianstad",
+        "url": "https://sv.wikipedia.org/wiki/Kristianstad",
+        "lat": 56.0293936,
+        "lng": 14.1566778
+      },
+      {
+        "name": "Karlstad",
+        "url": "https://sv.wikipedia.org/wiki/Karlstad",
+        "lat": 59.4021806,
+        "lng": 13.5114977
+      },
+      {
+        "name": "Enköping",
+        "url": "https://sv.wikipedia.org/wiki/Enk%C3%B6ping",
+        "lat": 59.63569090000001,
+        "lng": 17.0778228
+      }
+    ]
+  },
+  {
+    "date": "3 oktober 1987",
+    "locations": [
+      {
+        "name": "Umeå",
+        "url": "https://sv.wikipedia.org/wiki/Ume%C3%A5",
+        "lat": 63.8258471,
+        "lng": 20.2630354
+      },
+      {
+        "name": "Vetlanda",
+        "url": "https://sv.wikipedia.org/wiki/Vetlanda",
+        "lat": 57.42746,
+        "lng": 15.08533
+      },
+      {
+        "name": "Kiruna",
+        "url": "https://sv.wikipedia.org/wiki/Kiruna",
+        "lat": 67.8557995,
+        "lng": 20.2252821
+      }
+    ]
+  },
+  {
+    "date": "10 oktober 1987",
+    "locations": [
+      {
+        "name": "Västerås",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4ster%C3%A5s",
+        "lat": 59.60990049999999,
+        "lng": 16.5448091
+      },
+      {
+        "name": "Östersund",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96stersund",
+        "lat": 63.1766832,
+        "lng": 14.6360681
+      },
+      {
+        "name": "Skellefteå",
+        "url": "https://sv.wikipedia.org/wiki/Skellefte%C3%A5",
+        "lat": 64.750244,
+        "lng": 20.950917
+      }
+    ]
+  },
+  {
+    "date": "11 november 1988",
+    "locations": [
+      {
+        "name": "Helsingborg",
+        "url": "https://sv.wikipedia.org/wiki/Helsingborg",
+        "lat": 56.0464674,
+        "lng": 12.6945121
+      },
+      {
+        "name": "Arvika",
+        "url": "https://sv.wikipedia.org/wiki/Arvika",
+        "lat": 59.6548534,
+        "lng": 12.592136
+      },
+      {
+        "name": "Sundsvall",
+        "url": "https://sv.wikipedia.org/wiki/Sundsvall",
+        "lat": 62.390811,
+        "lng": 17.306927
+      }
+    ]
+  },
+  {
+    "date": "18 november 1988",
+    "locations": [
+      {
+        "name": "Arvidsjaur",
+        "url": "https://sv.wikipedia.org/wiki/Arvidsjaur",
+        "lat": 65.5920768,
+        "lng": 19.1802828
+      },
+      {
+        "name": "Jönköping",
+        "url": "https://sv.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping",
+        "lat": 57.78261370000001,
+        "lng": 14.1617876
+      },
+      {
+        "name": "Gävle",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%A4vle",
+        "lat": 60.6748796,
+        "lng": 17.1412726
+      }
+    ]
+  },
+  {
+    "date": "25 november 1988",
+    "locations": [
+      {
+        "name": "Varberg",
+        "url": "https://sv.wikipedia.org/wiki/Varberg",
+        "lat": 57.107118,
+        "lng": 12.2520907
+      },
+      {
+        "name": "Örebro",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rebro",
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      },
+      {
+        "name": "Haparanda",
+        "url": "https://sv.wikipedia.org/wiki/Haparanda",
+        "lat": 65.8417085,
+        "lng": 24.1276643
+      }
+    ]
+  },
+  {
+    "date": "2 december 1988",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      },
+      {
+        "name": "Borås",
+        "url": "https://sv.wikipedia.org/wiki/Bor%C3%A5s",
+        "lat": 57.72103500000001,
+        "lng": 12.939819
+      },
+      {
+        "name": "Luleå",
+        "url": "https://sv.wikipedia.org/wiki/Lule%C3%A5",
+        "lat": 65.584819,
+        "lng": 22.1567026
+      }
+    ]
+  },
+  {
+    "date": "9 december 1988",
+    "locations": [
+      {
+        "name": "Lund",
+        "url": "https://sv.wikipedia.org/wiki/Lund",
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Katrineholm",
+        "url": "https://sv.wikipedia.org/wiki/Katrineholm",
+        "lat": 58.99555109999999,
+        "lng": 16.2054756
+      },
+      {
+        "name": "Härnösand",
+        "url": "https://sv.wikipedia.org/wiki/H%C3%A4rn%C3%B6sand",
+        "lat": 62.6322698,
+        "lng": 17.9408714
+      }
+    ]
+  },
+  {
+    "date": "16 december 1988",
+    "locations": [
+      {
+        "name": "Uppsala",
+        "url": "https://sv.wikipedia.org/wiki/Uppsala",
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
+      },
+      {
+        "name": "Kalmar",
+        "url": "https://sv.wikipedia.org/wiki/Kalmar",
+        "lat": 56.6634447,
+        "lng": 16.356779
+      },
+      {
+        "name": "Strömstad",
+        "url": "https://sv.wikipedia.org/wiki/Str%C3%B6mstad",
+        "lat": 58.9383459,
+        "lng": 11.1791871
+      }
+    ]
+  },
+  {
+    "date": "23 februari 1990",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "2 mars 1990",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "9 mars 1990",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "16 mars 1990",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "23 mars 1990",
+    "locations": [
+      {
+        "name": "Hudiksvall",
+        "url": "https://sv.wikipedia.org/wiki/Hudiksvall",
+        "lat": 61.7273909,
+        "lng": 17.107401
+      },
+      {
+        "name": "Värnamo",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4rnamo",
+        "lat": 57.1831605,
+        "lng": 14.0478214
+      },
+      {
+        "name": "Linköping",
+        "url": "https://sv.wikipedia.org/wiki/Link%C3%B6ping",
+        "lat": 58.41080700000001,
+        "lng": 15.6213727
+      }
+    ]
+  },
+  {
+    "date": "30 mars 1990",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "6 april 1990",
+    "locations": [
+      {
+        "name": "Lidköping",
+        "url": "https://sv.wikipedia.org/wiki/Lidk%C3%B6ping",
+        "lat": 58.5035047,
+        "lng": 13.1570768
+      },
+      {
+        "name": "Boden",
+        "url": "https://sv.wikipedia.org/wiki/Boden",
+        "lat": 65.8251188,
+        "lng": 21.6887028
+      },
+      {
+        "name": "Falun",
+        "url": "https://sv.wikipedia.org/wiki/Falun",
+        "lat": 60.60646000000001,
+        "lng": 15.6355
+      }
+    ]
+  },
+  {
+    "date": "20 september 1991",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "27 september 1991",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "4 oktober 1991",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "11 oktober 1991",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "18 oktober 1991",
+    "locations": [
+      {
+        "name": "Sala",
+        "url": "https://sv.wikipedia.org/wiki/Sala",
+        "lat": 59.9208594,
+        "lng": 16.606328
+      },
+      {
+        "name": "Helsingör",
+        "url": "https://sv.wikipedia.org/wiki/Helsing%C3%B6r",
+        "lat": 56.030787,
+        "lng": 12.592127
+      },
+      {
+        "name": "Jokkmokk",
+        "url": "https://sv.wikipedia.org/wiki/Jokkmokk",
+        "lat": 66.60696089999999,
+        "lng": 19.8229206
+      }
+    ]
+  },
+  {
+    "date": "25 oktober 1991",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "1 november 1991",
+    "locations": [
+      {
+        "name": "Ludvika",
+        "url": "https://sv.wikipedia.org/wiki/Ludvika",
+        "lat": 60.152358,
+        "lng": 15.191639
+      },
+      {
+        "name": "Tammerfors",
+        "url": "https://sv.wikipedia.org/wiki/Tammerfors",
+        "lat": 61.4977524,
+        "lng": 23.7609535
+      },
+      {
+        "name": "Norrköping",
+        "url": "https://sv.wikipedia.org/wiki/Norrk%C3%B6ping",
+        "lat": 58.587745,
+        "lng": 16.192421
+      }
+    ]
+  },
+  {
+    "date": "3 september 1993",
+    "locations": [
+      {
+        "name": "Marstrand",
+        "url": "https://sv.wikipedia.org/wiki/Marstrand",
+        "lat": 57.8884502,
+        "lng": 11.5967453
+      },
+      {
+        "name": "Gällivare",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%A4llivare",
+        "lat": 67.1379,
+        "lng": 20.6593618
+      },
+      {
+        "name": "Köpenhamn",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      }
+    ]
+  },
+  {
+    "date": "10 september 1993",
+    "locations": [
+      {
+        "name": "Askersund",
+        "url": "https://sv.wikipedia.org/wiki/Askersund",
+        "lat": 58.88942679999999,
+        "lng": 14.9109867
+      },
+      {
+        "name": "Fredrikshamn",
+        "url": "https://sv.wikipedia.org/wiki/Frederikshavn",
+        "lat": 57.442711,
+        "lng": 10.521006
+      },
+      {
+        "name": "Karlshamn",
+        "url": "https://sv.wikipedia.org/wiki/Karlshamn",
+        "lat": 56.170303,
+        "lng": 14.863073
+      }
+    ]
+  },
+  {
+    "date": "17 september 1993",
+    "locations": [
+      {
+        "name": "Helsingfors",
+        "url": "https://sv.wikipedia.org/wiki/Helsingfors",
+        "lat": 60.16985569999999,
+        "lng": 24.938379
+      },
+      {
+        "name": "Höganäs",
+        "url": "https://sv.wikipedia.org/wiki/H%C3%B6gan%C3%A4s",
+        "lat": 56.2006388,
+        "lng": 12.5553288
+      },
+      {
+        "name": "Alingsås",
+        "url": "https://sv.wikipedia.org/wiki/Alings%C3%A5s",
+        "lat": 57.9300205,
+        "lng": 12.5362113
+      }
+    ]
+  },
+  {
+    "date": "24 september 1993",
+    "locations": [
+      {
+        "name": "Bollnäs",
+        "url": "https://sv.wikipedia.org/wiki/Bolln%C3%A4s",
+        "lat": 61.34837950000001,
+        "lng": 16.3942685
+      },
+      {
+        "name": "Falkenberg",
+        "url": "https://sv.wikipedia.org/wiki/Falkenberg",
+        "lat": 56.90273329999999,
+        "lng": 12.4888013
+      },
+      {
+        "name": "Bergen",
+        "url": "https://sv.wikipedia.org/wiki/Bergen",
+        "lat": 60.39126279999999,
+        "lng": 5.3220544
+      }
+    ]
+  },
+  {
+    "date": "1 oktober 1993",
+    "locations": [
+      {
+        "name": "Odense",
+        "url": "https://sv.wikipedia.org/wiki/Odense",
+        "lat": 55.40375599999999,
+        "lng": 10.40237
+      },
+      {
+        "name": "Ulricehamn",
+        "url": "https://sv.wikipedia.org/wiki/Ulricehamn",
+        "lat": 57.7947889,
+        "lng": 13.4205162
+      },
+      {
+        "name": "Karlskoga",
+        "url": "https://sv.wikipedia.org/wiki/Karlskoga",
+        "lat": 59.32863399999999,
+        "lng": 14.536414
+      }
+    ]
+  },
+  {
+    "date": "8 oktober 1993",
+    "locations": [
+      {
+        "name": "Solna",
+        "url": "https://sv.wikipedia.org/wiki/Solna_kommun",
+        "lat": 59.36887909999999,
+        "lng": 18.0084334
+      },
+      {
+        "name": "Skövde",
+        "url": "https://sv.wikipedia.org/wiki/Sk%C3%B6vde",
+        "lat": 58.3902782,
+        "lng": 13.8461208
+      },
+      {
+        "name": "Åbo",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85bo",
+        "lat": 60.4518126,
+        "lng": 22.2666303
+      }
+    ]
+  },
+  {
+    "date": "15 oktober 1993",
+    "locations": [
+      {
+        "name": "Leksand",
+        "url": "https://sv.wikipedia.org/wiki/Leksand",
+        "lat": 60.7303082,
+        "lng": 14.9998922
+      },
+      {
+        "name": "Norrtälje",
+        "url": "https://sv.wikipedia.org/wiki/Norrt%C3%A4lje",
+        "lat": 59.7595841,
+        "lng": 18.7013584
+      },
+      {
+        "name": "Sunne",
+        "url": "https://sv.wikipedia.org/wiki/Sunne",
+        "lat": 59.83655749999999,
+        "lng": 13.1440464
+      },
+      {
+        "name": "Vadstena",
+        "url": "https://sv.wikipedia.org/wiki/Vadstena",
+        "lat": 58.44760219999999,
+        "lng": 14.8902335
+      }
+    ]
+  },
+  {
+    "date": "13 januari 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "20 januari 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "27 januari 1995",
+    "locations": [
+      {
+        "name": "Sollefteå",
+        "url": "https://sv.wikipedia.org/wiki/Sollefte%C3%A5",
+        "lat": 63.1654065,
+        "lng": 17.277135
+      },
+      {
+        "name": "München",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%BCnchen",
+        "lat": 48.1351253,
+        "lng": 11.5819806
+      },
+      {
+        "name": "Edinburgh",
+        "url": "https://sv.wikipedia.org/wiki/Edinburgh",
+        "lat": 55.953252,
+        "lng": -3.188267
+      }
+    ]
+  },
+  {
+    "date": "3 februari 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "10 februari 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "17 februari 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "3 mars 1995",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "10 mars 1995",
+    "locations": [
+      {
+        "name": "Milano",
+        "url": "https://sv.wikipedia.org/wiki/Milano",
+        "lat": 45.4642035,
+        "lng": 9.189982
+      },
+      {
+        "name": "Mora",
+        "url": "https://sv.wikipedia.org/wiki/Mora",
+        "lat": 61.004878,
+        "lng": 14.537003
+      },
+      {
+        "name": "Salzburg",
+        "url": "https://sv.wikipedia.org/wiki/Salzburg",
+        "lat": 47.80949,
+        "lng": 13.05501
+      }
+    ]
+  },
+  {
+    "date": "30 augusti 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "6 september 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "13 september 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "20 september 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "27 september 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "4 oktober 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "11 oktober 1996",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "18 oktober 1996",
+    "locations": [
+      {
+        "name": "Linköping",
+        "url": "https://sv.wikipedia.org/wiki/Link%C3%B6ping",
+        "lat": 58.41080700000001,
+        "lng": 15.6213727
+      },
+      {
+        "name": "Madrid",
+        "url": "https://sv.wikipedia.org/wiki/Madrid",
+        "lat": 40.4167754,
+        "lng": -3.7037902
+      },
+      {
+        "name": "Wien",
+        "url": "https://sv.wikipedia.org/wiki/Wien",
+        "lat": 48.2081743,
+        "lng": 16.3738189
+      }
+    ]
+  },
+  {
+    "date": "5 september 1997",
+    "locations": [
+      {
+        "name": "London",
+        "url": "https://sv.wikipedia.org/wiki/London",
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      },
+      {
+        "name": "Umeå",
+        "url": "https://sv.wikipedia.org/wiki/Ume%C3%A5",
+        "lat": 63.8258471,
+        "lng": 20.2630354
+      },
+      {
+        "name": "Kivik",
+        "url": "https://sv.wikipedia.org/wiki/Kivik",
+        "lat": 55.685039,
+        "lng": 14.2265929
+      }
+    ]
+  },
+  {
+    "date": "12 september 1997",
+    "locations": [
+      {
+        "name": "Mariehamn",
+        "url": "https://sv.wikipedia.org/wiki/Mariehamn",
+        "lat": 60.0970945,
+        "lng": 19.9348339
+      },
+      {
+        "name": "Malmö",
+        "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
+        "lat": 55.604981,
+        "lng": 13.003822
+      },
+      {
+        "name": "San Marino",
+        "url": "https://sv.wikipedia.org/wiki/San_Marino",
+        "lat": 43.94236,
+        "lng": 12.457777
+      }
+    ]
+  },
+  {
+    "date": "19 september 1997",
+    "locations": [
+      {
+        "name": "Säffle",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%A4ffle",
+        "lat": 59.132661,
+        "lng": 12.930107
+      },
+      {
+        "name": "Narvik",
+        "url": "https://sv.wikipedia.org/wiki/Narvik",
+        "lat": 68.4384984,
+        "lng": 17.4272612
+      },
+      {
+        "name": "Monaco",
+        "url": "https://sv.wikipedia.org/wiki/Monaco",
+        "lat": 43.73841760000001,
+        "lng": 7.424615799999999
+      }
+    ]
+  },
+  {
+    "date": "26 september 1997",
+    "locations": [
+      {
+        "name": "Belfast",
+        "url": "https://sv.wikipedia.org/wiki/Belfast",
+        "lat": 54.59728500000001,
+        "lng": -5.93012
+      },
+      {
+        "name": "Falköping",
+        "url": "https://sv.wikipedia.org/wiki/Falk%C3%B6ping",
+        "lat": 58.17502899999999,
+        "lng": 13.553217
+      },
+      {
+        "name": "Palma de Mallorca",
+        "url": "https://sv.wikipedia.org/wiki/Palma_de_Mallorca",
+        "lat": 39.6013107,
+        "lng": 2.6387795
+      }
+    ]
+  },
+  {
+    "date": "3 oktober 1997",
+    "locations": [
+      {
+        "name": "Sevilla",
+        "url": "https://sv.wikipedia.org/wiki/Sevilla",
+        "lat": 37.3890924,
+        "lng": -5.9844589
+      },
+      {
+        "name": "Kumla",
+        "url": "https://sv.wikipedia.org/wiki/Kumla",
+        "lat": 59.12653590000001,
+        "lng": 15.1401053
+      },
+      {
+        "name": "Kraków",
+        "url": "https://sv.wikipedia.org/wiki/Krak%C3%B3w",
+        "lat": 50.06465009999999,
+        "lng": 19.9449799
+      }
+    ]
+  },
+  {
+    "date": "10 oktober 1997",
+    "locations": [
+      {
+        "name": "Brighton",
+        "url": "https://sv.wikipedia.org/wiki/Brighton",
+        "lat": 50.8229402,
+        "lng": -0.1362672
+      },
+      {
+        "name": "Vaxholm",
+        "url": "https://sv.wikipedia.org/wiki/Vaxholm",
+        "lat": 59.40329679999999,
+        "lng": 18.3263804
+      },
+      {
+        "name": "Strömstad",
+        "url": "https://sv.wikipedia.org/wiki/Str%C3%B6mstad",
+        "lat": 58.9383459,
+        "lng": 11.1791871
+      }
+    ]
+  },
+  {
+    "date": "17 oktober 1997",
+    "locations": [
+      {
+        "name": "Kramfors",
+        "url": "https://sv.wikipedia.org/wiki/Kramfors",
+        "lat": 62.9284332,
+        "lng": 17.7862947
+      },
+      {
+        "name": "Innsbruck",
+        "url": "https://sv.wikipedia.org/wiki/Innsbruck",
+        "lat": 47.2692124,
+        "lng": 11.4041024
+      },
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      }
+    ]
+  },
+  {
+    "date": "31 oktober 1997",
+    "locations": [
+      {
+        "name": "Köpenhamn",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      },
+      {
+        "name": "Vilhelmina",
+        "url": "https://sv.wikipedia.org/wiki/Vilhelmina_(t%C3%A4tort)",
+        "lat": 64.624471,
+        "lng": 16.655497
+      },
+      {
+        "name": "Istanbul",
+        "url": "https://sv.wikipedia.org/wiki/Istanbul",
+        "lat": 41.0082376,
+        "lng": 28.9783589
+      }
+    ]
+  },
+  {
+    "date": "7 november 1997",
+    "locations": [
+      {
+        "name": "Laholm",
+        "url": "https://sv.wikipedia.org/wiki/Laholm",
+        "lat": 56.50575569999999,
+        "lng": 13.0456048
+      },
+      {
+        "name": "Hamburg",
+        "url": "https://sv.wikipedia.org/wiki/Hamburg",
+        "lat": 53.5510846,
+        "lng": 9.9936818
+      },
+      {
+        "name": "Rom",
+        "url": "https://sv.wikipedia.org/wiki/Rom",
+        "lat": 41.9027835,
+        "lng": 12.4963655
+      }
+    ]
+  },
+  {
+    "date": "25 september 1998",
+    "locations": [
+      {
+        "name": "Nice",
+        "url": "https://sv.wikipedia.org/wiki/Nice",
+        "lat": 43.7101728,
+        "lng": 7.261953200000001
+      },
+      {
+        "name": "Båstad",
+        "url": "https://sv.wikipedia.org/wiki/B%C3%A5stad",
+        "lat": 56.4333027,
+        "lng": 12.8353785
+      },
+      {
+        "name": "Prag",
+        "url": "https://sv.wikipedia.org/wiki/Prag",
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      }
+    ]
+  },
+  {
+    "date": "2 oktober 1998",
+    "locations": [
+      {
+        "name": "Malaga",
+        "url": "https://sv.wikipedia.org/wiki/Malaga",
+        "lat": 36.721261,
+        "lng": -4.4212655
+      },
+      {
+        "name": "Sarajevo",
+        "url": "https://sv.wikipedia.org/wiki/Sarajevo",
+        "lat": 43.8562586,
+        "lng": 18.4130763
+      },
+      {
+        "name": "Örebro",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rebro",
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      }
+    ]
+  },
+  {
+    "date": "9 oktober 1998",
+    "locations": [
+      {
+        "name": "Bologna",
+        "url": "https://sv.wikipedia.org/wiki/Bologna",
+        "lat": 44.494887,
+        "lng": 11.3426163
+      },
+      {
+        "name": "Skellefteå",
+        "url": "https://sv.wikipedia.org/wiki/Skellefte%C3%A5",
+        "lat": 64.750244,
+        "lng": 20.950917
+      },
+      {
+        "name": "Glasgow",
+        "url": "https://sv.wikipedia.org/wiki/Glasgow",
+        "lat": 55.864237,
+        "lng": -4.251806
+      }
+    ]
+  },
+  {
+    "date": "16 oktober 1998",
+    "locations": [
+      {
+        "name": "Zürich",
+        "url": "https://sv.wikipedia.org/wiki/Z%C3%BCrich",
+        "lat": 47.3768866,
+        "lng": 8.541694
+      },
+      {
+        "name": "Lysekil",
+        "url": "https://sv.wikipedia.org/wiki/Lysekil",
+        "lat": 58.27557299999999,
+        "lng": 11.435558
+      },
+      {
+        "name": "Rovaniemi",
+        "url": "https://sv.wikipedia.org/wiki/Rovaniemi",
+        "lat": 66.50394779999999,
+        "lng": 25.7293905
+      }
+    ]
+  },
+  {
+    "date": "6 november 1998",
+    "locations": [
+      {
+        "name": "Palermo",
+        "url": "https://sv.wikipedia.org/wiki/Palermo",
+        "lat": 38.11569,
+        "lng": 13.3614868
+      },
+      {
+        "name": "Södertälje",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje",
+        "lat": 59.197762,
+        "lng": 17.6201942
+      },
+      {
+        "name": "Frankfurt am Main",
+        "url": "https://sv.wikipedia.org/wiki/Frankfurt_am_Main",
+        "lat": 50.1109221,
+        "lng": 8.6821267
+      }
+    ]
+  },
+  {
+    "date": "13 november 1998",
+    "locations": [
+      {
+        "name": "Trollhättan",
+        "url": "https://sv.wikipedia.org/wiki/Trollh%C3%A4ttan",
+        "lat": 58.28348939999999,
+        "lng": 12.2858206
+      },
+      {
+        "name": "Bilbao",
+        "url": "https://sv.wikipedia.org/wiki/Bilbao",
+        "lat": 43.2630126,
+        "lng": -2.9349852
+      },
+      {
+        "name": "Lillehammer",
+        "url": "https://sv.wikipedia.org/wiki/Lillehammer",
+        "lat": 61.1152713,
+        "lng": 10.4662306
+      }
+    ]
+  },
+  {
+    "date": "20 november 1998",
+    "locations": [
+      {
+        "name": "Hagfors",
+        "url": "https://sv.wikipedia.org/wiki/Hagfors",
+        "lat": 60.03437,
+        "lng": 13.694508
+      },
+      {
+        "name": "Cypern",
+        "url": "https://sv.wikipedia.org/wiki/Cypern",
+        "lat": 35.126413,
+        "lng": 33.429859
+      },
+      {
+        "name": "Birmingham",
+        "url": "https://sv.wikipedia.org/wiki/Birmingham",
+        "lat": 52.48624299999999,
+        "lng": -1.890401
+      }
+    ]
+  },
+  {
+    "date": "27 november 1998",
+    "locations": [
+      {
+        "name": "Fagersta",
+        "url": "https://sv.wikipedia.org/wiki/Fagersta",
+        "lat": 59.989144,
+        "lng": 15.8166418
+      },
+      {
+        "name": "Reykjavik",
+        "url": "https://sv.wikipedia.org/wiki/Reykjavik",
+        "lat": 64.146582,
+        "lng": -21.9426354
+      },
+      {
+        "name": "Halden",
+        "url": "https://sv.wikipedia.org/wiki/Halden",
+        "lat": 59.13299639999999,
+        "lng": 11.3874569
+      }
+    ]
+  },
+  {
+    "date": "4 december 1998",
+    "locations": [
+      {
+        "name": "Kreta",
+        "url": "https://sv.wikipedia.org/wiki/Kreta",
+        "lat": 35.240117,
+        "lng": 24.8092691
+      },
+      {
+        "name": "Hjo",
+        "url": "https://sv.wikipedia.org/wiki/Hjo",
+        "lat": 58.3070702,
+        "lng": 14.2874663
+      },
+      {
+        "name": "Antwerpen",
+        "url": "https://sv.wikipedia.org/wiki/Antwerpen",
+        "lat": 51.2213404,
+        "lng": 4.4051485
+      }
+    ]
+  },
+  {
+    "date": "24 september 1999",
+    "locations": [
+      {
+        "name": "Cardiff",
+        "url": "https://sv.wikipedia.org/wiki/Cardiff",
+        "lat": 51.483707,
+        "lng": -3.1680962
+      },
+      {
+        "name": "Nairobi",
+        "url": "https://sv.wikipedia.org/wiki/Nairobi",
+        "lat": -1.2920659,
+        "lng": 36.8219462
+      },
+      {
+        "name": "Sundsvall",
+        "url": "https://sv.wikipedia.org/wiki/Sundsvall",
+        "lat": 62.390811,
+        "lng": 17.306927
+      }
+    ]
+  },
+  {
+    "date": "1 oktober 1999",
+    "locations": [
+      {
+        "name": "Kairo",
+        "url": "https://sv.wikipedia.org/wiki/Kairo",
+        "lat": 30.0444196,
+        "lng": 31.2357116
+      },
+      {
+        "name": "Trelleborg",
+        "url": "https://sv.wikipedia.org/wiki/Trelleborg",
+        "lat": 55.3762427,
+        "lng": 13.1574231
+      },
+      {
+        "name": "Kalix",
+        "url": "https://sv.wikipedia.org/wiki/Kalix",
+        "lat": 65.8552807,
+        "lng": 23.143965
+      }
+    ]
+  },
+  {
+    "date": "8 oktober 1999",
+    "locations": [
+      {
+        "name": "Malung",
+        "url": "https://sv.wikipedia.org/wiki/Malung",
+        "lat": 60.686372,
+        "lng": 13.720966
+      },
+      {
+        "name": "Lübeck",
+        "url": "https://sv.wikipedia.org/wiki/L%C3%BCbeck",
+        "lat": 53.8654673,
+        "lng": 10.6865593
+      },
+      {
+        "name": "Jerusalem",
+        "url": "https://sv.wikipedia.org/wiki/Jerusalem",
+        "lat": 31.768319,
+        "lng": 35.21371
+      }
+    ]
+  },
+  {
+    "date": "15 oktober 1999",
+    "locations": [
+      {
+        "name": "Luxemburg",
+        "url": "https://sv.wikipedia.org/wiki/Luxemburg",
+        "lat": 49.61162100000001,
+        "lng": 6.131934599999999
+      },
+      {
+        "name": "Lund",
+        "url": "https://sv.wikipedia.org/wiki/Lund",
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Bukarest",
+        "url": "https://sv.wikipedia.org/wiki/Bukarest",
+        "lat": 44.4267674,
+        "lng": 26.1025384
+      }
+    ]
+  },
+  {
+    "date": "22 oktober 1999",
+    "locations": [
+      {
+        "name": "Oslo",
+        "url": "https://sv.wikipedia.org/wiki/Oslo",
+        "lat": 59.9138688,
+        "lng": 10.7522454
+      },
+      {
+        "name": "Borås",
+        "url": "https://sv.wikipedia.org/wiki/Bor%C3%A5s",
+        "lat": 57.72103500000001,
+        "lng": 12.939819
+      },
+      {
+        "name": "Moskva",
+        "url": "https://sv.wikipedia.org/wiki/Moskva",
+        "lat": 55.755826,
+        "lng": 37.6173
+      }
+    ]
+  },
+  {
+    "date": "29 oktober 1999",
+    "locations": [
+      {
+        "name": "Köping",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6ping",
+        "lat": 59.5120962,
+        "lng": 15.9945102
+      },
+      {
+        "name": "Bordeaux",
+        "url": "https://sv.wikipedia.org/wiki/Bordeaux",
+        "lat": 44.837789,
+        "lng": -0.57918
+      },
+      {
+        "name": "Sölvesborg",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%B6lvesborg",
+        "lat": 56.0537433,
+        "lng": 14.5796878
+      }
+    ]
+  },
+  {
+    "date": "5 november 1999",
+    "locations": [
+      {
+        "name": "Havanna",
+        "url": "https://sv.wikipedia.org/wiki/Havanna",
+        "lat": 23.1135925,
+        "lng": -82.3665956
+      },
+      {
+        "name": "Mölndal",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%B6lndal",
+        "lat": 57.65,
+        "lng": 12.016667
+      },
+      {
+        "name": "Helsingfors",
+        "url": "https://sv.wikipedia.org/wiki/Helsingfors",
+        "lat": 60.16985569999999,
+        "lng": 24.938379
+      }
+    ]
+  },
+  {
+    "date": "12 november 1999",
+    "locations": [
+      {
+        "name": "Montreal",
+        "url": "https://sv.wikipedia.org/wiki/Montreal",
+        "lat": 45.5018869,
+        "lng": -73.56739189999999
+      },
+      {
+        "name": "Rotterdam",
+        "url": "https://sv.wikipedia.org/wiki/Rotterdam",
+        "lat": 51.9244201,
+        "lng": 4.4777325
+      },
+      {
+        "name": "Visby",
+        "url": "https://sv.wikipedia.org/wiki/Visby",
+        "lat": 57.6348,
+        "lng": 18.29484
+      }
+    ]
+  },
+  {
+    "date": "19 november 1999",
+    "locations": [
+      {
+        "name": "New York",
+        "url": "https://sv.wikipedia.org/wiki/New_York",
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      },
+      {
+        "name": "Torshamn",
+        "url": "https://sv.wikipedia.org/wiki/Torshamn",
+        "lat": 62.01072479999999,
+        "lng": -6.7740852
+      },
+      {
+        "name": "Karlstad",
+        "url": "https://sv.wikipedia.org/wiki/Karlstad",
+        "lat": 59.4021806,
+        "lng": 13.5114977
+      }
+    ]
+  },
+  {
+    "date": "22 december 2000",
+    "locations": [
+      {
+        "name": "Neapel",
+        "url": null,
+        "lat": 40.8517746,
+        "lng": 14.2681244
+      },
+      {
+        "name": "Mexico City",
+        "url": null,
+        "lat": 19.4326077,
+        "lng": -99.133208
+      },
+      {
+        "name": "Älmhult",
+        "url": null,
+        "lat": 56.5524461,
+        "lng": 14.1374047
+      }
+    ]
+  },
+  {
+    "date": "29 december 2000",
+    "locations": [
+      {
+        "name": "Bangkok",
+        "url": null,
+        "lat": 13.7563309,
+        "lng": 100.5017651
+      },
+      {
+        "name": "Finspång",
+        "url": null,
+        "lat": 58.7074884,
+        "lng": 15.773595
+      },
+      {
+        "name": "Roskilde",
+        "url": null,
+        "lat": 55.64191,
+        "lng": 12.087845
+      }
+    ]
+  },
+  {
+    "date": "5 januari 2001",
+    "locations": [
+      {
+        "name": "Berlin",
+        "url": null,
+        "lat": 52.52000659999999,
+        "lng": 13.404954
+      },
+      {
+        "name": "Helsingborg",
+        "url": null,
+        "lat": 56.0464674,
+        "lng": 12.6945121
+      },
+      {
+        "name": "Kapstaden",
+        "url": null,
+        "lat": -33.9248685,
+        "lng": 18.4240553
+      }
+    ]
+  },
+  {
+    "date": "12 januari 2001",
+    "locations": [
+      {
+        "name": "Västerås",
+        "url": null,
+        "lat": 59.60990049999999,
+        "lng": 16.5448091
+      },
+      {
+        "name": "Lima",
+        "url": null,
+        "lat": -12.0463731,
+        "lng": -77.042754
+      },
+      {
+        "name": "Trondheim",
+        "url": null,
+        "lat": 63.4305149,
+        "lng": 10.3950528
+      }
+    ]
+  },
+  {
+    "date": "19 januari 2001",
+    "locations": [
+      {
+        "name": "Gävle",
+        "url": null,
+        "lat": 60.6748796,
+        "lng": 17.1412726
+      },
+      {
+        "name": "Plymouth",
+        "url": null,
+        "lat": 50.3754565,
+        "lng": -4.1426565
+      },
+      {
+        "name": "Bombay (Mumbai)",
+        "url": null,
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      }
+    ]
+  },
+  {
+    "date": "26 januari 2001",
+    "locations": [
+      {
+        "name": "Marrakech",
+        "url": null,
+        "lat": 31.6294723,
+        "lng": -7.981084500000001
+      },
+      {
+        "name": "Kalmar",
+        "url": null,
+        "lat": 56.6634447,
+        "lng": 16.356779
+      },
+      {
+        "name": "Tallinn",
+        "url": null,
+        "lat": 59.43696079999999,
+        "lng": 24.7535746
+      }
+    ]
+  },
+  {
+    "date": "2 februari 2001",
+    "locations": [
+      {
+        "name": "Ljusdal",
+        "url": null,
+        "lat": 61.8308392,
+        "lng": 16.0817501
+      },
+      {
+        "name": "Budapest",
+        "url": null,
+        "lat": 47.497912,
+        "lng": 19.040235
+      },
+      {
+        "name": "Tokyo",
+        "url": null,
+        "lat": 35.6761919,
+        "lng": 139.6503106
+      }
+    ]
+  },
+  {
+    "date": "9 februari 2001",
+    "locations": [
+      {
+        "name": "Sandviken",
+        "url": null,
+        "lat": 60.621607,
+        "lng": 16.775918
+      },
+      {
+        "name": "Buenos Aires",
+        "url": null,
+        "lat": -34.6036844,
+        "lng": -58.3815591
+      },
+      {
+        "name": "Las Palmas",
+        "url": null,
+        "lat": 28.1235459,
+        "lng": -15.4362574
+      }
+    ]
+  },
+  {
+    "date": "16 februari 2001",
+    "locations": [
+      {
+        "name": "Chicago",
+        "url": null,
+        "lat": 41.8781136,
+        "lng": -87.6297982
+      },
+      {
+        "name": "Kiruna",
+        "url": null,
+        "lat": 67.8557995,
+        "lng": 20.2252821
+      },
+      {
+        "name": "Paris",
+        "url": null,
+        "lat": 48.856614,
+        "lng": 2.3522219
+      }
+    ]
+  },
+  {
+    "date": "19 oktober 2001",
+    "locations": [
+      {
+        "name": "San Francisco",
+        "url": null,
+        "lat": 37.7749295,
+        "lng": -122.4194155
+      },
+      {
+        "name": "Piteå",
+        "url": null,
+        "lat": 65.316698,
+        "lng": 21.4800364
+      },
+      {
+        "name": "Vaduz",
+        "url": null,
+        "lat": 47.1410303,
+        "lng": 9.5209277
+      }
+    ]
+  },
+  {
+    "date": "26 oktober 2001",
+    "locations": [
+      {
+        "name": "Singapore",
+        "url": null,
+        "lat": 1.352083,
+        "lng": 103.819836
+      },
+      {
+        "name": "Nürnberg",
+        "url": null,
+        "lat": 49.4521018,
+        "lng": 11.0766654
+      },
+      {
+        "name": "Rättvik",
+        "url": null,
+        "lat": 60.889025,
+        "lng": 15.123373
+      }
+    ]
+  },
+  {
+    "date": "2 november 2001",
+    "locations": [
+      {
+        "name": "Verona",
+        "url": null,
+        "lat": 45.43838419999999,
+        "lng": 10.9916215
+      },
+      {
+        "name": "Oakland",
+        "url": null,
+        "lat": 37.8043514,
+        "lng": -122.2711639
+      },
+      {
+        "name": "Mjölby",
+        "url": null,
+        "lat": 58.3226908,
+        "lng": 15.1335348
+      }
+    ]
+  },
+  {
+    "date": "9 november 2001",
+    "locations": [
+      {
+        "name": "Hässleholm",
+        "url": null,
+        "lat": 56.15891449999999,
+        "lng": 13.7667655
+      },
+      {
+        "name": "Basel",
+        "url": null,
+        "lat": 47.5595986,
+        "lng": 7.5885761
+      },
+      {
+        "name": "Vancouver",
+        "url": null,
+        "lat": 49.2827291,
+        "lng": -123.1207375
+      }
+    ]
+  },
+  {
+    "date": "23 november 2001",
+    "locations": [
+      {
+        "name": "Huskvarna",
+        "url": null,
+        "lat": 57.7904141,
+        "lng": 14.2755781
+      },
+      {
+        "name": "Saigon",
+        "url": null,
+        "lat": 10.8230989,
+        "lng": 106.6296638
+      },
+      {
+        "name": "Bratislava",
+        "url": null,
+        "lat": 48.1485965,
+        "lng": 17.1077477
+      }
+    ]
+  },
+  {
+    "date": "30 november 2001",
+    "locations": [
+      {
+        "name": "Melbourne",
+        "url": null,
+        "lat": -37.8136276,
+        "lng": 144.9630576
+      },
+      {
+        "name": "Filipstad",
+        "url": null,
+        "lat": 59.7139973,
+        "lng": 14.1698445
+      },
+      {
+        "name": "Sofia",
+        "url": null,
+        "lat": 42.6977082,
+        "lng": 23.3218675
+      }
+    ]
+  },
+  {
+    "date": "7 december 2001",
+    "locations": [
+      {
+        "name": "Addis Abeba",
+        "url": null,
+        "lat": 8.9806034,
+        "lng": 38.7577605
+      },
+      {
+        "name": "Tromsø",
+        "url": null,
+        "lat": 69.6492047,
+        "lng": 18.9553238
+      },
+      {
+        "name": "Kungsbacka",
+        "url": null,
+        "lat": 57.48749189999999,
+        "lng": 12.0761927
+      }
+    ]
+  },
+  {
+    "date": "14 december 2001",
+    "locations": [
+      {
+        "name": "Aberdeen",
+        "url": null,
+        "lat": 57.1498891,
+        "lng": -2.0937528
+      },
+      {
+        "name": "Örnsköldsvik",
+        "url": null,
+        "lat": 63.29004740000001,
+        "lng": 18.7166166
+      },
+      {
+        "name": "Boston",
+        "url": null,
+        "lat": 42.3600825,
+        "lng": -71.0588801
+      }
+    ]
+  },
+  {
+    "date": "21 december 2001",
+    "locations": [
+      {
+        "name": "Peking",
+        "url": null,
+        "lat": 39.904211,
+        "lng": 116.407395
+      },
+      {
+        "name": "Thessaloniki",
+        "url": null,
+        "lat": 40.6400629,
+        "lng": 22.9444191
+      },
+      {
+        "name": "Torsby",
+        "url": null,
+        "lat": 60.14090719999999,
+        "lng": 13.0102132
+      }
+    ]
+  },
+  {
+    "date": "15 november 2002",
+    "locations": [
+      {
+        "name": "Rio de Janeiro",
+        "url": null,
+        "lat": -22.9068467,
+        "lng": -43.1728965
+      },
+      {
+        "name": "Sveg",
+        "url": null,
+        "lat": 62.0346245,
+        "lng": 14.3590366
+      },
+      {
+        "name": "Atlanta",
+        "url": null,
+        "lat": 33.748752,
+        "lng": -84.38768449999999
+      }
+    ]
+  },
+  {
+    "date": "22 november 2002",
+    "locations": [
+      {
+        "name": "Santiago de Chile",
+        "url": null,
+        "lat": -33.4488897,
+        "lng": -70.6692655
+      },
+      {
+        "name": "Borlänge",
+        "url": null,
+        "lat": 60.484304,
+        "lng": 15.433969
+      },
+      {
+        "name": "Gdansk",
+        "url": null,
+        "lat": 54.35202520000001,
+        "lng": 18.6466384
+      }
+    ]
+  },
+  {
+    "date": "29 november 2002",
+    "locations": [
+      {
+        "name": "Varberg",
+        "url": null,
+        "lat": 57.107118,
+        "lng": 12.2520907
+      },
+      {
+        "name": "Ålborg (Aalborg)",
+        "url": null,
+        "lat": 57.0488195,
+        "lng": 9.921747
+      },
+      {
+        "name": "Ankara",
+        "url": null,
+        "lat": 39.9333635,
+        "lng": 32.8597419
+      }
+    ]
+  },
+  {
+    "date": "6 december 2002",
+    "locations": [
+      {
+        "name": "Lyon",
+        "url": null,
+        "lat": 45.764043,
+        "lng": 4.835659
+      },
+      {
+        "name": "Madeira",
+        "url": null,
+        "lat": 32.76070740000001,
+        "lng": -16.9594723
+      },
+      {
+        "name": "Eskilstuna",
+        "url": null,
+        "lat": 59.37124859999999,
+        "lng": 16.5098045
+      }
+    ]
+  },
+  {
+    "date": "13 december 2002",
+    "locations": [
+      {
+        "name": "Washington D.C.",
+        "url": null,
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      {
+        "name": "Lidingö",
+        "url": null,
+        "lat": 59.36295999999999,
+        "lng": 18.1468
+      },
+      {
+        "name": "Köln",
+        "url": null,
+        "lat": 50.937531,
+        "lng": 6.9602786
+      }
+    ]
+  },
+  {
+    "date": "20 december 2002",
+    "locations": [
+      {
+        "name": "New Orleans",
+        "url": null,
+        "lat": 29.95106579999999,
+        "lng": -90.0715323
+      },
+      {
+        "name": "Pajala",
+        "url": null,
+        "lat": 67.21278199999999,
+        "lng": 23.367392
+      },
+      {
+        "name": "Skara",
+        "url": null,
+        "lat": 58.3860128,
+        "lng": 13.4393282
+      }
+    ]
+  },
+  {
+    "date": "27 december 2002",
+    "locations": [
+      {
+        "name": "Hong Kong",
+        "url": null,
+        "lat": 22.3193039,
+        "lng": 114.1693611
+      },
+      {
+        "name": "Kristianstad",
+        "url": null,
+        "lat": 56.0293936,
+        "lng": 14.1566778
+      },
+      {
+        "name": "Valencia",
+        "url": null,
+        "lat": 39.4699075,
+        "lng": -0.3762881
+      }
+    ]
+  },
+  {
+    "date": "3 januari 2003",
+    "locations": [
+      {
+        "name": "Newcastle",
+        "url": null,
+        "lat": 54.21614,
+        "lng": -5.8920445
+      },
+      {
+        "name": "Hultsfred",
+        "url": null,
+        "lat": 57.49484,
+        "lng": 15.8416513
+      },
+      {
+        "name": "Jakarta",
+        "url": null,
+        "lat": -6.2087634,
+        "lng": 106.845599
+      }
+    ]
+  },
+  {
+    "date": "10 januari 2003",
+    "locations": [
+      {
+        "name": "Milano",
+        "url": null,
+        "lat": 45.4642035,
+        "lng": 9.189982
+      },
+      {
+        "name": "Nässjö",
+        "url": null,
+        "lat": 57.65303549999999,
+        "lng": 14.6967247
+      },
+      {
+        "name": "Seoul (Söul)",
+        "url": null,
+        "lat": 37.566535,
+        "lng": 126.9779692
+      }
+    ]
+  },
+  {
+    "date": "14 november 2003",
+    "locations": [
+      {
+        "name": "Los Angeles",
+        "url": null,
+        "lat": 34.0522342,
+        "lng": -118.2436849
+      },
+      {
+        "name": "Florens",
+        "url": null,
+        "lat": 43.7695604,
+        "lng": 11.2558136
+      },
+      {
+        "name": "Hedemora",
+        "url": null,
+        "lat": 60.2775453,
+        "lng": 15.985892
+      }
+    ]
+  },
+  {
+    "date": "21 november 2003",
+    "locations": [
+      {
+        "name": "Toronto",
+        "url": null,
+        "lat": 43.653226,
+        "lng": -79.3831843
+      },
+      {
+        "name": "Aten",
+        "url": null,
+        "lat": 37.9838096,
+        "lng": 23.7275388
+      },
+      {
+        "name": "Åre",
+        "url": null,
+        "lat": 63.3990428,
+        "lng": 13.0815059
+      }
+    ]
+  },
+  {
+    "date": "28 november 2003",
+    "locations": [
+      {
+        "name": "Shanghai",
+        "url": null,
+        "lat": 31.230416,
+        "lng": 121.473701
+      },
+      {
+        "name": "Ängelholm",
+        "url": null,
+        "lat": 56.245748,
+        "lng": 12.863881
+      },
+      {
+        "name": "Porto",
+        "url": null,
+        "lat": 41.1579438,
+        "lng": -8.629105299999999
+      }
+    ]
+  },
+  {
+    "date": "5 december 2003",
+    "locations": [
+      {
+        "name": "Haag",
+        "url": null,
+        "lat": 52.0704978,
+        "lng": 4.3006999
+      },
+      {
+        "name": "Tunis",
+        "url": null,
+        "lat": 36.8064948,
+        "lng": 10.1815316
+      },
+      {
+        "name": "Ljungby",
+        "url": null,
+        "lat": 56.8338774,
+        "lng": 13.9410417
+      }
+    ]
+  },
+  {
+    "date": "12 december 2003",
+    "locations": [
+      {
+        "name": "New Delhi",
+        "url": null,
+        "lat": 28.6139391,
+        "lng": 77.2090212
+      },
+      {
+        "name": "Haparanda",
+        "url": null,
+        "lat": 65.8417085,
+        "lng": 24.1276643
+      },
+      {
+        "name": "Stuttgart",
+        "url": null,
+        "lat": 48.7758459,
+        "lng": 9.1829321
+      }
+    ]
+  },
+  {
+    "date": "19 december 2003",
+    "locations": [
+      {
+        "name": "Dar es Salaam",
+        "url": null,
+        "lat": -6.792354,
+        "lng": 39.2083284
+      },
+      {
+        "name": "Odessa",
+        "url": null,
+        "lat": 31.8456816,
+        "lng": -102.3676431
+      },
+      {
+        "name": "Emmaboda",
+        "url": null,
+        "lat": 56.63068550000001,
+        "lng": 15.540006
+      }
+    ]
+  },
+  {
+    "date": "26 december 2003",
+    "locations": [
+      {
+        "name": "Dover",
+        "url": null,
+        "lat": 51.1278758,
+        "lng": 1.3134027
+      },
+      {
+        "name": "Alexandria",
+        "url": null,
+        "lat": 31.2000924,
+        "lng": 29.9187387
+      },
+      {
+        "name": "Trosa",
+        "url": null,
+        "lat": 58.902655,
+        "lng": 17.5494638
+      }
+    ]
+  },
+  {
+    "date": "2 januari 2004",
+    "locations": [
+      {
+        "name": "Kingston",
+        "url": null,
+        "lat": 18.0178743,
+        "lng": -76.8099041
+      },
+      {
+        "name": "Stavanger",
+        "url": null,
+        "lat": 58.9699756,
+        "lng": 5.7331073
+      },
+      {
+        "name": "Motala",
+        "url": null,
+        "lat": 58.5380335,
+        "lng": 15.0470936
+      }
+    ]
+  },
+  {
+    "date": "9 januari 2004",
+    "locations": [
+      {
+        "name": "Dallas",
+        "url": null,
+        "lat": 32.7766642,
+        "lng": -96.79698789999999
+      },
+      {
+        "name": "Granada",
+        "url": null,
+        "lat": 37.1774605,
+        "lng": -3.5984368
+      },
+      {
+        "name": "Göteborg",
+        "url": null,
+        "lat": 57.70887,
+        "lng": 11.97456
+      }
+    ]
+  },
+  {
+    "date": "19 november 2004",
+    "locations": [
+      {
+        "name": "Kuala Lumpur",
+        "url": null,
+        "lat": 3.139003,
+        "lng": 101.686855
+      },
+      {
+        "name": "London",
+        "url": null,
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      },
+      {
+        "name": "Söderhamn",
+        "url": null,
+        "lat": 61.3055762,
+        "lng": 17.0628102
+      }
+    ]
+  },
+  {
+    "date": "26 november 2004",
+    "locations": [
+      {
+        "name": "Miami",
+        "url": null,
+        "lat": 25.7616798,
+        "lng": -80.1917902
+      },
+      {
+        "name": "Turin",
+        "url": null,
+        "lat": 45.070312,
+        "lng": 7.686856499999999
+      },
+      {
+        "name": "Lidköping",
+        "url": null,
+        "lat": 58.5035047,
+        "lng": 13.1570768
+      }
+    ]
+  },
+  {
+    "date": "3 december 2004",
+    "locations": [
+      {
+        "name": "Honolulu",
+        "url": null,
+        "lat": 21.3098845,
+        "lng": -157.8581401
+      },
+      {
+        "name": "Gibraltar",
+        "url": null,
+        "lat": 36.140751,
+        "lng": -5.353585
+      },
+      {
+        "name": "Arvidsjaur",
+        "url": null,
+        "lat": 65.5920768,
+        "lng": 19.1802828
+      }
+    ]
+  },
+  {
+    "date": "10 december 2004",
+    "locations": [
+      {
+        "name": "Detroit",
+        "url": null,
+        "lat": 42.331427,
+        "lng": -83.0457538
+      },
+      {
+        "name": "York",
+        "url": null,
+        "lat": 53.9614205,
+        "lng": -1.0739108
+      },
+      {
+        "name": "Eslöv",
+        "url": null,
+        "lat": 55.8391198,
+        "lng": 13.3033914
+      }
+    ]
+  },
+  {
+    "date": "17 december 2004",
+    "locations": [
+      {
+        "name": "Dubai",
+        "url": null,
+        "lat": 25.2048493,
+        "lng": 55.2707828
+      },
+      {
+        "name": "Västervik",
+        "url": null,
+        "lat": 57.75771559999999,
+        "lng": 16.6369759
+      },
+      {
+        "name": "Zagreb",
+        "url": null,
+        "lat": 45.8150108,
+        "lng": 15.981919
+      }
+    ]
+  },
+  {
+    "date": "31 december 2004",
+    "locations": [
+      {
+        "name": "Sydney",
+        "url": null,
+        "lat": -33.8688197,
+        "lng": 151.2092955
+      },
+      {
+        "name": "Hammerfest",
+        "url": null,
+        "lat": 70.66343820000002,
+        "lng": 23.6819665
+      },
+      {
+        "name": "Mariefred",
+        "url": null,
+        "lat": 59.26203809999999,
+        "lng": 17.22311
+      }
+    ]
+  },
+  {
+    "date": "7 januari 2005",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "14 januari 2005",
+    "locations": [
+      {
+        "name": "Phnom Penh",
+        "url": null,
+        "lat": 11.5563738,
+        "lng": 104.9282099
+      },
+      {
+        "name": "Vilnius",
+        "url": null,
+        "lat": 54.6871555,
+        "lng": 25.2796514
+      },
+      {
+        "name": "Nora",
+        "url": null,
+        "lat": 59.51920639999999,
+        "lng": 15.0378667
+      }
+    ]
+  },
+  {
+    "date": "21 januari 2005",
+    "locations": [
+      {
+        "name": "Cannes",
+        "url": null,
+        "lat": 43.552847,
+        "lng": 7.017369
+      },
+      {
+        "name": "Härnösand",
+        "url": null,
+        "lat": 62.6322698,
+        "lng": 17.9408714
+      },
+      {
+        "name": "Beirut",
+        "url": null,
+        "lat": 33.8937913,
+        "lng": 35.5017767
+      }
+    ]
+  },
+  {
+    "date": "12 november 2005",
+    "locations": [
+      {
+        "name": "Istanbul",
+        "url": null,
+        "lat": 41.0082376,
+        "lng": 28.9783589
+      },
+      {
+        "name": "Ystad",
+        "url": null,
+        "lat": 55.4295051,
+        "lng": 13.8200308
+      },
+      {
+        "name": "Philadelphia",
+        "url": null,
+        "lat": 39.9525839,
+        "lng": -75.1652215
+      }
+    ]
+  },
+  {
+    "date": "19 november 2005",
+    "locations": [
+      {
+        "name": "Borgholm",
+        "url": null,
+        "lat": 56.88022969999999,
+        "lng": 16.6562355
+      },
+      {
+        "name": "Arvika",
+        "url": null,
+        "lat": 59.6548534,
+        "lng": 12.592136
+      },
+      {
+        "name": "Madrid",
+        "url": null,
+        "lat": 40.4167754,
+        "lng": -3.7037902
+      }
+    ]
+  },
+  {
+    "date": "3 december 2005",
+    "locations": [
+      {
+        "name": "Hudiksvall",
+        "url": null,
+        "lat": 61.7273909,
+        "lng": 17.107401
+      },
+      {
+        "name": "Manila",
+        "url": null,
+        "lat": 14.5995124,
+        "lng": 120.9842195
+      },
+      {
+        "name": "Bern",
+        "url": null,
+        "lat": 46.9479739,
+        "lng": 7.4474468
+      }
+    ]
+  },
+  {
+    "date": "10 december 2005",
+    "locations": [
+      {
+        "name": "Åmål",
+        "url": null,
+        "lat": 59.05111699999999,
+        "lng": 12.6977323
+      },
+      {
+        "name": "Kyoto",
+        "url": null,
+        "lat": 35.011564,
+        "lng": 135.7681489
+      },
+      {
+        "name": "Växjö",
+        "url": null,
+        "lat": 56.8790044,
+        "lng": 14.8058522
+      }
+    ]
+  },
+  {
+    "date": "17 december 2005",
+    "locations": [
+      {
+        "name": "Calcutta",
+        "url": null,
+        "lat": 22.572646,
+        "lng": 88.36389500000001
+      },
+      {
+        "name": "Skövde",
+        "url": null,
+        "lat": 58.3902782,
+        "lng": 13.8461208
+      },
+      {
+        "name": "Bergen",
+        "url": null,
+        "lat": 60.39126279999999,
+        "lng": 5.3220544
+      }
+    ]
+  },
+  {
+    "date": "24 december 2005",
+    "locations": [
+      {
+        "name": "Odense",
+        "url": null,
+        "lat": 55.40375599999999,
+        "lng": 10.40237
+      },
+      {
+        "name": "Vänersborg",
+        "url": null,
+        "lat": 58.3797283,
+        "lng": 12.3248032
+      },
+      {
+        "name": "Las Vegas",
+        "url": null,
+        "lat": 36.171563,
+        "lng": -115.1391009
+      }
+    ]
+  },
+  {
+    "date": "31 december 2005",
+    "locations": [
+      {
+        "name": "Alger",
+        "url": null,
+        "lat": 36.753768,
+        "lng": 3.0587561
+      },
+      {
+        "name": "Vadstena",
+        "url": null,
+        "lat": 58.44760219999999,
+        "lng": 14.8902335
+      },
+      {
+        "name": "Wien",
+        "url": null,
+        "lat": 48.2081743,
+        "lng": 16.3738189
+      }
+    ]
+  },
+  {
+    "date": "7 januari 2006",
+    "locations": [
+      {
+        "name": "Landskrona",
+        "url": null,
+        "lat": 55.8703477,
+        "lng": 12.8300802
+      },
+      {
+        "name": "Boden",
+        "url": null,
+        "lat": 65.8251188,
+        "lng": 21.6887028
+      },
+      {
+        "name": "Marseille",
+        "url": null,
+        "lat": 43.296482,
+        "lng": 5.36978
+      }
+    ]
+  },
+  {
+    "date": "14 januari 2006",
+    "locations": [
+      {
+        "name": "Sigtuna",
+        "url": null,
+        "lat": 59.6191463,
+        "lng": 17.7234191
+      },
+      {
+        "name": "München",
+        "url": null,
+        "lat": 48.1351253,
+        "lng": 11.5819806
+      },
+      {
+        "name": "Halmstad",
+        "url": null,
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      }
+    ]
+  },
+  {
+    "date": "21 januari 2006",
+    "locations": [
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      },
+      {
+        "name": "?",
+        "url": null
+      }
+    ]
+  },
+  {
+    "date": "28 januari 2006",
+    "locations": [
+      {
+        "name": "Riga",
+        "url": null,
+        "lat": 56.9676941,
+        "lng": 24.1056221
+      },
+      {
+        "name": "Karlskrona",
+        "url": null,
+        "lat": 56.161224,
+        "lng": 15.5869
+      },
+      {
+        "name": "Seattle",
+        "url": null,
+        "lat": 47.6062095,
+        "lng": -122.3320708
+      }
+    ]
+  },
+  {
+    "date": "4 februari 2006",
+    "locations": [
+      {
+        "name": "Bryssel",
+        "url": null,
+        "lat": 50.8476424,
+        "lng": 4.3571696
+      },
+      {
+        "name": "Nyköping",
+        "url": null,
+        "lat": 58.75284389999999,
+        "lng": 17.0091593
+      },
+      {
+        "name": "Ludvika",
+        "url": null,
+        "lat": 60.152358,
+        "lng": 15.191639
+      }
+    ]
+  },
+  {
+    "date": "11 februari 2006",
+    "locations": [
+      {
+        "name": "Lycksele",
+        "url": null,
+        "lat": 64.5958098,
+        "lng": 18.676367
+      },
+      {
+        "name": "Damaskus",
+        "url": null,
+        "lat": 33.5138073,
+        "lng": 36.2765279
+      },
+      {
+        "name": "Rom",
+        "url": null,
+        "lat": 41.9027835,
+        "lng": 12.4963655
+      }
+    ]
+  },
+  {
+    "date": "28 oktober 2006",
+    "locations": [
+      {
+        "name": "Sunne",
+        "url": null,
+        "lat": 59.83655749999999,
+        "lng": 13.1440464
+      },
+      {
+        "name": "Salzburg",
+        "url": null,
+        "lat": 47.80949,
+        "lng": 13.05501
+      },
+      {
+        "name": "Kairo",
+        "url": null,
+        "lat": 30.0444196,
+        "lng": 31.2357116
+      }
+    ]
+  },
+  {
+    "date": "4 november 2006",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "url": null,
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      },
+      {
+        "name": "Avesta",
+        "url": null,
+        "lat": 60.14532999999999,
+        "lng": 16.1738399
+      },
+      {
+        "name": "Dublin",
+        "url": null,
+        "lat": 53.3498053,
+        "lng": -6.2603097
+      }
+    ]
+  },
+  {
+    "date": "11 november 2006",
+    "locations": [
+      {
+        "name": "Simrishamn",
+        "url": null,
+        "lat": 55.5573959,
+        "lng": 14.3489651
+      },
+      {
+        "name": "Warszawa",
+        "url": null,
+        "lat": 52.2296756,
+        "lng": 21.0122287
+      },
+      {
+        "name": "Sandviken",
+        "url": null,
+        "lat": 60.621607,
+        "lng": 16.775918
+      }
+    ]
+  },
+  {
+    "date": "18 november 2006",
+    "locations": [
+      {
+        "name": "Mora",
+        "url": null,
+        "lat": 61.004878,
+        "lng": 14.537003
+      },
+      {
+        "name": "Montreal",
+        "url": null,
+        "lat": 45.5018869,
+        "lng": -73.56739189999999
+      },
+      {
+        "name": "Jerusalem",
+        "url": null,
+        "lat": 31.768319,
+        "lng": 35.21371
+      }
+    ]
+  },
+  {
+    "date": "2 december 2006",
+    "locations": [
+      {
+        "name": "Falkenberg",
+        "url": null,
+        "lat": 56.90273329999999,
+        "lng": 12.4888013
+      },
+      {
+        "name": "Bodø",
+        "url": null,
+        "lat": 67.2803556,
+        "lng": 14.404916
+      },
+      {
+        "name": "Venedig",
+        "url": null,
+        "lat": 45.4408474,
+        "lng": 12.3155151
+      }
+    ]
+  },
+  {
+    "date": "9 december 2006",
+    "locations": [
+      {
+        "name": "Vimmerby",
+        "url": null,
+        "lat": 57.6690339,
+        "lng": 15.858857
+      },
+      {
+        "name": "Karlskoga",
+        "url": null,
+        "lat": 59.32863399999999,
+        "lng": 14.536414
+      },
+      {
+        "name": "Barcelona",
+        "url": null,
+        "lat": 41.3873974,
+        "lng": 2.168568
+      }
+    ]
+  },
+  {
+    "date": "16 december 2006",
+    "locations": [
+      {
+        "name": "Havanna",
+        "url": null,
+        "lat": 23.1135925,
+        "lng": -82.3665956
+      },
+      {
+        "name": "Norrtälje",
+        "url": null,
+        "lat": 59.7595841,
+        "lng": 18.7013584
+      },
+      {
+        "name": "Hamburg",
+        "url": null,
+        "lat": 53.5510846,
+        "lng": 9.9936818
+      }
+    ]
+  },
+  {
+    "date": "23 december 2006",
+    "locations": [
+      {
+        "name": "Tranås",
+        "url": null,
+        "lat": 58.035518,
+        "lng": 14.975696
+      },
+      {
+        "name": "Reykjavik",
+        "url": null,
+        "lat": 64.146582,
+        "lng": -21.9426354
+      },
+      {
+        "name": "Karlshamn",
+        "url": null,
+        "lat": 56.170303,
+        "lng": 14.863073
+      }
+    ]
+  },
+  {
+    "date": "30 december 2006",
+    "locations": [
+      {
+        "name": "New York",
+        "url": null,
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      },
+      {
+        "name": "Enköping",
+        "url": null,
+        "lat": 59.63569090000001,
+        "lng": 17.0778228
+      },
+      {
+        "name": "Lissabon",
+        "url": null,
+        "lat": 38.7222524,
+        "lng": -9.1393366
+      }
+    ]
+  },
+  {
+    "date": "6 januari 2007",
+    "locations": [
+      {
+        "name": "Vetlanda",
+        "url": null,
+        "lat": 57.42746,
+        "lng": 15.08533
+      },
+      {
+        "name": "Monaco/Monte Carlo",
+        "url": null,
+        "lat": 43.7400718,
+        "lng": 7.426643599999999
+      },
+      {
+        "name": "Uddevalla",
+        "url": null,
+        "lat": 58.3498003,
+        "lng": 11.935649
+      }
+    ]
+  },
+  {
+    "date": "13 januari 2007",
+    "locations": [
+      {
+        "name": "Mariestad",
+        "url": null,
+        "lat": 58.7101119,
+        "lng": 13.8213327
+      },
+      {
+        "name": "Sankt Petersburg",
+        "url": null,
+        "lat": 59.9310584,
+        "lng": 30.3609097
+      },
+      {
+        "name": "Heraklion",
+        "url": null,
+        "lat": 35.3387352,
+        "lng": 25.1442126
+      }
+    ]
+  },
+  {
+    "date": "20 januari 2007",
+    "locations": [
+      {
+        "name": "Palma de Mallorca",
+        "url": null,
+        "lat": 39.6013107,
+        "lng": 2.6387795
+      },
+      {
+        "name": "Piteå",
+        "url": null,
+        "lat": 65.316698,
+        "lng": 21.4800364
+      },
+      {
+        "name": "Arboga",
+        "url": null,
+        "lat": 59.39368829999999,
+        "lng": 15.8381747
+      }
+    ]
+  },
+  {
+    "date": "27 januari 2007",
+    "locations": [
+      {
+        "name": "Bollnäs",
+        "url": null,
+        "lat": 61.34837950000001,
+        "lng": 16.3942685
+      },
+      {
+        "name": "Marstrand",
+        "url": null,
+        "lat": 57.8884502,
+        "lng": 11.5967453
+      },
+      {
+        "name": "Liverpool",
+        "url": null,
+        "lat": 53.4083714,
+        "lng": -2.9915726
+      }
+    ]
+  },
+  {
+    "date": "30 november 2007",
+    "locations": [
+      {
+        "name": "Marrakech",
+        "url": null,
+        "lat": 31.6294723,
+        "lng": -7.981084500000001
+      },
+      {
+        "name": "Amsterdam",
+        "url": null,
+        "lat": 52.3675734,
+        "lng": 4.9041389
+      },
+      {
+        "name": "Gävle",
+        "url": null,
+        "lat": 60.6748796,
+        "lng": 17.1412726
+      }
+    ]
+  },
+  {
+    "date": "7 december 2007",
+    "locations": [
+      {
+        "name": "Kalmar",
+        "url": null,
+        "lat": 56.6634447,
+        "lng": 16.356779
+      },
+      {
+        "name": "San Francisco",
+        "url": null,
+        "lat": 37.7749295,
+        "lng": -122.4194155
+      },
+      {
+        "name": "Umeå",
+        "url": null,
+        "lat": 63.8258471,
+        "lng": 20.2630354
+      }
+    ]
+  },
+  {
+    "date": "14 december 2007",
+    "locations": [
+      {
+        "name": "Linköping",
+        "url": null,
+        "lat": 58.41080700000001,
+        "lng": 15.6213727
+      },
+      {
+        "name": "Luxemburg",
+        "url": null,
+        "lat": 49.815273,
+        "lng": 6.129582999999999
+      },
+      {
+        "name": "Washington DC",
+        "url": null,
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      }
+    ]
+  },
+  {
+    "date": "21 december 2007",
+    "locations": [
+      {
+        "name": "Moskva",
+        "url": null,
+        "lat": 55.755826,
+        "lng": 37.6173
+      },
+      {
+        "name": "Lund",
+        "url": null,
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Oslo",
+        "url": null,
+        "lat": 59.9138688,
+        "lng": 10.7522454
+      }
+    ]
+  },
+  {
+    "date": "28 december 2007",
+    "locations": [
+      {
+        "name": "Köpenhamn",
+        "url": null,
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      },
+      {
+        "name": "Kingston",
+        "url": null,
+        "lat": 18.0178743,
+        "lng": -76.8099041
+      },
+      {
+        "name": "Östersund",
+        "url": null,
+        "lat": 63.1766832,
+        "lng": 14.6360681
+      }
+    ]
+  },
+  {
+    "date": "4 januari 2008",
+    "locations": [
+      {
+        "name": "Paris",
+        "url": null,
+        "lat": 48.856614,
+        "lng": 2.3522219
+      },
+      {
+        "name": "Örebro",
+        "url": null,
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      },
+      {
+        "name": "Milano",
+        "url": null,
+        "lat": 45.4642035,
+        "lng": 9.189982
+      }
+    ]
+  },
+  {
+    "date": "11 januari 2008",
+    "locations": [
+      {
+        "name": "Karlstad",
+        "url": null,
+        "lat": 59.4021806,
+        "lng": 13.5114977
+      },
+      {
+        "name": "Helsingfors",
+        "url": null,
+        "lat": 60.16985569999999,
+        "lng": 24.938379
+      },
+      {
+        "name": "Nairobi",
+        "url": null,
+        "lat": -1.2920659,
+        "lng": 36.8219462
+      }
+    ]
+  },
+  {
+    "date": "18 januari 2008",
+    "locations": [
+      {
+        "name": "Malmö",
+        "url": null,
+        "lat": 55.604981,
+        "lng": 13.003822
+      },
+      {
+        "name": "Newcastle",
+        "url": null,
+        "lat": 54.21614,
+        "lng": -5.8920445
+      },
+      {
+        "name": "Rio de Janeiro",
+        "url": null,
+        "lat": -22.9068467,
+        "lng": -43.1728965
+      }
+    ]
+  },
+  {
+    "date": "25 januari 2008",
+    "locations": [
+      {
+        "name": "Budapest",
+        "url": null,
+        "lat": 47.497912,
+        "lng": 19.040235
+      },
+      {
+        "name": "Luleå",
+        "url": null,
+        "lat": 65.584819,
+        "lng": 22.1567026
+      },
+      {
+        "name": "Dubai",
+        "url": null,
+        "lat": 25.2048493,
+        "lng": 55.2707828
+      }
+    ]
+  },
+  {
+    "date": "1 februari 2008",
+    "locations": [
+      {
+        "name": "Uppsala",
+        "url": null,
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
+      },
+      {
+        "name": "Visby",
+        "url": null,
+        "lat": 57.6348,
+        "lng": 18.29484
+      },
+      {
+        "name": "Quebec",
+        "url": null,
+        "lat": 46.8130816,
+        "lng": -71.20745959999999
+      }
+    ]
+  },
+  {
+    "date": "8 februari 2008",
+    "locations": [
+      {
+        "name": "Santiago de Chile",
+        "url": null,
+        "lat": -33.4488897,
+        "lng": -70.6692655
+      },
+      {
+        "name": "Tallinn",
+        "url": null,
+        "lat": 59.43696079999999,
+        "lng": 24.7535746
+      },
+      {
+        "name": "Jönköping",
+        "url": null,
+        "lat": 57.78261370000001,
+        "lng": 14.1617876
+      }
+    ]
+  },
+  {
+    "date": "15 februari 2008",
+    "locations": [
+      {
+        "name": "Prag",
+        "url": null,
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      },
+      {
+        "name": "Skellefteå",
+        "url": null,
+        "lat": 64.750244,
+        "lng": 20.950917
+      },
+      {
+        "name": "Valencia",
+        "url": null,
+        "lat": 39.4699075,
+        "lng": -0.3762881
+      }
+    ]
+  },
+  {
+    "date": "22 februari 2008",
+    "locations": [
+      {
+        "name": "Mexico City",
+        "url": null,
+        "lat": 19.4326077,
+        "lng": -99.133208
+      },
+      {
+        "name": "Krakow",
+        "url": null,
+        "lat": 50.06465009999999,
+        "lng": 19.9449799
+      },
+      {
+        "name": "Båstad",
+        "url": null,
+        "lat": 56.4333027,
+        "lng": 12.8353785
+      }
+    ]
+  },
+  {
+    "date": "28 november 2008",
+    "locations": [
+      {
+        "name": "Valletta",
+        "url": null,
+        "lat": 35.8989085,
+        "lng": 14.5145528
+      },
+      {
+        "name": "Wellington",
+        "url": null,
+        "lat": -41.2923814,
+        "lng": 174.7787463
+      },
+      {
+        "name": "Fjällbacka",
+        "url": null,
+        "lat": 58.59977559999999,
+        "lng": 11.2882238
+      }
+    ]
+  },
+  {
+    "date": "5 december 2008",
+    "locations": [
+      {
+        "name": "Trondheim",
+        "url": null,
+        "lat": 63.4305149,
+        "lng": 10.3950528
+      },
+      {
+        "name": "Trollhättan",
+        "url": null,
+        "lat": 58.28348939999999,
+        "lng": 12.2858206
+      },
+      {
+        "name": "Hanoi",
+        "url": null,
+        "lat": 21.0031177,
+        "lng": 105.8201408
+      }
+    ]
+  },
+  {
+    "date": "12 december 2008",
+    "locations": [
+      {
+        "name": "Skagen",
+        "url": null,
+        "lat": 57.725004,
+        "lng": 10.579186
+      },
+      {
+        "name": "Sundsvall",
+        "url": null,
+        "lat": 62.390811,
+        "lng": 17.306927
+      },
+      {
+        "name": "Calgary",
+        "url": null,
+        "lat": 51.04473309999999,
+        "lng": -114.0718831
+      }
+    ]
+  },
+  {
+    "date": "19 december 2008",
+    "locations": [
+      {
+        "name": "Melbourne",
+        "url": null,
+        "lat": -37.8136276,
+        "lng": 144.9630576
+      },
+      {
+        "name": "Värnamo",
+        "url": null,
+        "lat": 57.1831605,
+        "lng": 14.0478214
+      },
+      {
+        "name": "Dubrovnik",
+        "url": null,
+        "lat": 42.65066059999999,
+        "lng": 18.0944238
+      }
+    ]
+  },
+  {
+    "date": "26 december 2008",
+    "locations": [
+      {
+        "name": "Bangkok",
+        "url": null,
+        "lat": 13.7563309,
+        "lng": 100.5017651
+      },
+      {
+        "name": "Falun",
+        "url": null,
+        "lat": 60.60646000000001,
+        "lng": 15.6355
+      },
+      {
+        "name": "Southampton",
+        "url": null,
+        "lat": 50.9105468,
+        "lng": -1.4049018
+      }
+    ]
+  },
+  {
+    "date": "2 januari 2009",
+    "locations": [
+      {
+        "name": "Borås",
+        "url": null,
+        "lat": 57.72103500000001,
+        "lng": 12.939819
+      },
+      {
+        "name": "Åhus",
+        "url": null,
+        "lat": 55.9250391,
+        "lng": 14.2979949
+      },
+      {
+        "name": "Sevilla",
+        "url": null,
+        "lat": 37.3890924,
+        "lng": -5.9844589
+      }
+    ]
+  },
+  {
+    "date": "9 januari 2009",
+    "locations": [
+      {
+        "name": "Berlin",
+        "url": null,
+        "lat": 52.52000659999999,
+        "lng": 13.404954
+      },
+      {
+        "name": "Gränna",
+        "url": null,
+        "lat": 58.02502339999999,
+        "lng": 14.4700948
+      },
+      {
+        "name": "Avignon",
+        "url": null,
+        "lat": 43.94931700000001,
+        "lng": 4.805528
+      }
+    ]
+  },
+  {
+    "date": "16 januari 2009",
+    "locations": [
+      {
+        "name": "Belgrad",
+        "url": null,
+        "lat": 44.8125449,
+        "lng": 20.46123
+      },
+      {
+        "name": "Maputo",
+        "url": null,
+        "lat": -25.969248,
+        "lng": 32.5731746
+      },
+      {
+        "name": "Västerås",
+        "url": null,
+        "lat": 59.60990049999999,
+        "lng": 16.5448091
+      }
+    ]
+  },
+  {
+    "date": "23 januari 2009",
+    "locations": [
+      {
+        "name": "Abisko",
+        "url": null,
+        "lat": 68.3495413,
+        "lng": 18.8312408
+      },
+      {
+        "name": "Oxford",
+        "url": null,
+        "lat": 51.7520209,
+        "lng": -1.2577263
+      },
+      {
+        "name": "Capri",
+        "url": null,
+        "lat": 40.55068989999999,
+        "lng": 14.2428003
+      }
+    ]
+  },
+  {
+    "date": "30 januari 2009",
+    "locations": [
+      {
+        "name": "Brisbane",
+        "url": null,
+        "lat": -27.4704528,
+        "lng": 153.0260341
+      },
+      {
+        "name": "Genève",
+        "url": null,
+        "lat": 46.2043907,
+        "lng": 6.1431577
+      },
+      {
+        "name": "Helsingborg",
+        "url": null,
+        "lat": 56.0464674,
+        "lng": 12.6945121
+      }
+    ]
+  },
+  {
+    "date": "6 februari 2009",
+    "locations": [
+      {
+        "name": "Salt Lake City",
+        "url": null,
+        "lat": 40.7607793,
+        "lng": -111.8910474
+      },
+      {
+        "name": "Strasbourg",
+        "url": null,
+        "lat": 48.5734053,
+        "lng": 7.752111299999999
+      },
+      {
+        "name": "Vaxholm",
+        "url": null,
+        "lat": 59.40329679999999,
+        "lng": 18.3263804
+      }
+    ]
+  },
+  {
+    "date": "13 februari 2009",
+    "locations": [
+      {
+        "name": "Mariehamn",
+        "url": null,
+        "lat": 60.0970945,
+        "lng": 19.9348339
+      },
+      {
+        "name": "Norrköping",
+        "url": null,
+        "lat": 58.587745,
+        "lng": 16.192421
+      },
+      {
+        "name": "Johannesburg",
+        "url": null,
+        "lat": -26.2041028,
+        "lng": 28.0473051
+      }
+    ]
+  },
+  {
+    "date": "20 februari 2009",
+    "locations": [
+      {
+        "name": "Minneapolis",
+        "url": null,
+        "lat": 44.977753,
+        "lng": -93.2650108
+      },
+      {
+        "name": "Gällivare",
+        "url": null,
+        "lat": 67.1379,
+        "lng": 20.6593618
+      },
+      {
+        "name": "Edinburgh",
+        "url": null,
+        "lat": 55.953252,
+        "lng": -3.188267
+      }
+    ]
+  },
+  {
+    "date": "4 december 2009",
+    "locations": [
+      {
+        "name": "Lyon",
+        "url": "https://sv.wikipedia.org/wiki/Lyon",
+        "lat": 45.764043,
+        "lng": 4.835659
+      },
+      {
+        "name": "Falköping",
+        "url": "https://sv.wikipedia.org/wiki/Falk%C3%B6ping",
+        "lat": 58.17502899999999,
+        "lng": 13.553217
+      },
+      {
+        "name": "Memphis",
+        "url": "https://sv.wikipedia.org/wiki/Memphis,_Tennessee",
+        "lat": 35.1495343,
+        "lng": -90.0489801
+      }
+    ]
+  },
+  {
+    "date": "11 december 2009",
+    "locations": [
+      {
+        "name": "Buenos Aires",
+        "url": "https://sv.wikipedia.org/wiki/Buenos_Aires",
+        "lat": -34.6036844,
+        "lng": -58.3815591
+      },
+      {
+        "name": "Kristinehamn",
+        "url": "https://sv.wikipedia.org/wiki/Kristinehamn",
+        "lat": 59.3100677,
+        "lng": 14.1089192
+      },
+      {
+        "name": "Manchester",
+        "url": "https://sv.wikipedia.org/wiki/Manchester",
+        "lat": 53.4807593,
+        "lng": -2.2426305
+      }
+    ]
+  },
+  {
+    "date": "18 december 2009",
+    "locations": [
+      {
+        "name": "Bourdeaux",
+        "url": "https://sv.wikipedia.org/wiki/Bourdeaux",
+        "lat": 44.837789,
+        "lng": -0.57918
+      },
+      {
+        "name": "Trelleborg",
+        "url": "https://sv.wikipedia.org/wiki/Trelleborg",
+        "lat": 55.3762427,
+        "lng": 13.1574231
+      },
+      {
+        "name": "Bombay",
+        "url": "https://sv.wikipedia.org/wiki/Bombay",
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      }
+    ]
+  },
+  {
+    "date": "25 december 2009",
+    "locations": [
+      {
+        "name": "Palermo",
+        "url": "https://sv.wikipedia.org/wiki/Palermo",
+        "lat": 38.11569,
+        "lng": 13.3614868
+      },
+      {
+        "name": "Kalix",
+        "url": "https://sv.wikipedia.org/wiki/Kalix",
+        "lat": 65.8552807,
+        "lng": 23.143965
+      },
+      {
+        "name": "Frankfurt am Main",
+        "url": "https://sv.wikipedia.org/wiki/Frankfurt_am_Main",
+        "lat": 50.1109221,
+        "lng": 8.6821267
+      }
+    ]
+  },
+  {
+    "date": "1 januari 2010",
+    "locations": [
+      {
+        "name": "Bologna",
+        "url": "https://sv.wikipedia.org/wiki/Bologna",
+        "lat": 44.494887,
+        "lng": 11.3426163
+      },
+      {
+        "name": "Glasgow",
+        "url": "https://sv.wikipedia.org/wiki/Glasgow",
+        "lat": 55.864237,
+        "lng": -4.251806
+      },
+      {
+        "name": "Eksjö",
+        "url": "https://sv.wikipedia.org/wiki/Eksj%C3%B6",
+        "lat": 57.6651652,
+        "lng": 14.9732214
+      }
+    ]
+  },
+  {
+    "date": "8 januari 2010",
+    "locations": [
+      {
+        "name": "Tokyo",
+        "url": "https://sv.wikipedia.org/wiki/Tokyo",
+        "lat": 35.6761919,
+        "lng": 139.6503106
+      },
+      {
+        "name": "Varberg",
+        "url": "https://sv.wikipedia.org/wiki/Varberg",
+        "lat": 57.107118,
+        "lng": 12.2520907
+      },
+      {
+        "name": "Eskilstuna",
+        "url": "https://sv.wikipedia.org/wiki/Eskilstuna",
+        "lat": 59.37124859999999,
+        "lng": 16.5098045
+      }
+    ]
+  },
+  {
+    "date": "15 januari 2010",
+    "locations": [
+      {
+        "name": "Kivik",
+        "url": "https://sv.wikipedia.org/wiki/Kivik",
+        "lat": 55.685039,
+        "lng": 14.2265929
+      },
+      {
+        "name": "Málaga",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%A1laga",
+        "lat": 36.721261,
+        "lng": -4.4212655
+      },
+      {
+        "name": "Chicago",
+        "url": "https://sv.wikipedia.org/wiki/Chicago",
+        "lat": 41.8781136,
+        "lng": -87.6297982
+      }
+    ]
+  },
+  {
+    "date": "22 januari 2010",
+    "locations": [
+      {
+        "name": "Lima",
+        "url": "https://sv.wikipedia.org/wiki/Lima",
+        "lat": -12.0463731,
+        "lng": -77.042754
+      },
+      {
+        "name": "Sala",
+        "url": "https://sv.wikipedia.org/wiki/Sala",
+        "lat": 59.9208594,
+        "lng": 16.606328
+      },
+      {
+        "name": "Thessaloniki",
+        "url": "https://sv.wikipedia.org/wiki/Thessaloniki",
+        "lat": 40.6400629,
+        "lng": 22.9444191
+      }
+    ]
+  },
+  {
+    "date": "29 januari 2010",
+    "locations": [
+      {
+        "name": "Kiruna",
+        "url": "https://sv.wikipedia.org/wiki/Kiruna",
+        "lat": 67.8557995,
+        "lng": 20.2252821
+      },
+      {
+        "name": "Århus",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85rhus",
+        "lat": 56.162939,
+        "lng": 10.203921
+      },
+      {
+        "name": "Amman",
+        "url": "https://sv.wikipedia.org/wiki/Amman",
+        "lat": 31.9539494,
+        "lng": 35.910635
+      }
+    ]
+  },
+  {
+    "date": "5 februari 2010",
+    "locations": [
+      {
+        "name": "Jerusalem",
+        "url": "https://sv.wikipedia.org/wiki/Jerusalem",
+        "lat": 31.768319,
+        "lng": 35.21371
+      },
+      {
+        "name": "Örnsköldsvik",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvik",
+        "lat": 63.29004740000001,
+        "lng": 18.7166166
+      },
+      {
+        "name": "Tromsø",
+        "url": "https://sv.wikipedia.org/wiki/Troms%C3%B8",
+        "lat": 69.6492047,
+        "lng": 18.9553238
+      }
+    ]
+  },
+  {
+    "date": "12 februari 2010",
+    "locations": [
+      {
+        "name": "Orsa",
+        "url": "https://sv.wikipedia.org/wiki/Orsa",
+        "lat": 61.1169365,
+        "lng": 14.6280708
+      },
+      {
+        "name": "Bilbao",
+        "url": "https://sv.wikipedia.org/wiki/Bilbao",
+        "lat": 43.2630126,
+        "lng": -2.9349852
+      },
+      {
+        "name": "Hannover",
+        "url": "https://sv.wikipedia.org/wiki/Hannover",
+        "lat": 52.3758916,
+        "lng": 9.732010400000002
+      }
+    ]
+  },
+  {
+    "date": "5 mars 2010",
+    "locations": [
+      {
+        "name": "Osaka",
+        "url": "https://sv.wikipedia.org/wiki/Osaka",
+        "lat": 34.6413315,
+        "lng": 135.5629394
+      },
+      {
+        "name": "Innsbruck",
+        "url": "https://sv.wikipedia.org/wiki/Innsbruck",
+        "lat": 47.2692124,
+        "lng": 11.4041024
+      },
+      {
+        "name": "Smögen",
+        "url": "https://sv.wikipedia.org/wiki/Sm%C3%B6gen",
+        "lat": 58.3633243,
+        "lng": 11.2367763
+      }
+    ]
+  },
+  {
+    "date": "12 mars 2010",
+    "locations": [
+      {
+        "name": "Boston",
+        "url": "https://sv.wikipedia.org/wiki/Boston",
+        "lat": 42.3600825,
+        "lng": -71.0588801
+      },
+      {
+        "name": "Kiev",
+        "url": "https://sv.wikipedia.org/wiki/Kiev",
+        "lat": 50.4501,
+        "lng": 30.5234
+      },
+      {
+        "name": "Göteborg",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%B6teborg",
+        "lat": 57.70887,
+        "lng": 11.97456
+      }
+    ]
+  },
+  {
+    "date": "26 november 2010",
+    "locations": [
+      {
+        "name": "Las Vegas",
+        "url": "https://sv.wikipedia.org/wiki/Las_Vegas",
+        "lat": 36.171563,
+        "lng": -115.1391009
+      },
+      {
+        "name": "Neapel",
+        "url": "https://sv.wikipedia.org/wiki/Neapel",
+        "lat": 40.8517746,
+        "lng": 14.2681244
+      },
+      {
+        "name": "Malmö",
+        "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
+        "lat": 55.604981,
+        "lng": 13.003822
+      }
+    ]
+  },
+  {
+    "date": "3 december 2010",
+    "locations": [
+      {
+        "name": "Nice",
+        "url": "https://sv.wikipedia.org/wiki/Nice",
+        "lat": 43.7101728,
+        "lng": 7.261953200000001
+      },
+      {
+        "name": "Ljusdal",
+        "url": "https://sv.wikipedia.org/wiki/Ljusdal",
+        "lat": 61.8308392,
+        "lng": 16.0817501
+      },
+      {
+        "name": "Istanbul",
+        "url": "https://sv.wikipedia.org/wiki/Istanbul",
+        "lat": 41.0082376,
+        "lng": 28.9783589
+      }
+    ]
+  },
+  {
+    "date": "17 december 2010",
+    "locations": [
+      {
+        "name": "Kapstaden",
+        "url": "https://sv.wikipedia.org/wiki/Kapstaden",
+        "lat": -33.9248685,
+        "lng": 18.4240553
+      },
+      {
+        "name": "Örebro",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rebro",
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      },
+      {
+        "name": "Reykjavik",
+        "url": "https://sv.wikipedia.org/wiki/Reykjavik",
+        "lat": 64.146582,
+        "lng": -21.9426354
+      }
+    ]
+  },
+  {
+    "date": "7 januari 2011",
+    "locations": [
+      {
+        "name": "Singapore",
+        "url": "https://sv.wikipedia.org/wiki/Singapore",
+        "lat": 1.352083,
+        "lng": 103.819836
+      },
+      {
+        "name": "Torsby",
+        "url": "https://sv.wikipedia.org/wiki/Torsby",
+        "lat": 60.14090719999999,
+        "lng": 13.0102132
+      },
+      {
+        "name": "Köln",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6ln",
+        "lat": 50.937531,
+        "lng": 6.9602786
+      }
+    ]
+  },
+  {
+    "date": "14 januari 2011",
+    "locations": [
+      {
+        "name": "Miami",
+        "url": "https://sv.wikipedia.org/wiki/Miami",
+        "lat": 25.7616798,
+        "lng": -80.1917902
+      },
+      {
+        "name": "Madrid",
+        "url": "https://sv.wikipedia.org/wiki/Madrid",
+        "lat": 40.4167754,
+        "lng": -3.7037902
+      },
+      {
+        "name": "Tomelilla",
+        "url": "https://sv.wikipedia.org/wiki/Tomelilla",
+        "lat": 55.54355,
+        "lng": 13.95484
+      }
+    ]
+  },
+  {
+    "date": "21 januari 2011",
+    "locations": [
+      {
+        "name": "Hongkong",
+        "url": "https://sv.wikipedia.org/wiki/Hongkong",
+        "lat": 22.3193039,
+        "lng": 114.1693611
+      },
+      {
+        "name": "Lysekil",
+        "url": "https://sv.wikipedia.org/wiki/Lysekil",
+        "lat": 58.27557299999999,
+        "lng": 11.435558
+      },
+      {
+        "name": "Birmingham",
+        "url": "https://sv.wikipedia.org/wiki/Birmingham",
+        "lat": 52.48624299999999,
+        "lng": -1.890401
+      }
+    ]
+  },
+  {
+    "date": "28 januari 2011",
+    "locations": [
+      {
+        "name": "Vancouver",
+        "url": "https://sv.wikipedia.org/wiki/Vancouver",
+        "lat": 49.2827291,
+        "lng": -123.1207375
+      },
+      {
+        "name": "Saigon",
+        "url": "https://sv.wikipedia.org/wiki/Saigon",
+        "lat": 10.8230989,
+        "lng": 106.6296638
+      },
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      }
+    ]
+  },
+  {
+    "date": "4 februari 2011",
+    "locations": [
+      {
+        "name": "Seattle",
+        "url": "https://sv.wikipedia.org/wiki/Seattle",
+        "lat": 47.6062095,
+        "lng": -122.3320708
+      },
+      {
+        "name": "Ålborg",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85lborg",
+        "lat": 57.0488195,
+        "lng": 9.921747
+      },
+      {
+        "name": "Kristianstad",
+        "url": "https://sv.wikipedia.org/wiki/Kristianstad",
+        "lat": 56.0293936,
+        "lng": 14.1566778
+      }
+    ]
+  },
+  {
+    "date": "11 februari 2011",
+    "locations": [
+      {
+        "name": "Split",
+        "url": "https://sv.wikipedia.org/wiki/Split",
+        "lat": 43.5147118,
+        "lng": 16.4435148
+      },
+      {
+        "name": "Oskarshamn",
+        "url": "https://sv.wikipedia.org/wiki/Oskarshamn",
+        "lat": 57.26569929999999,
+        "lng": 16.4473984
+      },
+      {
+        "name": "Brighton",
+        "url": "https://sv.wikipedia.org/wiki/Brighton",
+        "lat": 50.8229402,
+        "lng": -0.1362672
+      }
+    ]
+  },
+  {
+    "date": "18 februari 2011",
+    "locations": [
+      {
+        "name": "Bergen",
+        "url": "https://sv.wikipedia.org/wiki/Bergen",
+        "lat": 60.39126279999999,
+        "lng": 5.3220544
+      },
+      {
+        "name": "Haparanda",
+        "url": "https://sv.wikipedia.org/wiki/Haparanda",
+        "lat": 65.8417085,
+        "lng": 24.1276643
+      },
+      {
+        "name": "Acapulco",
+        "url": "https://sv.wikipedia.org/wiki/Acapulco",
+        "lat": 16.8531086,
+        "lng": -99.8236533
+      }
+    ]
+  },
+  {
+    "date": "25 februari 2011",
+    "locations": [
+      {
+        "name": "Panama City",
+        "url": "https://sv.wikipedia.org/wiki/Panama_City",
+        "lat": 8.9823792,
+        "lng": -79.51986959999999
+      },
+      {
+        "name": "Södertälje",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%B6dert%C3%A4lje",
+        "lat": 59.197762,
+        "lng": 17.6201942
+      },
+      {
+        "name": "Aten",
+        "url": "https://sv.wikipedia.org/wiki/Aten",
+        "lat": 37.9838096,
+        "lng": 23.7275388
+      }
+    ]
+  },
+  {
+    "date": "4 mars 2011",
+    "locations": [
+      {
+        "name": "Nashville",
+        "url": "https://sv.wikipedia.org/wiki/Nashville",
+        "lat": 36.1626638,
+        "lng": -86.7816016
+      },
+      {
+        "name": "Åbo",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85bo",
+        "lat": 60.4518126,
+        "lng": 22.2666303
+      },
+      {
+        "name": "Malung",
+        "url": "https://sv.wikipedia.org/wiki/Malung",
+        "lat": 60.686372,
+        "lng": 13.720966
+      }
+    ]
+  },
+  {
+    "date": "11 mars 2011",
+    "locations": [
+      {
+        "name": "Montevideo",
+        "url": "https://sv.wikipedia.org/wiki/Montevideo",
+        "lat": -34.9011127,
+        "lng": -56.16453139999999
+      },
+      {
+        "name": "Motala",
+        "url": "https://sv.wikipedia.org/wiki/Motala",
+        "lat": 58.5380335,
+        "lng": 15.0470936
+      },
+      {
+        "name": "London",
+        "url": "https://sv.wikipedia.org/wiki/London",
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      }
+    ]
+  },
+  {
+    "date": "25 november 2011",
+    "locations": [
+      {
+        "name": "New Orleans",
+        "url": "https://sv.wikipedia.org/wiki/New_Orleans",
+        "lat": 29.95106579999999,
+        "lng": -90.0715323
+      },
+      {
+        "name": "Florens",
+        "url": "https://sv.wikipedia.org/wiki/Florens",
+        "lat": 43.7695604,
+        "lng": 11.2558136
+      },
+      {
+        "name": "Uppsala",
+        "url": "https://sv.wikipedia.org/wiki/Uppsala",
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
+      }
+    ]
+  },
+  {
+    "date": "2 december 2011",
+    "locations": [
+      {
+        "name": "Borgholm",
+        "url": "https://sv.wikipedia.org/wiki/Borgholm",
+        "lat": 56.88022969999999,
+        "lng": 16.6562355
+      },
+      {
+        "name": "Peking",
+        "url": "https://sv.wikipedia.org/wiki/Peking",
+        "lat": 39.904211,
+        "lng": 116.407395
+      },
+      {
+        "name": "Wien",
+        "url": "https://sv.wikipedia.org/wiki/Wien",
+        "lat": 48.2081743,
+        "lng": 16.3738189
+      }
+    ]
+  },
+  {
+    "date": "9 december 2011",
+    "locations": [
+      {
+        "name": "Skara",
+        "url": "https://sv.wikipedia.org/wiki/Skara",
+        "lat": 58.3860128,
+        "lng": 13.4393282
+      },
+      {
+        "name": "München",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%BCnchen",
+        "lat": 48.1351253,
+        "lng": 11.5819806
+      },
+      {
+        "name": "Melbourne",
+        "url": "https://sv.wikipedia.org/wiki/Melbourne",
+        "lat": -37.8136276,
+        "lng": 144.9630576
+      }
+    ]
+  },
+  {
+    "date": "16 december 2011",
+    "locations": [
+      {
+        "name": "Sigtuna",
+        "url": "https://sv.wikipedia.org/wiki/Sigtuna",
+        "lat": 59.6191463,
+        "lng": 17.7234191
+      },
+      {
+        "name": "Lübeck",
+        "url": "https://sv.wikipedia.org/wiki/L%C3%BCbeck",
+        "lat": 53.8654673,
+        "lng": 10.6865593
+      },
+      {
+        "name": "Dallas",
+        "url": "https://sv.wikipedia.org/wiki/Dallas",
+        "lat": 32.7766642,
+        "lng": -96.79698789999999
+      }
+    ]
+  },
+  {
+    "date": "23 december 2011",
+    "locations": [
+      {
+        "name": "San Francisco",
+        "url": "https://sv.wikipedia.org/wiki/San_Francisco",
+        "lat": 37.7749295,
+        "lng": -122.4194155
+      },
+      {
+        "name": "Barcelona",
+        "url": "https://sv.wikipedia.org/wiki/Barcelona",
+        "lat": 41.3873974,
+        "lng": 2.168568
+      },
+      {
+        "name": "Mora",
+        "url": "https://sv.wikipedia.org/wiki/Mora",
+        "lat": 61.004878,
+        "lng": 14.537003
+      }
+    ]
+  },
+  {
+    "date": "30 december 2011",
+    "locations": [
+      {
+        "name": "Sheffield",
+        "url": "https://sv.wikipedia.org/wiki/Sheffield",
+        "lat": 53.38112899999999,
+        "lng": -1.470085
+      },
+      {
+        "name": "Kuala Lumpur",
+        "url": "https://sv.wikipedia.org/wiki/Kuala_Lumpur",
+        "lat": 3.139003,
+        "lng": 101.686855
+      },
+      {
+        "name": "Ängelholm",
+        "url": "https://sv.wikipedia.org/wiki/%C3%84ngelholm",
+        "lat": 56.245748,
+        "lng": 12.863881
+      }
+    ]
+  },
+  {
+    "date": "6 januari 2012",
+    "locations": [
+      {
+        "name": "Bryssel",
+        "url": "https://sv.wikipedia.org/wiki/Bryssel",
+        "lat": 50.8476424,
+        "lng": 4.3571696
+      },
+      {
+        "name": "New Delhi",
+        "url": "https://sv.wikipedia.org/wiki/New_Delhi",
+        "lat": 28.6139391,
+        "lng": 77.2090212
+      },
+      {
+        "name": "Filipstad",
+        "url": "https://sv.wikipedia.org/wiki/Filipstad",
+        "lat": 59.7139973,
+        "lng": 14.1698445
+      }
+    ]
+  },
+  {
+    "date": "13 januari 2012",
+    "locations": [
+      {
+        "name": "Zürich",
+        "url": "https://sv.wikipedia.org/wiki/Z%C3%BCrich",
+        "lat": 47.3768866,
+        "lng": 8.541694
+      },
+      {
+        "name": "Härnösand",
+        "url": "https://sv.wikipedia.org/wiki/H%C3%A4rn%C3%B6sand",
+        "lat": 62.6322698,
+        "lng": 17.9408714
+      },
+      {
+        "name": "Auckland",
+        "url": "https://sv.wikipedia.org/wiki/Auckland",
+        "lat": -36.85088270000001,
+        "lng": 174.7644881
+      }
+    ]
+  },
+  {
+    "date": "20 januari 2012",
+    "locations": [
+      {
+        "name": "New York",
+        "url": "https://sv.wikipedia.org/wiki/New_York",
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      },
+      {
+        "name": "Piteå",
+        "url": "https://sv.wikipedia.org/wiki/Pite%C3%A5",
+        "lat": 65.316698,
+        "lng": 21.4800364
+      },
+      {
+        "name": "Sankt Petersburg",
+        "url": "https://sv.wikipedia.org/wiki/Sankt_Petersburg",
+        "lat": 59.9310584,
+        "lng": 30.3609097
+      }
+    ]
+  },
+  {
+    "date": "27 januari 2012",
+    "locations": [
+      {
+        "name": "Dublin",
+        "url": "https://sv.wikipedia.org/wiki/Dublin",
+        "lat": 53.3498053,
+        "lng": -6.2603097
+      },
+      {
+        "name": "Vasa",
+        "url": "https://sv.wikipedia.org/wiki/Vasa",
+        "lat": 63.09508899999999,
+        "lng": 21.6164564
+      },
+      {
+        "name": "Karlskrona",
+        "url": "https://sv.wikipedia.org/wiki/Karlskrona",
+        "lat": 56.161224,
+        "lng": 15.5869
+      }
+    ]
+  },
+  {
+    "date": "3 februari 2012",
+    "locations": [
+      {
+        "name": "Edinburgh",
+        "url": "https://sv.wikipedia.org/wiki/Edinburgh",
+        "lat": 55.953252,
+        "lng": -3.188267
+      },
+      {
+        "name": "Halmstad",
+        "url": "https://sv.wikipedia.org/wiki/Halmstad",
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      },
+      {
+        "name": "Phnom Penh",
+        "url": "https://sv.wikipedia.org/wiki/Phnom_Penh",
+        "lat": 11.5563738,
+        "lng": 104.9282099
+      }
+    ]
+  },
+  {
+    "date": "10 februari 2012",
+    "locations": [
+      {
+        "name": "Uddevalla",
+        "url": "https://sv.wikipedia.org/wiki/Uddevalla",
+        "lat": 58.3498003,
+        "lng": 11.935649
+      },
+      {
+        "name": "Genua",
+        "url": "https://sv.wikipedia.org/wiki/Genua",
+        "lat": 44.4056499,
+        "lng": 8.946256
+      },
+      {
+        "name": "Cambridge",
+        "url": "https://sv.wikipedia.org/wiki/Cambridge",
+        "lat": 52.1950788,
+        "lng": 0.1312729
+      }
+    ]
+  },
+  {
+    "date": "17 februari 2012",
+    "locations": [
+      {
+        "name": "Marseille",
+        "url": "https://sv.wikipedia.org/wiki/Marseille",
+        "lat": 43.296482,
+        "lng": 5.36978
+      },
+      {
+        "name": "Bollnäs",
+        "url": "https://sv.wikipedia.org/wiki/Bolln%C3%A4s",
+        "lat": 61.34837950000001,
+        "lng": 16.3942685
+      },
+      {
+        "name": "Dar es Salaam",
+        "url": "https://sv.wikipedia.org/wiki/Dar_es_Salaam",
+        "lat": -6.792354,
+        "lng": 39.2083284
+      }
+    ]
+  },
+  {
+    "date": "23 november 2012",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      },
+      {
+        "name": "Paris",
+        "url": "https://sv.wikipedia.org/wiki/Paris",
+        "lat": 48.856614,
+        "lng": 2.3522219
+      },
+      {
+        "name": "Sarajevo",
+        "url": "https://sv.wikipedia.org/wiki/Sarajevo",
+        "lat": 43.8562586,
+        "lng": 18.4130763
+      }
+    ]
+  },
+  {
+    "date": "30 november 2012",
+    "locations": [
+      {
+        "name": "Katrineholm",
+        "url": "https://sv.wikipedia.org/wiki/Katrineholm",
+        "lat": 58.99555109999999,
+        "lng": 16.2054756
+      },
+      {
+        "name": "Shanghai",
+        "url": "https://sv.wikipedia.org/wiki/Shanghai",
+        "lat": 31.230416,
+        "lng": 121.473701
+      },
+      {
+        "name": "Montreux",
+        "url": "https://sv.wikipedia.org/wiki/Montreux",
+        "lat": 46.4312213,
+        "lng": 6.9106799
+      }
+    ]
+  },
+  {
+    "date": "7 december 2012",
+    "locations": [
+      {
+        "name": "Toronto",
+        "url": "https://sv.wikipedia.org/wiki/Toronto",
+        "lat": 43.653226,
+        "lng": -79.3831843
+      },
+      {
+        "name": "Tallinn",
+        "url": "https://sv.wikipedia.org/wiki/Tallinn",
+        "lat": 59.43696079999999,
+        "lng": 24.7535746
+      },
+      {
+        "name": "Hudiksvall",
+        "url": "https://sv.wikipedia.org/wiki/Hudiksvall",
+        "lat": 61.7273909,
+        "lng": 17.107401
+      }
+    ]
+  },
+  {
+    "date": "14 december 2012",
+    "locations": [
+      {
+        "name": "Washington, D.C.",
+        "url": "https://sv.wikipedia.org/wiki/Washington,_D.C.",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      {
+        "name": "Tammerfors",
+        "url": "https://sv.wikipedia.org/wiki/Tammerfors",
+        "lat": 61.4977524,
+        "lng": 23.7609535
+      },
+      {
+        "name": "Skanör-Falsterbo",
+        "url": "https://sv.wikipedia.org/wiki/Skan%C3%B6r_med_Falsterbo",
+        "lat": 55.40782309999999,
+        "lng": 12.8467484
+      }
+    ]
+  },
+  {
+    "date": "21 december 2012",
+    "locations": [
+      {
+        "name": "Växjö",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4xj%C3%B6",
+        "lat": 56.8790044,
+        "lng": 14.8058522
+      },
+      {
+        "name": "Mexico City",
+        "url": "https://sv.wikipedia.org/wiki/Mexico_City",
+        "lat": 19.4326077,
+        "lng": -99.133208
+      },
+      {
+        "name": "Cannes",
+        "url": "https://sv.wikipedia.org/wiki/Cannes",
+        "lat": 43.552847,
+        "lng": 7.017369
+      }
+    ]
+  },
+  {
+    "date": "28 december 2012",
+    "locations": [
+      {
+        "name": "Köpenhamn",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      },
+      {
+        "name": "Kungälv",
+        "url": "https://sv.wikipedia.org/wiki/Kung%C3%A4lv",
+        "lat": 57.86975400000001,
+        "lng": 11.9740317
+      },
+      {
+        "name": "Kairo",
+        "url": "https://sv.wikipedia.org/wiki/Kairo",
+        "lat": 30.0444196,
+        "lng": 31.2357116
+      }
+    ]
+  },
+  {
+    "date": "4 januari 2013",
+    "locations": [
+      {
+        "name": "Honolulu",
+        "url": "https://sv.wikipedia.org/wiki/Honolulu",
+        "lat": 21.3098845,
+        "lng": -157.8581401
+      },
+      {
+        "name": "Nürnberg",
+        "url": "https://sv.wikipedia.org/wiki/N%C3%BCrnberg",
+        "lat": 49.4521018,
+        "lng": 11.0766654
+      },
+      {
+        "name": "Nyköping",
+        "url": "https://sv.wikipedia.org/wiki/Nyk%C3%B6ping",
+        "lat": 58.75284389999999,
+        "lng": 17.0091593
+      }
+    ]
+  },
+  {
+    "date": "11 januari 2013",
+    "locations": [
+      {
+        "name": "Detroit",
+        "url": "https://sv.wikipedia.org/wiki/Detroit",
+        "lat": 42.331427,
+        "lng": -83.0457538
+      },
+      {
+        "name": "Sofia",
+        "url": "https://sv.wikipedia.org/wiki/Sofia",
+        "lat": 42.6977082,
+        "lng": 23.3218675
+      },
+      {
+        "name": "Berlin",
+        "url": "https://sv.wikipedia.org/wiki/Berlin",
+        "lat": 52.52000659999999,
+        "lng": 13.404954
+      }
+    ]
+  },
+  {
+    "date": "18 januari 2013",
+    "locations": [
+      {
+        "name": "Cardiff",
+        "url": "https://sv.wikipedia.org/wiki/Cardiff",
+        "lat": 51.483707,
+        "lng": -3.1680962
+      },
+      {
+        "name": "Gdańsk",
+        "url": "https://sv.wikipedia.org/wiki/Gda%C5%84sk",
+        "lat": 54.35202520000001,
+        "lng": 18.6466384
+      },
+      {
+        "name": "Visby",
+        "url": "https://sv.wikipedia.org/wiki/Visby",
+        "lat": 57.6348,
+        "lng": 18.29484
+      }
+    ]
+  },
+  {
+    "date": "25 januari 2013",
+    "locations": [
+      {
+        "name": "Palma de Mallorca",
+        "url": "https://sv.wikipedia.org/wiki/Palma_de_Mallorca",
+        "lat": 39.6013107,
+        "lng": 2.6387795
+      },
+      {
+        "name": "Lidköping",
+        "url": "https://sv.wikipedia.org/wiki/Lidk%C3%B6ping",
+        "lat": 58.5035047,
+        "lng": 13.1570768
+      },
+      {
+        "name": "Los Angeles",
+        "url": "https://sv.wikipedia.org/wiki/Los_Angeles",
+        "lat": 34.0522342,
+        "lng": -118.2436849
+      }
+    ]
+  },
+  {
+    "date": "1 februari 2013",
+    "locations": [
+      {
+        "name": "Oxford",
+        "url": "https://sv.wikipedia.org/wiki/Oxford",
+        "lat": 51.7520209,
+        "lng": -1.2577263
+      },
+      {
+        "name": "Rom",
+        "url": "https://sv.wikipedia.org/wiki/Rom",
+        "lat": 41.9027835,
+        "lng": 12.4963655
+      },
+      {
+        "name": "Västerås",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4ster%C3%A5s",
+        "lat": 59.60990049999999,
+        "lng": 16.5448091
+      }
+    ]
+  },
+  {
+    "date": "8 februari 2013",
+    "locations": [
+      {
+        "name": "Boden",
+        "url": "https://sv.wikipedia.org/wiki/Boden",
+        "lat": 65.8251188,
+        "lng": 21.6887028
+      },
+      {
+        "name": "Bremen",
+        "url": "https://sv.wikipedia.org/wiki/Bremen",
+        "lat": 53.07929619999999,
+        "lng": 8.8016937
+      },
+      {
+        "name": "Sölvesborg",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%B6lvesborg",
+        "lat": 56.0537433,
+        "lng": 14.5796878
+      }
+    ]
+  },
+  {
+    "date": "15 februari 2013",
+    "locations": [
+      {
+        "name": "Verona",
+        "url": "https://sv.wikipedia.org/wiki/Verona",
+        "lat": 45.43838419999999,
+        "lng": 10.9916215
+      },
+      {
+        "name": "Rättvik",
+        "url": "https://sv.wikipedia.org/wiki/R%C3%A4ttvik",
+        "lat": 60.889025,
+        "lng": 15.123373
+      },
+      {
+        "name": "Philadelphia",
+        "url": "https://sv.wikipedia.org/wiki/Philadelphia",
+        "lat": 39.9525839,
+        "lng": -75.1652215
+      }
+    ]
+  },
+  {
+    "date": "22 november 2013",
+    "locations": [
+      {
+        "name": "Houston",
+        "url": "https://sv.wikipedia.org/wiki/Houston",
+        "lat": 29.7604267,
+        "lng": -95.3698028
+      },
+      {
+        "name": "Åre",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85re",
+        "lat": 63.3990428,
+        "lng": 13.0815059
+      },
+      {
+        "name": "Luxemburg",
+        "url": "https://sv.wikipedia.org/wiki/Luxemburg",
+        "lat": 49.61162100000001,
+        "lng": 6.131934599999999
+      }
+    ]
+  },
+  {
+    "date": "29 november 2013",
+    "locations": [
+      {
+        "name": "Lund",
+        "url": "https://sv.wikipedia.org/wiki/Lund",
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Barcelona",
+        "url": "https://sv.wikipedia.org/wiki/Barcelona",
+        "lat": 41.3873974,
+        "lng": 2.168568
+      },
+      {
+        "name": "Boston",
+        "url": "https://sv.wikipedia.org/wiki/Boston",
+        "lat": 42.3600825,
+        "lng": -71.0588801
+      }
+    ]
+  },
+  {
+    "date": "6 december 2013",
+    "locations": [
+      {
+        "name": "London",
+        "url": "https://sv.wikipedia.org/wiki/London",
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      },
+      {
+        "name": "Gränna",
+        "url": "https://sv.wikipedia.org/wiki/Gr%C3%A4nna",
+        "lat": 58.02502339999999,
+        "lng": 14.4700948
+      },
+      {
+        "name": "Anchorage",
+        "url": "https://sv.wikipedia.org/wiki/Anchorage",
+        "lat": 61.2175758,
+        "lng": -149.8996785
+      }
+    ]
+  },
+  {
+    "date": "13 december 2013",
+    "locations": [
+      {
+        "name": "Malmö",
+        "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
+        "lat": 55.604981,
+        "lng": 13.003822
+      },
+      {
+        "name": "Hamburg",
+        "url": "https://sv.wikipedia.org/wiki/Hamburg",
+        "lat": 53.5510846,
+        "lng": 9.9936818
+      },
+      {
+        "name": "Santiago de Chile",
+        "url": "https://sv.wikipedia.org/wiki/Santiago_de_Chile",
+        "lat": -33.4488897,
+        "lng": -70.6692655
+      }
+    ]
+  },
+  {
+    "date": "20 december 2013",
+    "locations": [
+      {
+        "name": "Västervik",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4stervik",
+        "lat": 57.75771559999999,
+        "lng": 16.6369759
+      },
+      {
+        "name": "Bangkok",
+        "url": "https://sv.wikipedia.org/wiki/Bangkok",
+        "lat": 13.7563309,
+        "lng": 100.5017651
+      },
+      {
+        "name": "Belfast",
+        "url": "https://sv.wikipedia.org/wiki/Belfast",
+        "lat": 54.59728500000001,
+        "lng": -5.93012
+      }
+    ]
+  },
+  {
+    "date": "27 december 2013",
+    "locations": [
+      {
+        "name": "Mölle",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%B6lle",
+        "lat": 56.2821904,
+        "lng": 12.5021241
+      },
+      {
+        "name": "Istanbul",
+        "url": "https://sv.wikipedia.org/wiki/Istanbul",
+        "lat": 41.0082376,
+        "lng": 28.9783589
+      },
+      {
+        "name": "Lissabon",
+        "url": "https://sv.wikipedia.org/wiki/Lissabon",
+        "lat": 38.7222524,
+        "lng": -9.1393366
+      }
+    ]
+  },
+  {
+    "date": "3 januari 2014",
+    "locations": [
+      {
+        "name": "San Diego",
+        "url": "https://sv.wikipedia.org/wiki/San_Diego",
+        "lat": 32.715738,
+        "lng": -117.1610838
+      },
+      {
+        "name": "Oslo",
+        "url": "https://sv.wikipedia.org/wiki/Oslo",
+        "lat": 59.9138688,
+        "lng": 10.7522454
+      },
+      {
+        "name": "Linköping",
+        "url": "https://sv.wikipedia.org/wiki/Link%C3%B6ping",
+        "lat": 58.41080700000001,
+        "lng": 15.6213727
+      }
+    ]
+  },
+  {
+    "date": "10 januari 2014",
+    "locations": [
+      {
+        "name": "Bristol",
+        "url": "https://sv.wikipedia.org/wiki/Bristol",
+        "lat": 51.454513,
+        "lng": -2.58791
+      },
+      {
+        "name": "Genève",
+        "url": "https://sv.wikipedia.org/wiki/Gen%C3%A8ve",
+        "lat": 46.2043907,
+        "lng": 6.1431577
+      },
+      {
+        "name": "Karlstad",
+        "url": "https://sv.wikipedia.org/wiki/Karlstad",
+        "lat": 59.4021806,
+        "lng": 13.5114977
+      }
+    ]
+  },
+  {
+    "date": "17 januari 2014",
+    "locations": [
+      {
+        "name": "Rhodos",
+        "url": "https://sv.wikipedia.org/wiki/Rhodos",
+        "lat": 36.4349631,
+        "lng": 28.2174829
+      },
+      {
+        "name": "Addis Abeba",
+        "url": "https://sv.wikipedia.org/wiki/Addis_Abeba",
+        "lat": 8.9806034,
+        "lng": 38.7577605
+      },
+      {
+        "name": "Göteborg",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%B6teborg",
+        "lat": 57.70887,
+        "lng": 11.97456
+      }
+    ]
+  },
+  {
+    "date": "24 januari 2014",
+    "locations": [
+      {
+        "name": "Moskva",
+        "url": "https://sv.wikipedia.org/wiki/Moskva",
+        "lat": 55.755826,
+        "lng": 37.6173
+      },
+      {
+        "name": "Ystad",
+        "url": "https://sv.wikipedia.org/wiki/Ystad",
+        "lat": 55.4295051,
+        "lng": 13.8200308
+      },
+      {
+        "name": "San José",
+        "url": "https://sv.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica",
+        "lat": 37.33874,
+        "lng": -121.8852525
+      }
+    ]
+  },
+  {
+    "date": "31 januari 2014",
+    "locations": [
+      {
+        "name": "Hastings",
+        "url": "https://sv.wikipedia.org/wiki/Hastings",
+        "lat": 50.854259,
+        "lng": 0.573453
+      },
+      {
+        "name": "Umeå",
+        "url": "https://sv.wikipedia.org/wiki/Ume%C3%A5",
+        "lat": 63.8258471,
+        "lng": 20.2630354
+      },
+      {
+        "name": "São Paulo",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%A3o_Paulo",
+        "lat": -23.5557714,
+        "lng": -46.6395571
+      }
+    ]
+  },
+  {
+    "date": "7 februari 2014",
+    "locations": [
+      {
+        "name": "Kalmar",
+        "url": "https://sv.wikipedia.org/wiki/Kalmar",
+        "lat": 56.6634447,
+        "lng": 16.356779
+      },
+      {
+        "name": "Dubrovnik",
+        "url": "https://sv.wikipedia.org/wiki/Dubrovnik",
+        "lat": 42.65066059999999,
+        "lng": 18.0944238
+      },
+      {
+        "name": "Atlanta",
+        "url": "https://sv.wikipedia.org/wiki/Atlanta",
+        "lat": 33.748752,
+        "lng": -84.38768449999999
+      }
+    ]
+  },
+  {
+    "date": "14 februari 2014",
+    "locations": [
+      {
+        "name": "Norrköping",
+        "url": "https://sv.wikipedia.org/wiki/Norrk%C3%B6ping",
+        "lat": 58.587745,
+        "lng": 16.192421
+      },
+      {
+        "name": "Beirut",
+        "url": "https://sv.wikipedia.org/wiki/Beirut",
+        "lat": 33.8937913,
+        "lng": 35.5017767
+      },
+      {
+        "name": "Turin",
+        "url": "https://sv.wikipedia.org/wiki/Turin",
+        "lat": 45.070312,
+        "lng": 7.686856499999999
+      }
+    ]
+  },
+  {
+    "date": "28 november 2014",
+    "locations": [
+      {
+        "name": "Chicago",
+        "url": "https://sv.wikipedia.org/wiki/Chicago",
+        "lat": 41.8781136,
+        "lng": -87.6297982
+      },
+      {
+        "name": "Ullared",
+        "url": "https://sv.wikipedia.org/wiki/Ullared",
+        "lat": 57.1362284,
+        "lng": 12.718278
+      },
+      {
+        "name": "Bath",
+        "url": "https://sv.wikipedia.org/wiki/Bath",
+        "lat": 51.3781018,
+        "lng": -2.3596827
+      }
+    ]
+  },
+  {
+    "date": "5 december 2014",
+    "locations": [
+      {
+        "name": "Seoul",
+        "url": "https://sv.wikipedia.org/wiki/Seoul",
+        "lat": 37.566535,
+        "lng": 126.9779692
+      },
+      {
+        "name": "Helsingfors",
+        "url": "https://sv.wikipedia.org/wiki/Helsingfors",
+        "lat": 60.16985569999999,
+        "lng": 24.938379
+      },
+      {
+        "name": "Landskrona",
+        "url": "https://sv.wikipedia.org/wiki/Landskrona",
+        "lat": 55.8703477,
+        "lng": 12.8300802
+      }
+    ]
+  },
+  {
+    "date": "12 december 2014",
+    "locations": [
+      {
+        "name": "Nottingham",
+        "url": "https://sv.wikipedia.org/wiki/Nottingham",
+        "lat": 52.9540223,
+        "lng": -1.1549892
+      },
+      {
+        "name": "Skövde",
+        "url": "https://sv.wikipedia.org/wiki/Sk%C3%B6vde",
+        "lat": 58.3902782,
+        "lng": 13.8461208
+      },
+      {
+        "name": "New York",
+        "url": "https://sv.wikipedia.org/wiki/New_York",
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      }
+    ]
+  },
+  {
+    "date": "19 december 2014",
+    "locations": [
+      {
+        "name": "Austin",
+        "url": "https://sv.wikipedia.org/wiki/Austin",
+        "lat": 30.267153,
+        "lng": -97.7430608
+      },
+      {
+        "name": "Düsseldorf",
+        "url": "https://sv.wikipedia.org/wiki/D%C3%BCsseldorf",
+        "lat": 51.2277411,
+        "lng": 6.7734556
+      },
+      {
+        "name": "Jönköping",
+        "url": "https://sv.wikipedia.org/wiki/J%C3%B6nk%C3%B6ping",
+        "lat": 57.78261370000001,
+        "lng": 14.1617876
+      }
+    ]
+  },
+  {
+    "date": "26 december 2014",
+    "locations": [
+      {
+        "name": "Trollhättan",
+        "url": "https://sv.wikipedia.org/wiki/Trollh%C3%A4ttan",
+        "lat": 58.28348939999999,
+        "lng": 12.2858206
+      },
+      {
+        "name": "Madrid",
+        "url": "https://sv.wikipedia.org/wiki/Madrid",
+        "lat": 40.4167754,
+        "lng": -3.7037902
+      },
+      {
+        "name": "Tokyo",
+        "url": "https://sv.wikipedia.org/wiki/Tokyo",
+        "lat": 35.6761919,
+        "lng": 139.6503106
+      }
+    ]
+  },
+  {
+    "date": "2 januari 2015",
+    "locations": [
+      {
+        "name": "Prag",
+        "url": "https://sv.wikipedia.org/wiki/Prag",
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      },
+      {
+        "name": "Sundsvall",
+        "url": "https://sv.wikipedia.org/wiki/Sundsvall",
+        "lat": 62.390811,
+        "lng": 17.306927
+      },
+      {
+        "name": "Gibraltar",
+        "url": "https://sv.wikipedia.org/wiki/Gibraltar",
+        "lat": 36.140751,
+        "lng": -5.353585
+      }
+    ]
+  },
+  {
+    "date": "9 januari 2015",
+    "locations": [
+      {
+        "name": "Roskilde",
+        "url": "https://sv.wikipedia.org/wiki/Roskilde",
+        "lat": 55.64191,
+        "lng": 12.087845
+      },
+      {
+        "name": "Kabul",
+        "url": "https://sv.wikipedia.org/wiki/Kabul",
+        "lat": 34.5553494,
+        "lng": 69.207486
+      },
+      {
+        "name": "Gävle",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%A4vle",
+        "lat": 60.6748796,
+        "lng": 17.1412726
+      }
+    ]
+  },
+  {
+    "date": "16 januari 2015",
+    "locations": [
+      {
+        "name": "Rio de Janeiro",
+        "url": "https://sv.wikipedia.org/wiki/Rio_de_Janeiro",
+        "lat": -22.9068467,
+        "lng": -43.1728965
+      },
+      {
+        "name": "Helsingborg",
+        "url": "https://sv.wikipedia.org/wiki/Helsingborg",
+        "lat": 56.0464674,
+        "lng": 12.6945121
+      },
+      {
+        "name": "Leeds",
+        "url": "https://sv.wikipedia.org/wiki/Leeds",
+        "lat": 53.8007554,
+        "lng": -1.5490774
+      }
+    ]
+  },
+  {
+    "date": "23 januari 2015",
+    "locations": [
+      {
+        "name": "Milwaukee",
+        "url": "https://sv.wikipedia.org/wiki/Milwaukee",
+        "lat": 43.0389025,
+        "lng": -87.9064736
+      },
+      {
+        "name": "Lillehammer",
+        "url": "https://sv.wikipedia.org/wiki/Lillehammer",
+        "lat": 61.1152713,
+        "lng": 10.4662306
+      },
+      {
+        "name": "Nairobi",
+        "url": "https://sv.wikipedia.org/wiki/Nairobi",
+        "lat": -1.2920659,
+        "lng": 36.8219462
+      }
+    ]
+  },
+  {
+    "date": "30 januari 2015",
+    "locations": [
+      {
+        "name": "Tel Aviv",
+        "url": "https://sv.wikipedia.org/wiki/Tel_Aviv",
+        "lat": 32.0852999,
+        "lng": 34.78176759999999
+      },
+      {
+        "name": "Skellefteå",
+        "url": "https://sv.wikipedia.org/wiki/Skellefte%C3%A5",
+        "lat": 64.750244,
+        "lng": 20.950917
+      },
+      {
+        "name": "Liverpool",
+        "url": "https://sv.wikipedia.org/wiki/Liverpool",
+        "lat": 53.4083714,
+        "lng": -2.9915726
+      }
+    ]
+  },
+  {
+    "date": "6 februari 2015",
+    "locations": [
+      {
+        "name": "Borlänge",
+        "url": "https://sv.wikipedia.org/wiki/Borl%C3%A4nge",
+        "lat": 60.484304,
+        "lng": 15.433969
+      },
+      {
+        "name": "Havanna",
+        "url": "https://sv.wikipedia.org/wiki/Havanna",
+        "lat": 23.1135925,
+        "lng": -82.3665956
+      },
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      }
+    ]
+  },
+  {
+    "date": "13 februari 2015",
+    "locations": [
+      {
+        "name": "Orlando",
+        "url": "https://sv.wikipedia.org/wiki/Orlando,_Florida",
+        "lat": 28.5383832,
+        "lng": -81.3789269
+      },
+      {
+        "name": "Phuket",
+        "url": "https://sv.wikipedia.org/wiki/Phuket",
+        "lat": 7.9519331,
+        "lng": 98.33808839999999
+      },
+      {
+        "name": "Casablanca",
+        "url": "https://sv.wikipedia.org/wiki/Casablanca",
+        "lat": 33.5731104,
+        "lng": -7.589843399999999
+      }
+    ]
+  },
+  {
+    "date": "20 februari 2015",
+    "locations": [
+      {
+        "name": "Warszawa",
+        "url": "https://sv.wikipedia.org/wiki/Warszawa",
+        "lat": 52.2296756,
+        "lng": 21.0122287
+      },
+      {
+        "name": "Alingsås",
+        "url": "https://sv.wikipedia.org/wiki/Alings%C3%A5s",
+        "lat": 57.9300205,
+        "lng": 12.5362113
+      },
+      {
+        "name": "Amsterdam",
+        "url": "https://sv.wikipedia.org/wiki/Amsterdam",
+        "lat": 52.3675734,
+        "lng": 4.9041389
+      }
+    ]
+  },
+  {
+    "date": "20 november 2015",
+    "locations": [
+      {
+        "name": "Sydney",
+        "url": "https://sv.wikipedia.org/wiki/Sydney",
+        "lat": -33.8688197,
+        "lng": 151.2092955
+      },
+      {
+        "name": "Torekov",
+        "url": "https://sv.wikipedia.org/wiki/Torekov",
+        "lat": 56.423635,
+        "lng": 12.6273003
+      },
+      {
+        "name": "Köpenhamn",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      }
+    ]
+  },
+  {
+    "date": "27 november 2015",
+    "locations": [
+      {
+        "name": "Paris",
+        "url": "https://sv.wikipedia.org/wiki/Paris",
+        "lat": 48.856614,
+        "lng": 2.3522219
+      },
+      {
+        "name": "Luleå",
+        "url": "https://sv.wikipedia.org/wiki/Lule%C3%A5",
+        "lat": 65.584819,
+        "lng": 22.1567026
+      },
+      {
+        "name": "Hongkong",
+        "url": "https://sv.wikipedia.org/wiki/Hongkong",
+        "lat": 22.3193039,
+        "lng": 114.1693611
+      }
+    ]
+  },
+  {
+    "date": "4 december 2015",
+    "locations": [
+      {
+        "name": "Ankara",
+        "url": "https://sv.wikipedia.org/wiki/Ankara",
+        "lat": 39.9333635,
+        "lng": 32.8597419
+      },
+      {
+        "name": "Varberg",
+        "url": "https://sv.wikipedia.org/wiki/Varberg",
+        "lat": 57.107118,
+        "lng": 12.2520907
+      },
+      {
+        "name": "Saint Louis",
+        "url": "https://sv.wikipedia.org/wiki/Saint_Louis",
+        "lat": 38.6270025,
+        "lng": -90.19940419999999
+      }
+    ]
+  },
+  {
+    "date": "11 december 2015",
+    "locations": [
+      {
+        "name": "San Francisco",
+        "url": "https://sv.wikipedia.org/wiki/San_Francisco",
+        "lat": 37.7749295,
+        "lng": -122.4194155
+      },
+      {
+        "name": "Sälen",
+        "url": "https://sv.wikipedia.org/wiki/S%C3%A4len",
+        "lat": 61.1613853,
+        "lng": 13.2630157
+      },
+      {
+        "name": "Belgrad",
+        "url": "https://sv.wikipedia.org/wiki/Belgrad",
+        "lat": 44.8125449,
+        "lng": 20.46123
+      }
+    ]
+  },
+  {
+    "date": "18 december 2015",
+    "locations": [
+      {
+        "name": "Haag",
+        "url": "https://sv.wikipedia.org/wiki/Haag",
+        "lat": 52.0704978,
+        "lng": 4.3006999
+      },
+      {
+        "name": "Buenos Aires",
+        "url": "https://sv.wikipedia.org/wiki/Buenos_Aires",
+        "lat": -34.6036844,
+        "lng": -58.3815591
+      },
+      {
+        "name": "Simrishamn",
+        "url": "https://sv.wikipedia.org/wiki/Simrishamn",
+        "lat": 55.5573959,
+        "lng": 14.3489651
+      }
+    ]
+  },
+  {
+    "date": "25 december 2015",
+    "locations": [
+      {
+        "name": "Southampton",
+        "url": "https://sv.wikipedia.org/wiki/Southampton",
+        "lat": 50.9105468,
+        "lng": -1.4049018
+      },
+      {
+        "name": "Milano",
+        "url": "https://sv.wikipedia.org/wiki/Milano",
+        "lat": 45.4642035,
+        "lng": 9.189982
+      },
+      {
+        "name": "Falun",
+        "url": "https://sv.wikipedia.org/wiki/Falun",
+        "lat": 60.60646000000001,
+        "lng": 15.6355
+      }
+    ]
+  },
+  {
+    "date": "1 januari 2016",
+    "locations": [
+      {
+        "name": "Östersund",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96stersund",
+        "lat": 63.1766832,
+        "lng": 14.6360681
+      },
+      {
+        "name": "Jakarta",
+        "url": "https://sv.wikipedia.org/wiki/Djakarta",
+        "lat": -6.2087634,
+        "lng": 106.845599
+      },
+      {
+        "name": "Visby",
+        "url": "https://sv.wikipedia.org/wiki/Visby",
+        "lat": 57.6348,
+        "lng": 18.29484
+      }
+    ]
+  },
+  {
+    "date": "8 januari 2016",
+    "locations": [
+      {
+        "name": "Malmö",
+        "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
+        "lat": 55.604981,
+        "lng": 13.003822
+      },
+      {
+        "name": "Lausanne",
+        "url": "https://sv.wikipedia.org/wiki/Lausanne",
+        "lat": 46.5196535,
+        "lng": 6.6322734
+      },
+      {
+        "name": "Abu Dhabi",
+        "url": "https://sv.wikipedia.org/wiki/Abu_Dhabi",
+        "lat": 24.453884,
+        "lng": 54.3773438
+      }
+    ]
+  },
+  {
+    "date": "15 januari 2016",
+    "locations": [
+      {
+        "name": "Valencia",
+        "url": "https://sv.wikipedia.org/wiki/Valencia",
+        "lat": 39.4699075,
+        "lng": -0.3762881
+      },
+      {
+        "name": "Parma",
+        "url": "https://sv.wikipedia.org/wiki/Parma",
+        "lat": 44.801485,
+        "lng": 10.3279036
+      },
+      {
+        "name": "Johannesburg",
+        "url": "https://sv.wikipedia.org/wiki/Johannesburg",
+        "lat": -26.2041028,
+        "lng": 28.0473051
+      }
+    ]
+  },
+  {
+    "date": "22 januari 2016",
+    "locations": [
+      {
+        "name": "Newcastle",
+        "url": "https://sv.wikipedia.org/wiki/Newcastle_upon_Tyne",
+        "lat": 54.21614,
+        "lng": -5.8920445
+      },
+      {
+        "name": "Gaborone",
+        "url": "https://sv.wikipedia.org/wiki/Gaborone",
+        "lat": -24.6282079,
+        "lng": 25.9231471
+      },
+      {
+        "name": "Salzburg",
+        "url": "https://sv.wikipedia.org/wiki/Salzburg",
+        "lat": 47.80949,
+        "lng": 13.05501
+      }
+    ]
+  },
+  {
+    "date": "29 januari 2016",
+    "locations": [
+      {
+        "name": "Vetlanda",
+        "url": "https://sv.wikipedia.org/wiki/Vetlanda",
+        "lat": 57.42746,
+        "lng": 15.08533
+      },
+      {
+        "name": "Helsingör",
+        "url": "https://sv.wikipedia.org/wiki/Helsing%C3%B6r",
+        "lat": 56.030787,
+        "lng": 12.592127
+      },
+      {
+        "name": "Key West",
+        "url": "https://sv.wikipedia.org/wiki/Key_West",
+        "lat": 24.5550593,
+        "lng": -81.7799871
+      }
+    ]
+  },
+  {
+    "date": "5 februari 2016",
+    "locations": [
+      {
+        "name": "Wellington",
+        "url": "https://sv.wikipedia.org/wiki/Wellington",
+        "lat": -41.2923814,
+        "lng": 174.7787463
+      },
+      {
+        "name": "Uppsala",
+        "url": "https://sv.wikipedia.org/wiki/Uppsala",
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
+      },
+      {
+        "name": "La Paz",
+        "url": "https://sv.wikipedia.org/wiki/La_Paz",
+        "lat": -16.489689,
+        "lng": -68.11929359999999
+      }
+    ]
+  },
+  {
+    "date": "12 februari 2016",
+    "locations": [
+      {
+        "name": "Toulouse",
+        "url": "https://sv.wikipedia.org/wiki/Toulouse",
+        "lat": 43.604652,
+        "lng": 1.444209
+      },
+      {
+        "name": "Andorra la Vella",
+        "url": "https://sv.wikipedia.org/wiki/Andorra_la_Vella",
+        "lat": 42.4919826,
+        "lng": 1.5111806
+      },
+      {
+        "name": "Nassau",
+        "url": "https://sv.wikipedia.org/wiki/Nassau,_Bahamas",
+        "lat": 25.0443312,
+        "lng": -77.3503609
+      }
+    ]
+  },
+  {
+    "date": "2 december 2016",
+    "locations": [
+      {
+        "name": "Monaco",
+        "url": "https://sv.wikipedia.org/wiki/Monaco",
+        "lat": 43.73841760000001,
+        "lng": 7.424615799999999
+      },
+      {
+        "name": "Strängnäs",
+        "url": "https://sv.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s",
+        "lat": 59.37745229999999,
+        "lng": 17.0321193
+      },
+      {
+        "name": "Montréal",
+        "url": "https://sv.wikipedia.org/wiki/Montr%C3%A9al",
+        "lat": 45.5018869,
+        "lng": -73.56739189999999
+      }
+    ]
+  },
+  {
+    "date": "9 december 2016",
+    "locations": [
+      {
+        "name": "Oslo",
+        "url": "https://sv.wikipedia.org/wiki/Oslo",
+        "lat": 59.9138688,
+        "lng": 10.7522454
+      },
+      {
+        "name": "Arvika",
+        "url": "https://sv.wikipedia.org/wiki/Arvika",
+        "lat": 59.6548534,
+        "lng": 12.592136
+      },
+      {
+        "name": "Tunis",
+        "url": "https://sv.wikipedia.org/wiki/Tunis",
+        "lat": 36.8064948,
+        "lng": 10.1815316
+      }
+    ]
+  },
+  {
+    "date": "16 december 2016",
+    "locations": [
+      {
+        "name": "Narvik",
+        "url": "https://sv.wikipedia.org/wiki/Narvik",
+        "lat": 68.4384984,
+        "lng": 17.4272612
+      },
+      {
+        "name": "Sevilla",
+        "url": "https://sv.wikipedia.org/wiki/Sevilla",
+        "lat": 37.3890924,
+        "lng": -5.9844589
+      },
+      {
+        "name": "Stenungsund",
+        "url": "https://sv.wikipedia.org/wiki/Stenungsund",
+        "lat": 58.0678388,
+        "lng": 11.8294346
+      }
+    ]
+  },
+  {
+    "date": "23 december 2016",
+    "locations": [
+      {
+        "name": "Betlehem",
+        "url": "https://sv.wikipedia.org/wiki/Betlehem",
+        "lat": 31.70538209999999,
+        "lng": 35.2024425
+      },
+      {
+        "name": "Sunne",
+        "url": "https://sv.wikipedia.org/wiki/Sunne",
+        "lat": 59.83655749999999,
+        "lng": 13.1440464
+      },
+      {
+        "name": "Las Palmas",
+        "url": "https://sv.wikipedia.org/wiki/Las_Palmas_de_Gran_Canaria",
+        "lat": 28.1235459,
+        "lng": -15.4362574
+      },
+      {
+        "name": "Rovaniemi",
+        "url": "https://sv.wikipedia.org/wiki/Rovaniemi",
+        "lat": 66.50394779999999,
+        "lng": 25.7293905
+      }
+    ]
+  },
+  {
+    "date": "30 december 2016",
+    "locations": [
+      {
+        "name": "Berlin",
+        "url": "https://sv.wikipedia.org/wiki/Berlin",
+        "lat": 52.52000659999999,
+        "lng": 13.404954
+      },
+      {
+        "name": "Örnsköldsvik",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rnsk%C3%B6ldsvik",
+        "lat": 63.29004740000001,
+        "lng": 18.7166166
+      },
+      {
+        "name": "Budapest",
+        "url": "https://sv.wikipedia.org/wiki/Budapest",
+        "lat": 47.497912,
+        "lng": 19.040235
+      }
+    ]
+  },
+  {
+    "date": "6 januari 2017",
+    "locations": [
+      {
+        "name": "Glasgow",
+        "url": "https://sv.wikipedia.org/wiki/Glasgow",
+        "lat": 55.864237,
+        "lng": -4.251806
+      },
+      {
+        "name": "Ulan Bator",
+        "url": "https://sv.wikipedia.org/wiki/Ulan_Bator",
+        "lat": 47.88639879999999,
+        "lng": 106.9057439
+      },
+      {
+        "name": "Halmstad",
+        "url": "https://sv.wikipedia.org/wiki/Halmstad",
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      }
+    ]
+  },
+  {
+    "date": "13 januari 2017",
+    "locations": [
+      {
+        "name": "Pretoria",
+        "url": "https://sv.wikipedia.org/wiki/Pretoria",
+        "lat": -25.7478676,
+        "lng": 28.2292712
+      },
+      {
+        "name": "Strömstad",
+        "url": "https://sv.wikipedia.org/wiki/Str%C3%B6mstad",
+        "lat": 58.9383459,
+        "lng": 11.1791871
+      },
+      {
+        "name": "Bombay",
+        "url": "https://sv.wikipedia.org/wiki/Bombay",
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      }
+    ]
+  },
+  {
+    "date": "20 januari 2017",
+    "locations": [
+      {
+        "name": "Örebro",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rebro",
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      },
+      {
+        "name": "Teheran",
+        "url": "https://sv.wikipedia.org/wiki/Teheran",
+        "lat": 35.7218583,
+        "lng": 51.3346954
+      },
+      {
+        "name": "Manchester",
+        "url": "https://sv.wikipedia.org/wiki/Manchester",
+        "lat": 53.4807593,
+        "lng": -2.2426305
+      }
+    ]
+  },
+  {
+    "date": "27 januari 2017",
+    "locations": [
+      {
+        "name": "Aten",
+        "url": "https://sv.wikipedia.org/wiki/Aten",
+        "lat": 37.9838096,
+        "lng": 23.7275388
+      },
+      {
+        "name": "Bali",
+        "url": "https://sv.wikipedia.org/wiki/Bali",
+        "lat": -8.4095178,
+        "lng": 115.188916
+      },
+      {
+        "name": "Borås",
+        "url": "https://sv.wikipedia.org/wiki/Bor%C3%A5s",
+        "lat": 57.72103500000001,
+        "lng": 12.939819
+      }
+    ]
+  },
+  {
+    "date": "3 februari 2017",
+    "locations": [
+      {
+        "name": "Gällivare",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%A4llivare",
+        "lat": 67.1379,
+        "lng": 20.6593618
+      },
+      {
+        "name": "Marbella",
+        "url": "https://sv.wikipedia.org/wiki/Marbella",
+        "lat": 36.510071,
+        "lng": -4.8824474
+      },
+      {
+        "name": "Pittsburgh",
+        "url": "https://sv.wikipedia.org/wiki/Pittsburgh",
+        "lat": 40.44062479999999,
+        "lng": -79.9958864
+      }
+    ]
+  },
+  {
+    "date": "10 februari 2017",
+    "locations": [
+      {
+        "name": "Bogotá",
+        "url": "https://sv.wikipedia.org/wiki/Bogot%C3%A1",
+        "lat": 4.710988599999999,
+        "lng": -74.072092
+      },
+      {
+        "name": "Sandhamn",
+        "url": "https://sv.wikipedia.org/wiki/Sandhamn",
+        "lat": 59.28787029999999,
+        "lng": 18.9108304
+      },
+      {
+        "name": "Kuala Lumpur",
+        "url": "https://sv.wikipedia.org/wiki/Kuala_Lumpur",
+        "lat": 3.139003,
+        "lng": 101.686855
+      }
+    ]
+  },
+  {
+    "date": "17 februari 2017",
+    "locations": [
+      {
+        "name": "Mexico City",
+        "url": "https://sv.wikipedia.org/wiki/Mexico_City",
+        "lat": 19.4326077,
+        "lng": -99.133208
+      },
+      {
+        "name": "Bratislava",
+        "url": "https://sv.wikipedia.org/wiki/Bratislava",
+        "lat": 48.1485965,
+        "lng": 17.1077477
+      },
+      {
+        "name": "Norrköping",
+        "url": "https://sv.wikipedia.org/wiki/Norrk%C3%B6ping",
+        "lat": 58.587745,
+        "lng": 16.192421
+      }
+    ]
+  },
+  {
+    "date": "24 februari 2017",
+    "locations": [
+      {
+        "name": "Dublin",
+        "url": "https://sv.wikipedia.org/wiki/Dublin",
+        "lat": 53.3498053,
+        "lng": -6.2603097
+      },
+      {
+        "name": "Torshamn",
+        "url": "https://sv.wikipedia.org/wiki/Torshamn",
+        "lat": 62.01072479999999,
+        "lng": -6.7740852
+      },
+      {
+        "name": "Canberra",
+        "url": "https://sv.wikipedia.org/wiki/Canberra",
+        "lat": -35.3075,
+        "lng": 149.124417
+      }
+    ]
+  },
+  {
+    "date": "3 mars 2017",
+    "locations": [
+      {
+        "name": "Las Vegas",
+        "url": "https://sv.wikipedia.org/wiki/Las_Vegas",
+        "lat": 36.171563,
+        "lng": -115.1391009
+      },
+      {
+        "name": "Pyongyang",
+        "url": "https://sv.wikipedia.org/wiki/Pyongyang",
+        "lat": 39.0392193,
+        "lng": 125.7625241
+      },
+      {
+        "name": "Pisa",
+        "url": "https://sv.wikipedia.org/wiki/Pisa",
+        "lat": 43.7228386,
+        "lng": 10.4016888
+      }
+    ]
+  },
+  {
+    "date": "8 december 2017",
+    "locations": [
+      {
+        "name": "Lissabon",
+        "url": "https://sv.wikipedia.org/wiki/Lissabon",
+        "lat": 38.7222524,
+        "lng": -9.1393366
+      },
+      {
+        "name": "Kalmar",
+        "url": "https://sv.wikipedia.org/wiki/Kalmar",
+        "lat": 56.6634447,
+        "lng": 16.356779
+      },
+      {
+        "name": "Dakar",
+        "url": "https://sv.wikipedia.org/wiki/Dakar",
+        "lat": 14.716677,
+        "lng": -17.4676861
+      }
+    ]
+  },
+  {
+    "date": "15 december 2017",
+    "locations": [
+      {
+        "name": "Västerås",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4ster%C3%A5s",
+        "lat": 59.60990049999999,
+        "lng": 16.5448091
+      },
+      {
+        "name": "Phoenix",
+        "url": "https://sv.wikipedia.org/wiki/Phoenix",
+        "lat": 33.4483771,
+        "lng": -112.0740373
+      },
+      {
+        "name": "Cork",
+        "url": "https://sv.wikipedia.org/wiki/Cork",
+        "lat": 51.8985143,
+        "lng": -8.4756035
+      }
+    ]
+  },
+  {
+    "date": "22 december 2017",
+    "locations": [
+      {
+        "name": "Edinburgh",
+        "url": "https://sv.wikipedia.org/wiki/Edinburgh",
+        "lat": 55.953252,
+        "lng": -3.188267
+      },
+      {
+        "name": "Wien",
+        "url": "https://sv.wikipedia.org/wiki/Wien",
+        "lat": 48.2081743,
+        "lng": 16.3738189
+      },
+      {
+        "name": "Brisbane",
+        "url": "https://sv.wikipedia.org/wiki/Brisbane",
+        "lat": -27.4704528,
+        "lng": 153.0260341
+      }
+    ]
+  },
+  {
+    "date": "29 december 2017",
+    "locations": [
+      {
+        "name": "London",
+        "url": "https://sv.wikipedia.org/wiki/London",
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      },
+      {
+        "name": "Hanoi",
+        "url": "https://sv.wikipedia.org/wiki/Hanoi",
+        "lat": 21.0031177,
+        "lng": 105.8201408
+      },
+      {
+        "name": "Hallsberg",
+        "url": "https://sv.wikipedia.org/wiki/Hallsberg",
+        "lat": 59.0665316,
+        "lng": 15.10229
+      }
+    ]
+  },
+  {
+    "date": "5 januari 2018",
+    "locations": [
+      {
+        "name": "Nashville",
+        "url": "https://sv.wikipedia.org/wiki/Nashville",
+        "lat": 36.1626638,
+        "lng": -86.7816016
+      },
+      {
+        "name": "Strasbourg",
+        "url": "https://sv.wikipedia.org/wiki/Strasbourg",
+        "lat": 48.5734053,
+        "lng": 7.752111299999999
+      },
+      {
+        "name": "Köping",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6ping",
+        "lat": 59.5120962,
+        "lng": 15.9945102
+      }
+    ]
+  },
+  {
+    "date": "12 januari 2018",
+    "locations": [
+      {
+        "name": "Minsk",
+        "url": "https://sv.wikipedia.org/wiki/Minsk",
+        "lat": 53.9006011,
+        "lng": 27.558972
+      },
+      {
+        "name": "Bagdad",
+        "url": "https://sv.wikipedia.org/wiki/Bagdad",
+        "lat": 33.315241,
+        "lng": 44.3660671
+      },
+      {
+        "name": "Alvesta",
+        "url": "https://sv.wikipedia.org/wiki/Alvesta",
+        "lat": 56.89921039999999,
+        "lng": 14.5560006
+      }
+    ]
+  },
+  {
+    "date": "19 januari 2018",
+    "locations": [
+      {
+        "name": "Singapore",
+        "url": "https://sv.wikipedia.org/wiki/Singapore",
+        "lat": 1.352083,
+        "lng": 103.819836
+      },
+      {
+        "name": "Lund",
+        "url": "https://sv.wikipedia.org/wiki/Lund",
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Göteborg",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%B6teborg",
+        "lat": 57.70887,
+        "lng": 11.97456
+      }
+    ]
+  },
+  {
+    "date": "26 januari 2018",
+    "locations": [
+      {
+        "name": "Los Angeles",
+        "url": "https://sv.wikipedia.org/wiki/Los_Angeles",
+        "lat": 34.0522342,
+        "lng": -118.2436849
+      },
+      {
+        "name": "Odense",
+        "url": "https://sv.wikipedia.org/wiki/Odense",
+        "lat": 55.40375599999999,
+        "lng": 10.40237
+      },
+      {
+        "name": "Nyköping",
+        "url": "https://sv.wikipedia.org/wiki/Nyk%C3%B6ping",
+        "lat": 58.75284389999999,
+        "lng": 17.0091593
+      }
+    ]
+  },
+  {
+    "date": "2 februari 2018",
+    "locations": [
+      {
+        "name": "Venedig",
+        "url": "https://sv.wikipedia.org/wiki/Venedig",
+        "lat": 45.4408474,
+        "lng": 12.3155151
+      },
+      {
+        "name": "Quito",
+        "url": "https://sv.wikipedia.org/wiki/Quito",
+        "lat": -0.1806532,
+        "lng": -78.4678382
+      },
+      {
+        "name": "Kiruna",
+        "url": "https://sv.wikipedia.org/wiki/Kiruna",
+        "lat": 67.8557995,
+        "lng": 20.2252821
+      }
+    ]
+  },
+  {
+    "date": "9 februari 2018",
+    "locations": [
+      {
+        "name": "München",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%BCnchen",
+        "lat": 48.1351253,
+        "lng": 11.5819806
+      },
+      {
+        "name": "Taipei",
+        "url": "https://sv.wikipedia.org/wiki/Taipei",
+        "lat": 25.0329636,
+        "lng": 121.5654268
+      },
+      {
+        "name": "Trondheim",
+        "url": "https://sv.wikipedia.org/wiki/Trondheim",
+        "lat": 63.4305149,
+        "lng": 10.3950528
+      }
+    ]
+  },
+  {
+    "date": "16 februari 2018",
+    "locations": [
+      {
+        "name": "Rom",
+        "url": "https://sv.wikipedia.org/wiki/Rom",
+        "lat": 41.9027835,
+        "lng": 12.4963655
+      },
+      {
+        "name": "Vilnius",
+        "url": "https://sv.wikipedia.org/wiki/Vilnius",
+        "lat": 54.6871555,
+        "lng": 25.2796514
+      },
+      {
+        "name": "Pajala",
+        "url": "https://sv.wikipedia.org/wiki/Pajala",
+        "lat": 67.21278199999999,
+        "lng": 23.367392
+      }
+    ]
+  },
+  {
+    "date": "23 februari 2018",
+    "locations": [
+      {
+        "name": "Dresden",
+        "url": "https://sv.wikipedia.org/wiki/Dresden",
+        "lat": 51.0504088,
+        "lng": 13.7372621
+      },
+      {
+        "name": "Reykjavik",
+        "url": "https://sv.wikipedia.org/wiki/Reykjavik",
+        "lat": 64.146582,
+        "lng": -21.9426354
+      },
+      {
+        "name": "Damaskus",
+        "url": "https://sv.wikipedia.org/wiki/Damaskus",
+        "lat": 33.5138073,
+        "lng": 36.2765279
+      }
+    ]
+  },
+  {
+    "date": "2 mars 2018",
+    "locations": [
+      {
+        "name": "Kingston",
+        "url": "https://sv.wikipedia.org/wiki/Kingston",
+        "lat": 18.0178743,
+        "lng": -76.8099041
+      },
+      {
+        "name": "Karlshamn",
+        "url": "https://sv.wikipedia.org/wiki/Karlshamn",
+        "lat": 56.170303,
+        "lng": 14.863073
+      },
+      {
+        "name": "Istanbul",
+        "url": "https://sv.wikipedia.org/wiki/Istanbul",
+        "lat": 41.0082376,
+        "lng": 28.9783589
+      }
+    ]
+  },
+  {
+    "date": "30 november 2018",
+    "locations": [
+      {
+        "name": "Falkenberg",
+        "url": "https://sv.wikipedia.org/wiki/Falkenberg",
+        "lat": 56.90273329999999,
+        "lng": 12.4888013
+      },
+      {
+        "name": "Kraków",
+        "url": "https://sv.wikipedia.org/wiki/Krak%C3%B3w",
+        "lat": 50.06465009999999,
+        "lng": 19.9449799
+      },
+      {
+        "name": "New York",
+        "url": "https://sv.wikipedia.org/wiki/New_York",
+        "lat": 40.7127753,
+        "lng": -74.0059728
+      }
+    ]
+  },
+  {
+    "date": "7 december 2018",
+    "locations": [
+      {
+        "name": "Leipzig",
+        "url": "https://sv.wikipedia.org/wiki/Leipzig",
+        "lat": 51.3396955,
+        "lng": 12.3730747
+      },
+      {
+        "name": "Nora",
+        "url": "https://sv.wikipedia.org/wiki/Nora",
+        "lat": 59.51920639999999,
+        "lng": 15.0378667
+      },
+      {
+        "name": "Bologna",
+        "url": "https://sv.wikipedia.org/wiki/Bologna",
+        "lat": 44.494887,
+        "lng": 11.3426163
+      }
+    ]
+  },
+  {
+    "date": "14 december 2018",
+    "locations": [
+      {
+        "name": "Limerick",
+        "url": "https://sv.wikipedia.org/wiki/Limerick",
+        "lat": 52.6638367,
+        "lng": -8.6267343
+      },
+      {
+        "name": "Shanghai",
+        "url": "https://sv.wikipedia.org/wiki/Shanghai",
+        "lat": 31.230416,
+        "lng": 121.473701
+      },
+      {
+        "name": "Stavanger",
+        "url": "https://sv.wikipedia.org/wiki/Stavanger",
+        "lat": 58.9699756,
+        "lng": 5.7331073
+      }
+    ]
+  },
+  {
+    "date": "21 december 2018",
+    "locations": [
+      {
+        "name": "Mariehamn",
+        "url": "https://sv.wikipedia.org/wiki/Mariehamn",
+        "lat": 60.0970945,
+        "lng": 19.9348339
+      },
+      {
+        "name": "Jokkmokk",
+        "url": "https://sv.wikipedia.org/wiki/Jokkmokk",
+        "lat": 66.60696089999999,
+        "lng": 19.8229206
+      },
+      {
+        "name": "Mogadishu",
+        "url": "https://sv.wikipedia.org/wiki/Mogadishu",
+        "lat": 2.0469343,
+        "lng": 45.3181623
+      }
+    ]
+  },
+  {
+    "date": "28 december 2018",
+    "locations": [
+      {
+        "name": "Uddevalla",
+        "url": "https://sv.wikipedia.org/wiki/Uddevalla",
+        "lat": 58.3498003,
+        "lng": 11.935649
+      },
+      {
+        "name": "Baku",
+        "url": "https://sv.wikipedia.org/wiki/Baku",
+        "lat": 40.40926169999999,
+        "lng": 49.8670924
+      },
+      {
+        "name": "Calcutta",
+        "url": "https://sv.wikipedia.org/wiki/Calcutta",
+        "lat": 22.572646,
+        "lng": 88.36389500000001
+      }
+    ]
+  },
+  {
+    "date": "4 januari 2019",
+    "locations": [
+      {
+        "name": "Tirana",
+        "url": "https://sv.wikipedia.org/wiki/Tirana",
+        "lat": 41.3275459,
+        "lng": 19.8186982
+      },
+      {
+        "name": "Ludvika",
+        "url": "https://sv.wikipedia.org/wiki/Ludvika",
+        "lat": 60.152358,
+        "lng": 15.191639
+      },
+      {
+        "name": "Åbo",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85bo",
+        "lat": 60.4518126,
+        "lng": 22.2666303
+      }
+    ]
+  },
+  {
+    "date": "11 januari 2019",
+    "locations": [
+      {
+        "name": "Valparaíso",
+        "url": "https://sv.wikipedia.org/wiki/Valpara%C3%ADso",
+        "lat": -33.047238,
+        "lng": -71.61268849999999
+      },
+      {
+        "name": "Lidköping",
+        "url": "https://sv.wikipedia.org/wiki/Lidk%C3%B6ping",
+        "lat": 58.5035047,
+        "lng": 13.1570768
+      },
+      {
+        "name": "York",
+        "url": "https://sv.wikipedia.org/wiki/York",
+        "lat": 53.9614205,
+        "lng": -1.0739108
+      }
+    ]
+  },
+  {
+    "date": "18 januari 2019",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "url": "https://sv.wikipedia.org/wiki/Stockholm",
+        "lat": 59.32932349999999,
+        "lng": 18.0685808
+      },
+      {
+        "name": "Korfu",
+        "url": "https://sv.wikipedia.org/wiki/Korfu",
+        "lat": 39.6249838,
+        "lng": 19.9223461
+      },
+      {
+        "name": "Islamabad",
+        "url": "https://sv.wikipedia.org/wiki/Islamabad",
+        "lat": 33.6844202,
+        "lng": 73.04788479999999
+      }
+    ]
+  },
+  {
+    "date": "25 januari 2019",
+    "locations": [
+      {
+        "name": "Kairo",
+        "url": "https://sv.wikipedia.org/wiki/Kairo",
+        "lat": 30.0444196,
+        "lng": 31.2357116
+      },
+      {
+        "name": "Bangkok",
+        "url": "https://sv.wikipedia.org/wiki/Bangkok",
+        "lat": 13.7563309,
+        "lng": 100.5017651
+      },
+      {
+        "name": "Höganäs",
+        "url": "https://sv.wikipedia.org/wiki/H%C3%B6gan%C3%A4s",
+        "lat": 56.2006388,
+        "lng": 12.5553288
+      }
+    ]
+  },
+  {
+    "date": "1 februari 2019",
+    "locations": [
+      {
+        "name": "New Orleans",
+        "url": "https://sv.wikipedia.org/wiki/New_Orleans",
+        "lat": 29.95106579999999,
+        "lng": -90.0715323
+      },
+      {
+        "name": "Córdoba",
+        "url": "https://sv.wikipedia.org/wiki/C%C3%B3rdoba,_Spanien",
+        "lat": 37.8881751,
+        "lng": -4.7793835
+      },
+      {
+        "name": "Fagersta",
+        "url": "https://sv.wikipedia.org/wiki/Fagersta",
+        "lat": 59.989144,
+        "lng": 15.8166418
+      }
+    ]
+  },
+  {
+    "date": "8 februari 2019",
+    "locations": [
+      {
+        "name": "Birmingham",
+        "url": "https://sv.wikipedia.org/wiki/Birmingham",
+        "lat": 52.48624299999999,
+        "lng": -1.890401
+      },
+      {
+        "name": "Nasaret",
+        "url": "https://sv.wikipedia.org/wiki/Nasaret",
+        "lat": 32.699635,
+        "lng": 35.303546
+      },
+      {
+        "name": "Lyon",
+        "url": "https://sv.wikipedia.org/wiki/Lyon",
+        "lat": 45.764043,
+        "lng": 4.835659
+      }
+    ]
+  },
+  {
+    "date": "15 februari 2019",
+    "locations": [
+      {
+        "name": "Aspen",
+        "url": "https://sv.wikipedia.org/wiki/Aspen,_Colorado",
+        "lat": 39.1910983,
+        "lng": -106.8175387
+      },
+      {
+        "name": "Maputo",
+        "url": "https://sv.wikipedia.org/wiki/Maputo",
+        "lat": -25.969248,
+        "lng": 32.5731746
+      },
+      {
+        "name": "Paris",
+        "url": "https://sv.wikipedia.org/wiki/Paris",
+        "lat": 48.856614,
+        "lng": 2.3522219
+      }
+    ]
+  },
+  {
+    "date": "22 februari 2019",
+    "locations": [
+      {
+        "name": "Lima",
+        "url": "https://sv.wikipedia.org/wiki/Lima",
+        "lat": -12.0463731,
+        "lng": -77.042754
+      },
+      {
+        "name": "Boden",
+        "url": "https://sv.wikipedia.org/wiki/Boden",
+        "lat": 65.8251188,
+        "lng": 21.6887028
+      },
+      {
+        "name": "Barcelona",
+        "url": "https://sv.wikipedia.org/wiki/Barcelona",
+        "lat": 41.3873974,
+        "lng": 2.168568
+      }
+    ]
+  },
+  {
+    "date": "6 december 2019",
+    "locations": [
+      {
+        "name": "London",
+        "url": "https://sv.wikipedia.org/wiki/London",
+        "lat": 51.5072178,
+        "lng": -0.1275862
+      },
+      {
+        "name": "Bilbao",
+        "url": "https://sv.wikipedia.org/wiki/Bilbao",
+        "lat": 43.2630126,
+        "lng": -2.9349852
+      },
+      {
+        "name": "Eskilstuna",
+        "url": "https://sv.wikipedia.org/wiki/Eskilstuna",
+        "lat": 59.37124859999999,
+        "lng": 16.5098045
+      }
+    ]
+  },
+  {
+    "date": "13 december 2019",
+    "locations": [
+      {
+        "name": "Washington D.C.",
+        "url": "https://sv.wikipedia.org/wiki/Washington_D.C.",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      {
+        "name": "Syrakusa",
+        "url": "https://sv.wikipedia.org/wiki/Syrakusa",
+        "lat": 37.0754739,
+        "lng": 15.2865861
+      },
+      {
+        "name": "Ibiza",
+        "url": "https://sv.wikipedia.org/wiki/Ibiza",
+        "lat": 38.9067339,
+        "lng": 1.4205983
+      }
+    ]
+  },
+  {
+    "date": "20 december 2019",
+    "locations": [
+      {
+        "name": "Åmål",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85m%C3%A5l",
+        "lat": 59.05111699999999,
+        "lng": 12.6977323
+      },
+      {
+        "name": "Delhi",
+        "url": "https://sv.wikipedia.org/wiki/Delhi",
+        "lat": 28.7040592,
+        "lng": 77.10249019999999
+      },
+      {
+        "name": "Sankt Petersburg",
+        "url": "https://sv.wikipedia.org/wiki/Sankt_Petersburg",
+        "lat": 59.9310584,
+        "lng": 30.3609097
+      }
+    ]
+  },
+  {
+    "date": "27 december 2019",
+    "locations": [
+      {
+        "name": "Umeå",
+        "url": "https://sv.wikipedia.org/wiki/Ume%C3%A5",
+        "lat": 63.8258471,
+        "lng": 20.2630354
+      },
+      {
+        "name": "Garmisch-Partenkirchen",
+        "url": "https://sv.wikipedia.org/wiki/Garmisch-Partenkirchen",
+        "lat": 47.4919023,
+        "lng": 11.0947806
+      },
+      {
+        "name": "Colombo",
+        "url": "https://sv.wikipedia.org/wiki/Colombo",
+        "lat": 6.9270786,
+        "lng": 79.861243
+      }
+    ]
+  },
+  {
+    "date": "3 januari 2020",
+    "locations": [
+      {
+        "name": "Brasília",
+        "url": "https://sv.wikipedia.org/wiki/Bras%C3%ADlia",
+        "lat": -15.7975154,
+        "lng": -47.89188739999999
+      },
+      {
+        "name": "Vadstena",
+        "url": "https://sv.wikipedia.org/wiki/Vadstena",
+        "lat": 58.44760219999999,
+        "lng": 14.8902335
+      },
+      {
+        "name": "Bukarest",
+        "url": "https://sv.wikipedia.org/wiki/Bukarest",
+        "lat": 44.4267674,
+        "lng": 26.1025384
+      }
+    ]
+  },
+  {
+    "date": "10 januari 2020",
+    "locations": [
+      {
+        "name": "Memphis",
+        "url": "https://sv.wikipedia.org/wiki/Memphis,_Tennessee",
+        "lat": 35.1495343,
+        "lng": -90.0489801
+      },
+      {
+        "name": "Arvidsjaur",
+        "url": "https://sv.wikipedia.org/wiki/Arvidsjaur",
+        "lat": 65.5920768,
+        "lng": 19.1802828
+      },
+      {
+        "name": "Bryssel",
+        "url": "https://sv.wikipedia.org/wiki/Bryssel",
+        "lat": 50.8476424,
+        "lng": 4.3571696
+      }
+    ]
+  },
+  {
+    "date": "17 januari 2020",
+    "locations": [
+      {
+        "name": "Karlstad",
+        "url": "https://sv.wikipedia.org/wiki/Karlstad",
+        "lat": 59.4021806,
+        "lng": 13.5114977
+      },
+      {
+        "name": "Alexandria",
+        "url": "https://sv.wikipedia.org/wiki/Alexandria",
+        "lat": 31.2000924,
+        "lng": 29.9187387
+      },
+      {
+        "name": "Rotterdam",
+        "url": "https://sv.wikipedia.org/wiki/Rotterdam",
+        "lat": 51.9244201,
+        "lng": 4.4777325
+      }
+    ]
+  },
+  {
+    "date": "24 januari 2020",
+    "locations": [
+      {
+        "name": "Ottawa",
+        "url": "https://sv.wikipedia.org/wiki/Ottawa",
+        "lat": 45.4215296,
+        "lng": -75.69719309999999
+      },
+      {
+        "name": "Ljubljana",
+        "url": "https://sv.wikipedia.org/wiki/Ljubljana",
+        "lat": 46.0569465,
+        "lng": 14.5057515
+      },
+      {
+        "name": "Malmö",
+        "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
+        "lat": 55.604981,
+        "lng": 13.003822
+      }
+    ]
+  },
+  {
+    "date": "31 januari 2020",
+    "locations": [
+      {
+        "name": "Frankfurt am Main",
+        "url": "https://sv.wikipedia.org/wiki/Frankfurt_am_Main",
+        "lat": 50.1109221,
+        "lng": 8.6821267
+      },
+      {
+        "name": "Ulricehamn",
+        "url": "https://sv.wikipedia.org/wiki/Ulricehamn",
+        "lat": 57.7947889,
+        "lng": 13.4205162
+      },
+      {
+        "name": "Århus",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85rhus",
+        "lat": 56.162939,
+        "lng": 10.203921
+      }
+    ]
+  },
+  {
+    "date": "7 februari 2020",
+    "locations": [
+      {
+        "name": "Puerto Rico",
+        "url": "https://sv.wikipedia.org/wiki/Puerto_Rico",
+        "lat": 18.220833,
+        "lng": -66.590149
+      },
+      {
+        "name": "Porto",
+        "url": "https://sv.wikipedia.org/wiki/Porto",
+        "lat": 41.1579438,
+        "lng": -8.629105299999999
+      },
+      {
+        "name": "Växjö",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4xj%C3%B6",
+        "lat": 56.8790044,
+        "lng": 14.8058522
+      }
+    ]
+  },
+  {
+    "date": "14 februari 2020",
+    "locations": [
+      {
+        "name": "Denver",
+        "url": "https://sv.wikipedia.org/wiki/Denver",
+        "lat": 39.7392358,
+        "lng": -104.990251
+      },
+      {
+        "name": "Asunción",
+        "url": "https://sv.wikipedia.org/wiki/Asunci%C3%B3n",
+        "lat": -25.2637399,
+        "lng": -57.57592599999999
+      },
+      {
+        "name": "Uppsala",
+        "url": "https://sv.wikipedia.org/wiki/Uppsala",
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
+      }
+    ]
+  },
+  {
+    "date": "21 februari 2020",
+    "locations": [
+      {
+        "name": "Helsingfors",
+        "url": "https://sv.wikipedia.org/wiki/Helsingfors",
+        "lat": 60.16985569999999,
+        "lng": 24.938379
+      },
+      {
+        "name": "Khartoum",
+        "url": "https://sv.wikipedia.org/wiki/Khartoum",
+        "lat": 15.5006544,
+        "lng": 32.5598994
+      },
+      {
+        "name": "Bordeaux",
+        "url": "https://sv.wikipedia.org/wiki/Bordeaux",
+        "lat": 44.837789,
+        "lng": -0.57918
+      }
+    ]
+  },
+  {
+    "date": "28 februari 2020",
+    "locations": [
+      {
+        "name": "Tel Aviv",
+        "url": "https://sv.wikipedia.org/wiki/Tel_Aviv",
+        "lat": 32.0852999,
+        "lng": 34.78176759999999
+      },
+      {
+        "name": "Vimmerby",
+        "url": "https://sv.wikipedia.org/wiki/Vimmerby",
+        "lat": 57.6690339,
+        "lng": 15.858857
+      },
+      {
+        "name": "Miami",
+        "url": "https://sv.wikipedia.org/wiki/Miami",
+        "lat": 25.7616798,
+        "lng": -80.1917902
+      }
+    ]
+  },
+  {
+    "date": "15 november 2020",
+    "locations": [
+      {
+        "name": "Norrköping",
+        "url": "https://sv.wikipedia.org/wiki/Norrk%C3%B6ping",
+        "lat": 58.587745,
+        "lng": 16.192421
+      },
+      {
+        "name": "Trondheim",
+        "url": "https://sv.wikipedia.org/wiki/Trondheim",
+        "lat": 63.4305149,
+        "lng": 10.3950528
+      },
+      {
+        "name": "Turin",
+        "url": "https://sv.wikipedia.org/wiki/Turin",
+        "lat": 45.070312,
+        "lng": 7.686856499999999
+      }
+    ]
+  },
+  {
+    "date": "27 november 2020",
+    "locations": [
+      {
+        "name": "Bergen",
+        "url": "https://sv.wikipedia.org/wiki/Bergen",
+        "lat": 60.39126279999999,
+        "lng": 5.3220544
+      },
+      {
+        "name": "Aten",
+        "url": "https://sv.wikipedia.org/wiki/Aten",
+        "lat": 37.9838096,
+        "lng": 23.7275388
+      },
+      {
+        "name": "Baltimore",
+        "url": "https://sv.wikipedia.org/wiki/Baltimore",
+        "lat": 39.2903848,
+        "lng": -76.6121893
+      }
+    ]
+  },
+  {
+    "date": "4 december 2020",
+    "locations": [
+      {
+        "name": "Linköping",
+        "url": "https://sv.wikipedia.org/wiki/Link%C3%B6ping",
+        "lat": 58.41080700000001,
+        "lng": 15.6213727
+      },
+      {
+        "name": "Prag",
+        "url": "https://sv.wikipedia.org/wiki/Prag",
+        "lat": 50.0755381,
+        "lng": 14.4378005
+      },
+      {
+        "name": "Manchester",
+        "url": "https://sv.wikipedia.org/wiki/Manchester",
+        "lat": 53.4807593,
+        "lng": -2.2426305
+      }
+    ]
+  },
+  {
+    "date": "11 december 2020",
+    "locations": [
+      {
+        "name": "Borgholm",
+        "url": "https://sv.wikipedia.org/wiki/Borgholm",
+        "lat": 56.88022969999999,
+        "lng": 16.6562355
+      },
+      {
+        "name": "Fiji",
+        "url": "https://sv.wikipedia.org/wiki/Fiji",
+        "lat": -17.713371,
+        "lng": 178.065032
+      },
+      {
+        "name": "Düsseldorf",
+        "url": "https://sv.wikipedia.org/wiki/D%C3%BCsseldorf",
+        "lat": 51.2277411,
+        "lng": 6.7734556
+      }
+    ]
+  },
+  {
+    "date": "18 december 2020",
+    "locations": [
+      {
+        "name": "Ystad",
+        "url": "https://sv.wikipedia.org/wiki/Ystad",
+        "lat": 55.4295051,
+        "lng": 13.8200308
+      },
+      {
+        "name": "Marseille",
+        "url": "https://sv.wikipedia.org/wiki/Marseille",
+        "lat": 43.296482,
+        "lng": 5.36978
+      },
+      {
+        "name": "Amsterdam",
+        "url": "https://sv.wikipedia.org/wiki/Amsterdam",
+        "lat": 52.3675734,
+        "lng": 4.9041389
+      }
+    ]
+  },
+  {
+    "date": "25 december 2020",
+    "locations": [
+      {
+        "name": "Montevideo",
+        "url": "https://sv.wikipedia.org/wiki/Montevideo",
+        "lat": -34.9011127,
+        "lng": -56.16453139999999
+      },
+      {
+        "name": "Vänersborg",
+        "url": "https://sv.wikipedia.org/wiki/V%C3%A4nersborg",
+        "lat": 58.3797283,
+        "lng": 12.3248032
+      },
+      {
+        "name": "Lausanne",
+        "url": "https://sv.wikipedia.org/wiki/Lausanne",
+        "lat": 46.5196535,
+        "lng": 6.6322734
+      }
+    ]
+  },
+  {
+    "date": "1 januari 2021",
+    "locations": [
+      {
+        "name": "Sydney",
+        "url": "https://sv.wikipedia.org/wiki/Sydney",
+        "lat": -33.8688197,
+        "lng": 151.2092955
+      },
+      {
+        "name": "Oslo",
+        "url": "https://sv.wikipedia.org/wiki/Oslo",
+        "lat": 59.9138688,
+        "lng": 10.7522454
+      },
+      {
+        "name": "Hudiksvall",
+        "url": "https://sv.wikipedia.org/wiki/Hudiksvall",
+        "lat": 61.7273909,
+        "lng": 17.107401
+      }
+    ]
+  },
+  {
+    "date": "8 januari 2021",
+    "locations": [
+      {
+        "name": "Auckland",
+        "url": "https://sv.wikipedia.org/wiki/Auckland",
+        "lat": -36.85088270000001,
+        "lng": 174.7644881
+      },
+      {
+        "name": "Örebro",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96rebro",
+        "lat": 59.2752626,
+        "lng": 15.2134105
+      },
+      {
+        "name": "Partille",
+        "url": "https://sv.wikipedia.org/wiki/Partille",
+        "lat": 57.7366497,
+        "lng": 12.1251968
+      }
+    ]
+  },
+  {
+    "date": "15 januari 2021",
+    "locations": [
+      {
+        "name": "Liverpool",
+        "url": "https://sv.wikipedia.org/wiki/Liverpool",
+        "lat": 53.4083714,
+        "lng": -2.9915726
+      },
+      {
+        "name": "Katmandu",
+        "url": "https://sv.wikipedia.org/wiki/Katmandu",
+        "lat": 27.7172453,
+        "lng": 85.3239605
+      },
+      {
+        "name": "Kristinehamn",
+        "url": "https://sv.wikipedia.org/wiki/Kristinehamn",
+        "lat": 59.3100677,
+        "lng": 14.1089192
+      }
+    ]
+  },
+  {
+    "date": "22 januari 2021",
+    "locations": [
+      {
+        "name": "Seattle",
+        "url": "https://sv.wikipedia.org/wiki/Seattle",
+        "lat": 47.6062095,
+        "lng": -122.3320708
+      },
+      {
+        "name": "Gnesta",
+        "url": "https://sv.wikipedia.org/wiki/Gnesta",
+        "lat": 59.04834830000001,
+        "lng": 17.3072276
+      },
+      {
+        "name": "Kiev",
+        "url": "https://sv.wikipedia.org/wiki/Kiev",
+        "lat": 50.4501,
+        "lng": 30.5234
+      }
+    ]
+  },
+  {
+    "date": "29 januari 2021",
+    "locations": [
+      {
+        "name": "Chicago",
+        "url": "https://sv.wikipedia.org/wiki/Chicago",
+        "lat": 41.8781136,
+        "lng": -87.6297982
+      },
+      {
+        "name": "Järvsö",
+        "url": "https://sv.wikipedia.org/wiki/J%C3%A4rvs%C3%B6",
+        "lat": 61.710933,
+        "lng": 16.1784355
+      },
+      {
+        "name": "Lagos",
+        "url": "https://sv.wikipedia.org/wiki/Lagos",
+        "lat": 6.5243793,
+        "lng": 3.3792057
+      }
+    ]
+  },
+  {
+    "date": "5 februari 2021",
+    "locations": [
+      {
+        "name": "Glasgow",
+        "url": "https://sv.wikipedia.org/wiki/Glasgow",
+        "lat": 55.864237,
+        "lng": -4.251806
+      },
+      {
+        "name": "Kristianstad",
+        "url": "https://sv.wikipedia.org/wiki/Kristianstad",
+        "lat": 56.0293936,
+        "lng": 14.1566778
+      },
+      {
+        "name": "Macao",
+        "url": "https://sv.wikipedia.org/wiki/Macao",
+        "lat": 22.198745,
+        "lng": 113.543873
+      }
+    ]
+  },
+  {
+    "date": "12 februari 2021",
+    "locations": [
+      {
+        "name": "Gävle",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%A4vle",
+        "lat": 60.6748796,
+        "lng": 17.1412726
+      },
+      {
+        "name": "San Salvador",
+        "url": "https://sv.wikipedia.org/wiki/San_Salvador",
+        "lat": 13.6929403,
+        "lng": -89.2181911
+      },
+      {
+        "name": "Toronto",
+        "url": "https://sv.wikipedia.org/wiki/Toronto",
+        "lat": 43.653226,
+        "lng": -79.3831843
+      }
+    ]
+  },
+  {
+    "date": "19 februari 2021",
+    "locations": [
+      {
+        "name": "Honolulu",
+        "url": "https://sv.wikipedia.org/wiki/Honolulu",
+        "lat": 21.3098845,
+        "lng": -157.8581401
+      },
+      {
+        "name": "Svalbard",
+        "url": "https://sv.wikipedia.org/wiki/Svalbard",
+        "lat": 77.55360399999999,
+        "lng": 23.670272
+      },
+      {
+        "name": "Gnosjö",
+        "url": "https://sv.wikipedia.org/wiki/Gnosj%C3%B6",
+        "lat": 57.35803979999999,
+        "lng": 13.7371898
+      }
+    ]
+  },
+  {
+    "date": "26 november 2021",
+    "locations": [
+      {
+        "name": "Avignon",
+        "url": "https://sv.wikipedia.org/wiki/Avignon",
+        "lat": 43.94931700000001,
+        "lng": 4.805528
+      },
+      {
+        "name": "Seoul",
+        "url": "https://sv.wikipedia.org/wiki/Seoul",
+        "lat": 37.566535,
+        "lng": 126.9779692
+      },
+      {
+        "name": "Degerfors",
+        "url": "https://sv.wikipedia.org/wiki/Degerfors",
+        "lat": 59.2391027,
+        "lng": 14.4339179
+      }
+    ]
+  },
+  {
+    "date": "3 december 2021",
+    "locations": [
+      {
+        "name": "Piteå",
+        "url": "https://sv.wikipedia.org/wiki/Pite%C3%A5",
+        "lat": 65.316698,
+        "lng": 21.4800364
+      },
+      {
+        "name": "Capri",
+        "url": "https://sv.wikipedia.org/wiki/Capri",
+        "lat": 40.55068989999999,
+        "lng": 14.2428003
+      },
+      {
+        "name": "Tokyo",
+        "url": "https://sv.wikipedia.org/wiki/Tokyo",
+        "lat": 35.6761919,
+        "lng": 139.6503106
+      }
+    ]
+  },
+  {
+    "date": "10 december 2021",
+    "locations": [
+      {
+        "name": "Karlskrona",
+        "url": "https://sv.wikipedia.org/wiki/Karlskrona",
+        "lat": 56.161224,
+        "lng": 15.5869
+      },
+      {
+        "name": "Riga",
+        "url": "https://sv.wikipedia.org/wiki/Riga",
+        "lat": 56.9676941,
+        "lng": 24.1056221
+      },
+      {
+        "name": "Tijuana",
+        "url": "https://sv.wikipedia.org/wiki/Tijuana",
+        "lat": 32.5149469,
+        "lng": -117.0382471
+      }
+    ]
+  },
+  {
+    "date": "17 december 2021",
+    "locations": [
+      {
+        "name": "Los Angeles",
+        "url": "https://sv.wikipedia.org/wiki/Los_Angeles",
+        "lat": 34.0522342,
+        "lng": -118.2436849
+      },
+      {
+        "name": "München",
+        "url": "https://sv.wikipedia.org/wiki/M%C3%BCnchen",
+        "lat": 48.1351253,
+        "lng": 11.5819806
+      },
+      {
+        "name": "Helsingborg",
+        "url": "https://sv.wikipedia.org/wiki/Helsingborg",
+        "lat": 56.0464674,
+        "lng": 12.6945121
+      }
+    ]
+  },
+  {
+    "date": "31 december 2021",
+    "locations": [
+      {
+        "name": "Madrid",
+        "url": "https://sv.wikipedia.org/wiki/Madrid",
+        "lat": 40.4167754,
+        "lng": -3.7037902
+      },
+      {
+        "name": "Falköping",
+        "url": "https://sv.wikipedia.org/wiki/Falk%C3%B6ping",
+        "lat": 58.17502899999999,
+        "lng": 13.553217
+      },
+      {
+        "name": "Ankara",
+        "url": "https://sv.wikipedia.org/wiki/Ankara",
+        "lat": 39.9333635,
+        "lng": 32.8597419
+      }
+    ]
+  },
+  {
+    "date": "7 januari 2022",
+    "locations": [
+      {
+        "name": "Berlin",
+        "url": "https://sv.wikipedia.org/wiki/Berlin",
+        "lat": 52.52000659999999,
+        "lng": 13.404954
+      },
+      {
+        "name": "Havanna",
+        "url": "https://sv.wikipedia.org/wiki/Havanna",
+        "lat": 23.1135925,
+        "lng": -82.3665956
+      },
+      {
+        "name": "Östersund",
+        "url": "https://sv.wikipedia.org/wiki/%C3%96stersund",
+        "lat": 63.1766832,
+        "lng": 14.6360681
+      }
+    ]
+  },
+  {
+    "date": "14 januari 2022",
+    "locations": [
+      {
+        "name": "Alingsås",
+        "url": "https://sv.wikipedia.org/wiki/Alings%C3%A5s",
+        "lat": 57.9300205,
+        "lng": 12.5362113
+      },
+      {
+        "name": "Kampala",
+        "url": "https://sv.wikipedia.org/wiki/Kampala",
+        "lat": 0.3475964,
+        "lng": 32.5825197
+      },
+      {
+        "name": "Brighton",
+        "url": "https://sv.wikipedia.org/wiki/Brighton",
+        "lat": 50.8229402,
+        "lng": -0.1362672
+      }
+    ]
+  },
+  {
+    "date": "21 januari 2022",
+    "locations": [
+      {
+        "name": "Boston",
+        "url": "https://sv.wikipedia.org/wiki/Boston",
+        "lat": 42.3600825,
+        "lng": -71.0588801
+      },
+      {
+        "name": "Neapel",
+        "url": "https://sv.wikipedia.org/wiki/Neapel",
+        "lat": 40.8517746,
+        "lng": 14.2681244
+      },
+      {
+        "name": "Åre",
+        "url": "https://sv.wikipedia.org/wiki/%C3%85re",
+        "lat": 63.3990428,
+        "lng": 13.0815059
+      }
+    ]
+  },
+  {
+    "date": "28 januari 2022",
+    "locations": [
+      {
+        "name": "Johannesburg",
+        "url": "https://sv.wikipedia.org/wiki/Johannesburg",
+        "lat": -26.2041028,
+        "lng": 28.0473051
+      },
+      {
+        "name": "Båstad",
+        "url": "https://sv.wikipedia.org/wiki/B%C3%A5stad",
+        "lat": 56.4333027,
+        "lng": 12.8353785
+      },
+      {
+        "name": "Budapest",
+        "url": "https://sv.wikipedia.org/wiki/Budapest",
+        "lat": 47.497912,
+        "lng": 19.040235
+      }
+    ]
+  },
+  {
+    "date": "4 februari 2022",
+    "locations": [
+      {
+        "name": "Haparanda",
+        "url": "https://sv.wikipedia.org/wiki/Haparanda",
+        "lat": 65.8417085,
+        "lng": 24.1276643
+      },
+      {
+        "name": "Edinburgh",
+        "url": "https://sv.wikipedia.org/wiki/Edinburgh",
+        "lat": 55.953252,
+        "lng": -3.188267
+      },
+      {
+        "name": "San Francisco",
+        "url": "https://sv.wikipedia.org/wiki/San_Francisco",
+        "lat": 37.7749295,
+        "lng": -122.4194155
+      }
+    ]
+  },
+  {
+    "date": "11 februari 2022",
+    "locations": [
+      {
+        "name": "Moskva",
+        "url": "https://sv.wikipedia.org/wiki/Moskva",
+        "lat": 55.755826,
+        "lng": 37.6173
+      },
+      {
+        "name": "Christchurch",
+        "url": "https://sv.wikipedia.org/wiki/Christchurch",
+        "lat": -43.5320214,
+        "lng": 172.6305589
+      },
+      {
+        "name": "Halmstad",
+        "url": "https://sv.wikipedia.org/wiki/Halmstad",
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      }
+    ]
+  },
+  {
+    "date": "18 februari 2022",
+    "locations": [
+      {
+        "name": "Göteborg",
+        "url": "https://sv.wikipedia.org/wiki/G%C3%B6teborg",
+        "lat": 57.70887,
+        "lng": 11.97456
+      },
+      {
+        "name": "Tbilisi",
+        "url": "https://sv.wikipedia.org/wiki/Tbilisi",
+        "lat": 41.7151377,
+        "lng": 44.827096
+      },
+      {
+        "name": "Dublin",
+        "url": "https://sv.wikipedia.org/wiki/Dublin",
+        "lat": 53.3498053,
+        "lng": -6.2603097
+      }
+    ]
+  },
+  {
+    "date": "25 februari 2022",
+    "locations": [
+      {
+        "name": "Minneapolis",
+        "url": "https://sv.wikipedia.org/wiki/Minneapolis",
+        "lat": 44.977753,
+        "lng": -93.2650108
+      },
+      {
+        "name": "Visby",
+        "url": "https://sv.wikipedia.org/wiki/Visby",
+        "lat": 57.6348,
+        "lng": 18.29484
+      },
+      {
+        "name": "Köpenhamn",
+        "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
+        "lat": 55.6760968,
+        "lng": 12.5683371
+      }
+    ]
+  },
+  {
+    "date": "18 november 2022",
+    "locations": [
+      {
+        "name": "Nicosia",
+        "url": "https://sv.wikipedia.org/wiki/Nicosia",
+        "lat": 35.1855659,
+        "lng": 33.38227639999999
+      },
+      {
+        "name": "Fjällbacka",
+        "url": "https://sv.wikipedia.org/wiki/Fj%C3%A4llbacka",
+        "lat": 58.59977559999999,
+        "lng": 11.2882238
+      },
+      {
+        "name": "Indianapolis",
+        "url": "https://sv.wikipedia.org/wiki/Indianapolis",
+        "lat": 39.768403,
+        "lng": -86.158068
+      }
+    ]
+  },
+  {
+    "date": "26 november 2022",
+    "locations": []
+  },
+  {
+    "date": "2 december 2022",
+    "locations": []
+  },
+  {
+    "date": "16 december 2022",
+    "locations": []
+  },
+  {
+    "date": "23 december 2022",
+    "locations": []
+  },
+  {
+    "date": "30 december 2022",
+    "locations": []
+  },
+  {
+    "date": "6 januari 2023",
+    "locations": []
+  },
+  {
+    "date": "13 januari 2023",
+    "locations": []
+  },
+  {
+    "date": "20 januari 2023",
+    "locations": []
+  },
+  {
+    "date": "27 januari 2023",
+    "locations": []
+  },
+  {
+    "date": "3 februari 2023",
+    "locations": []
+  },
+  {
+    "date": "10 februari 2023",
+    "locations": []
+  },
+  {
+    "date": "17 februari 2023",
+    "locations": []
+  }
+]
