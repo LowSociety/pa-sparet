@@ -1212,19 +1212,22 @@
         "name": "Säffle",
         "url": "https://sv.wikipedia.org/wiki/S%C3%A4ffle",
         "lat": 59.132661,
-        "lng": 12.930107
+        "lng": 12.930107,
+        "video": "https://www.svtplay.se/video/KMdGBVD/pa-sparet-oppet-arkiv/avsnitt-3?position=216&id=KMdGBVD"
       },
       {
         "name": "Narvik",
         "url": "https://sv.wikipedia.org/wiki/Narvik",
         "lat": 68.4384984,
-        "lng": 17.4272612
+        "lng": 17.4272612,
+        "video": "https://www.svtplay.se/video/KMdGBVD/pa-sparet-oppet-arkiv/avsnitt-3?position=1288&id=KMdGBVD"
       },
       {
         "name": "Monaco",
         "url": "https://sv.wikipedia.org/wiki/Monaco",
         "lat": 43.73841760000001,
-        "lng": 7.424615799999999
+        "lng": 7.424615799999999,
+        "video": "https://www.svtplay.se/video/KMdGBVD/pa-sparet-oppet-arkiv/avsnitt-3?position=2337&id=KMdGBVD"
       }
     ]
   },
@@ -1235,19 +1238,22 @@
         "name": "Belfast",
         "url": "https://sv.wikipedia.org/wiki/Belfast",
         "lat": 54.59728500000001,
-        "lng": -5.93012
+        "lng": -5.93012,
+        "video": "https://www.svtplay.se/video/j4zx9x9/pa-sparet-oppet-arkiv/avsnitt-4?position=214&id=j4zx9x9"
       },
       {
         "name": "Falköping",
         "url": "https://sv.wikipedia.org/wiki/Falk%C3%B6ping",
         "lat": 58.17502899999999,
-        "lng": 13.553217
+        "lng": 13.553217,
+        "video": "https://www.svtplay.se/video/j4zx9x9/pa-sparet-oppet-arkiv/avsnitt-4?position=1363&id=j4zx9x9"
       },
       {
         "name": "Palma de Mallorca",
         "url": "https://sv.wikipedia.org/wiki/Palma_de_Mallorca",
         "lat": 39.6013107,
-        "lng": 2.6387795
+        "lng": 2.6387795,
+        "video": "https://www.svtplay.se/video/j4zx9x9/pa-sparet-oppet-arkiv/avsnitt-4?position=2512&id=j4zx9x9"
       }
     ]
   },
@@ -1258,19 +1264,22 @@
         "name": "Sevilla",
         "url": "https://sv.wikipedia.org/wiki/Sevilla",
         "lat": 37.3890924,
-        "lng": -5.9844589
+        "lng": -5.9844589,
+        "video": "https://www.svtplay.se/video/jXYWo73/pa-sparet-oppet-arkiv/avsnitt-5?position=185&id=jXYWo73"
       },
       {
         "name": "Kumla",
         "url": "https://sv.wikipedia.org/wiki/Kumla",
         "lat": 59.12653590000001,
-        "lng": 15.1401053
+        "lng": 15.1401053,
+        "video": "https://www.svtplay.se/video/jXYWo73/pa-sparet-oppet-arkiv/avsnitt-5?position=1393&id=jXYWo73"
       },
       {
         "name": "Kraków",
         "url": "https://sv.wikipedia.org/wiki/Krak%C3%B3w",
         "lat": 50.06465009999999,
-        "lng": 19.9449799
+        "lng": 19.9449799,
+        "video": "https://www.svtplay.se/video/jXYWo73/pa-sparet-oppet-arkiv/avsnitt-5?position=2538&id=jXYWo73"
       }
     ]
   },
@@ -1281,19 +1290,22 @@
         "name": "Brighton",
         "url": "https://sv.wikipedia.org/wiki/Brighton",
         "lat": 50.8229402,
-        "lng": -0.1362672
+        "lng": -0.1362672,
+        "video": "https://www.svtplay.se/video/KABG9Gy/pa-sparet-oppet-arkiv/avsnitt-6?position=146&id=KABG9Gy"
       },
       {
         "name": "Vaxholm",
         "url": "https://sv.wikipedia.org/wiki/Vaxholm",
         "lat": 59.40329679999999,
-        "lng": 18.3263804
+        "lng": 18.3263804,
+        "video": "https://www.svtplay.se/video/KABG9Gy/pa-sparet-oppet-arkiv/avsnitt-6?position=1269&id=KABG9Gy"
       },
       {
         "name": "Strömstad",
         "url": "https://sv.wikipedia.org/wiki/Str%C3%B6mstad",
         "lat": 58.9383459,
-        "lng": 11.1791871
+        "lng": 11.1791871,
+        "video": "https://www.svtplay.se/video/KABG9Gy/pa-sparet-oppet-arkiv/avsnitt-6?position=2551&id=KABG9Gy"
       }
     ]
   },
@@ -1304,19 +1316,22 @@
         "name": "Kramfors",
         "url": "https://sv.wikipedia.org/wiki/Kramfors",
         "lat": 62.9284332,
-        "lng": 17.7862947
+        "lng": 17.7862947,
+        "video": "https://www.svtplay.se/video/ew1XGm1/pa-sparet-oppet-arkiv/avsnitt-7?position=224&id=ew1XGm1"
       },
       {
         "name": "Innsbruck",
         "url": "https://sv.wikipedia.org/wiki/Innsbruck",
         "lat": 47.2692124,
-        "lng": 11.4041024
+        "lng": 11.4041024,
+        "video": "https://www.svtplay.se/video/ew1XGm1/pa-sparet-oppet-arkiv/avsnitt-7?position=1126&id=ew1XGm1"
       },
       {
         "name": "Stockholm",
         "url": "https://sv.wikipedia.org/wiki/Stockholm",
         "lat": 59.32932349999999,
-        "lng": 18.0685808
+        "lng": 18.0685808,
+        "video": "https://www.svtplay.se/video/ew1XGm1/pa-sparet-oppet-arkiv/avsnitt-7?position=2155&id=ew1XGm1"
       }
     ]
   },
@@ -1327,19 +1342,22 @@
         "name": "Köpenhamn",
         "url": "https://sv.wikipedia.org/wiki/K%C3%B6penhamn",
         "lat": 55.6760968,
-        "lng": 12.5683371
+        "lng": 12.5683371,
+        "video": "https://www.svtplay.se/video/eopqqAq/pa-sparet-oppet-arkiv/avsnitt-8?position=200&id=eopqqAq"
       },
       {
         "name": "Vilhelmina",
         "url": "https://sv.wikipedia.org/wiki/Vilhelmina_(t%C3%A4tort)",
         "lat": 64.624471,
-        "lng": 16.655497
+        "lng": 16.655497,
+        "video": "https://www.svtplay.se/video/eopqqAq/pa-sparet-oppet-arkiv/avsnitt-8?position=1260&id=eopqqAq"
       },
       {
         "name": "Istanbul",
         "url": "https://sv.wikipedia.org/wiki/Istanbul",
         "lat": 41.0082376,
-        "lng": 28.9783589
+        "lng": 28.9783589,
+        "video": "https://www.svtplay.se/video/eopqqAq/pa-sparet-oppet-arkiv/avsnitt-8?position=2274&id=eopqqAq"
       }
     ]
   },
@@ -1350,19 +1368,22 @@
         "name": "Laholm",
         "url": "https://sv.wikipedia.org/wiki/Laholm",
         "lat": 56.50575569999999,
-        "lng": 13.0456048
+        "lng": 13.0456048,
+        "video": "https://www.svtplay.se/video/8vJAz7Y/pa-sparet-oppet-arkiv/avsnitt-9?position=252&id=8vJAz7Y"
       },
       {
         "name": "Hamburg",
         "url": "https://sv.wikipedia.org/wiki/Hamburg",
         "lat": 53.5510846,
-        "lng": 9.9936818
+        "lng": 9.9936818,
+        "video": "https://www.svtplay.se/video/8vJAz7Y/pa-sparet-oppet-arkiv/avsnitt-9?position=1239&id=8vJAz7Y"
       },
       {
         "name": "Rom",
         "url": "https://sv.wikipedia.org/wiki/Rom",
         "lat": 41.9027835,
-        "lng": 12.4963655
+        "lng": 12.4963655,
+        "video": "https://www.svtplay.se/video/8vJAz7Y/pa-sparet-oppet-arkiv/avsnitt-9?position=2356&id=8vJAz7Y"
       }
     ]
   },
