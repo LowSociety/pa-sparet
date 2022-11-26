@@ -407,6 +407,77 @@
     ]
   },
   {
+    "date": "Okänt datum 1991",
+    "locations": [
+      {
+        "name": "Arboga",
+        "url": null,
+        "lat": 59.39368829999999,
+        "lng": 15.8381747
+      },
+      {
+        "name": "Borgholm",
+        "url": null,
+        "lat": 56.88022969999999,
+        "lng": 16.6562355
+      },
+      {
+        "name": "Gränna",
+        "url": null,
+        "lat": 58.02502339999999,
+        "lng": 14.4700948
+      },
+      {
+        "name": "Halmstad",
+        "url": null,
+        "lat": 56.6743748,
+        "lng": 12.8577884
+      },
+      {
+        "name": "Mariestad",
+        "url": null,
+        "lat": 58.7101119,
+        "lng": 13.8213327
+      },
+      {
+        "name": "Nyköping",
+        "url": null,
+        "lat": 58.75284389999999,
+        "lng": 17.0091593
+      },
+      {
+        "name": "Ronneby",
+        "url": null,
+        "lat": 56.20999,
+        "lng": 15.27602
+      },
+      {
+        "name": "Sigtuna",
+        "url": null,
+        "lat": 59.6191463,
+        "lng": 17.7234191
+      },
+      {
+        "name": "Växjö",
+        "url": null,
+        "lat": 56.8790044,
+        "lng": 14.8058522
+      },
+      {
+        "name": "Ystad",
+        "url": null,
+        "lat": 55.4295051,
+        "lng": 13.8200308
+      },
+      {
+        "name": "Östersund",
+        "url": null,
+        "lat": 63.1766832,
+        "lng": 14.6360681
+      }
+    ]
+  },
+  {
     "date": "20 september 1991",
     "locations": [
       {
@@ -705,6 +776,47 @@
     ]
   },
   {
+    "date": "Okänt datum 1995",
+    "locations": [
+      {
+        "name": "Avesta",
+        "url": null,
+        "lat": 60.14532999999999,
+        "lng": 16.1738399
+      },
+      {
+        "name": "Flen",
+        "url": null,
+        "lat": 59.057938,
+        "lng": 16.587912
+      },
+      {
+        "name": "Kristinehamn",
+        "url": null,
+        "lat": 59.3100677,
+        "lng": 14.1089192
+      },
+      {
+        "name": "Strängnäs",
+        "url": null,
+        "lat": 59.37745229999999,
+        "lng": 17.0321193
+      },
+      {
+        "name": "Tranås",
+        "url": null,
+        "lat": 58.035518,
+        "lng": 14.975696
+      },
+      {
+        "name": "Vimmerby",
+        "url": null,
+        "lat": 57.6690339,
+        "lng": 15.858857
+      }
+    ]
+  },
+  {
     "date": "13 januari 1995",
     "locations": [
       {
@@ -849,6 +961,53 @@
         "url": "https://sv.wikipedia.org/wiki/Salzburg",
         "lat": 47.80949,
         "lng": 13.05501
+      }
+    ]
+  },
+  {
+    "date": "Okänt datum 1996",
+    "locations": [
+      {
+        "name": "Falun",
+        "url": null,
+        "lat": 60.60646000000001,
+        "lng": 15.6355
+      },
+      {
+        "name": "Göteborg",
+        "url": null,
+        "lat": 57.70887,
+        "lng": 11.97456
+      },
+      {
+        "name": "Jönköping",
+        "url": null,
+        "lat": 57.78261370000001,
+        "lng": 14.1617876
+      },
+      {
+        "name": "Luleå",
+        "url": null,
+        "lat": 65.584819,
+        "lng": 22.1567026
+      },
+      {
+        "name": "Munkfors",
+        "url": null,
+        "lat": 59.057938,
+        "lng": 16.587912
+      },
+      {
+        "name": "Söderköping",
+        "url": null,
+        "lat": 58.475901,
+        "lng": 16.323431
+      },
+      {
+        "name": "Uppsala",
+        "url": null,
+        "lat": 59.85856380000001,
+        "lng": 17.6389267
       }
     ]
   },
@@ -2599,6 +2758,17 @@
     ]
   },
   {
+    "date": "Okänt datum 2005",
+    "locations": [
+      {
+        "name": "Osby",
+        "url": null,
+        "lat": 56.381536,
+        "lng": 13.992941
+      }
+    ]
+  },
+  {
     "date": "14 januari 2005",
     "locations": [
       {
@@ -2855,16 +3025,20 @@
     "date": "21 januari 2006",
     "locations": [
       {
-        "name": "?",
-        "url": null
+        "name": "Jokkmokk",
+        "url": null,
+        "lat":66.60696089999999,
+        "lng":19.8229206
       },
       {
         "name": "?",
         "url": null
       },
       {
-        "name": "?",
-        "url": null
+        "name": "Leksand",
+        "url": null,
+        "lat":60.7303082,
+        "lng":14.9998922
       }
     ]
   },
