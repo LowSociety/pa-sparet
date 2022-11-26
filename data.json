@@ -1160,19 +1160,22 @@
         "name": "London",
         "url": "https://sv.wikipedia.org/wiki/London",
         "lat": 51.5072178,
-        "lng": -0.1275862
+        "lng": -0.1275862,
+        "video": "https://www.svtplay.se/video/K16xx5o/pa-sparet-oppet-arkiv/avsnitt-1?position=220&id=K16xx5o"
       },
       {
         "name": "Umeå",
         "url": "https://sv.wikipedia.org/wiki/Ume%C3%A5",
         "lat": 63.8258471,
-        "lng": 20.2630354
+        "lng": 20.2630354,
+        "video": "https://www.svtplay.se/video/K16xx5o/pa-sparet-oppet-arkiv/avsnitt-1?position=1642&id=K16xx5o"
       },
       {
         "name": "Kivik",
         "url": "https://sv.wikipedia.org/wiki/Kivik",
         "lat": 55.685039,
-        "lng": 14.2265929
+        "lng": 14.2265929,
+        "video": "https://www.svtplay.se/video/K16xx5o/pa-sparet-oppet-arkiv/avsnitt-1?position=2397&id=K16xx5o"
       }
     ]
   },
@@ -1183,19 +1186,22 @@
         "name": "Mariehamn",
         "url": "https://sv.wikipedia.org/wiki/Mariehamn",
         "lat": 60.0970945,
-        "lng": 19.9348339
+        "lng": 19.9348339,
+        "video": "https://www.svtplay.se/video/KyVbQ93/pa-sparet-oppet-arkiv/avsnitt-2?position=238&id=KyVbQ93"
       },
       {
         "name": "Malmö",
         "url": "https://sv.wikipedia.org/wiki/Malm%C3%B6",
         "lat": 55.604981,
-        "lng": 13.003822
+        "lng": 13.003822,
+        "video": "https://www.svtplay.se/video/KyVbQ93/pa-sparet-oppet-arkiv/avsnitt-2?position=1110&id=KyVbQ93"
       },
       {
         "name": "San Marino",
         "url": "https://sv.wikipedia.org/wiki/San_Marino",
         "lat": 43.94236,
-        "lng": 12.457777
+        "lng": 12.457777,
+        "video": "https://www.svtplay.se/video/KyVbQ93/pa-sparet-oppet-arkiv/avsnitt-2?position=2326&id=KyVbQ93"
       }
     ]
   },
@@ -1758,19 +1764,22 @@
         "name": "New York",
         "url": "https://sv.wikipedia.org/wiki/New_York",
         "lat": 40.7127753,
-        "lng": -74.0059728
+        "lng": -74.0059728,
+        "video": "https://www.svtplay.se/video/KGrXABj/pa-sparet-oppet-arkiv/9-finalen-1999?position=233&id=KGrXABj"
       },
       {
         "name": "Torshamn",
         "url": "https://sv.wikipedia.org/wiki/Torshamn",
         "lat": 62.01072479999999,
-        "lng": -6.7740852
+        "lng": -6.7740852,
+        "video": "https://www.svtplay.se/video/KGrXABj/pa-sparet-oppet-arkiv/9-finalen-1999?position=1615&id=KGrXABj"
       },
       {
         "name": "Karlstad",
         "url": "https://sv.wikipedia.org/wiki/Karlstad",
         "lat": 59.4021806,
-        "lng": 13.5114977
+        "lng": 13.5114977,
+        "video": "https://www.svtplay.se/video/KGrXABj/pa-sparet-oppet-arkiv/9-finalen-1999?position=2393&id=KGrXABj"
       }
     ]
   },
@@ -1965,19 +1974,22 @@
         "name": "Chicago",
         "url": null,
         "lat": 41.8781136,
-        "lng": -87.6297982
+        "lng": -87.6297982,
+        "video": "https://www.svtplay.se/video/e56PbMj/pa-sparet-oppet-arkiv/9-finalen-2000?position=248&id=e56PbMj"
       },
       {
         "name": "Kiruna",
         "url": null,
         "lat": 67.8557995,
-        "lng": 20.2252821
+        "lng": 20.2252821,
+        "video": "https://www.svtplay.se/video/e56PbMj/pa-sparet-oppet-arkiv/9-finalen-2000?position=1494&id=e56PbMj"
       },
       {
         "name": "Paris",
         "url": null,
         "lat": 48.856614,
-        "lng": 2.3522219
+        "lng": 2.3522219,
+        "video": "https://www.svtplay.se/video/e56PbMj/pa-sparet-oppet-arkiv/9-finalen-2000?position=2241&id=e56PbMj"
       }
     ]
   },
@@ -2793,24 +2805,28 @@
   },
   {
     "date": "21 januari 2005",
+    "url": "https://www.svtplay.se/video/843L2mK/pa-sparet-oppet-arkiv/9-finalen-2004?info=visa",
     "locations": [
       {
         "name": "Cannes",
         "url": null,
         "lat": 43.552847,
-        "lng": 7.017369
+        "lng": 7.017369,
+        "video": "https://www.svtplay.se/video/eQE4X2e/pa-sparet-oppet-arkiv/9-finalen-2004?position=266&id=eQE4X2e"
       },
       {
         "name": "Härnösand",
         "url": null,
         "lat": 62.6322698,
-        "lng": 17.9408714
+        "lng": 17.9408714,
+        "video": "https://www.svtplay.se/video/eQE4X2e/pa-sparet-oppet-arkiv/9-finalen-2004?position=1359&id=eQE4X2e"
       },
       {
         "name": "Beirut",
         "url": null,
         "lat": 33.8937913,
-        "lng": 35.5017767
+        "lng": 35.5017767,
+        "video": "https://www.svtplay.se/video/eQE4X2e/pa-sparet-oppet-arkiv/9-finalen-2004?position=2417&id=eQE4X2e"
       }
     ]
   },

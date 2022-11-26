@@ -447,7 +447,22 @@
         );
         map.on('click', 'destinations-circle', (e) => {
             const coordinates = e.features[0].geometry.coordinates.slice();
-            const description = JSON.parse(e.features[0].properties.episodes).map(e => e.date).join('<br/>');
+            const fragment = document.createElement('div');
+            const title = document.createElement('h2');
+            title.innerText = e.features[0].properties.name;
+            fragment.appendChild(title);
+            JSON.parse(e.features[0].properties.episodes).forEach((episode) => {
+                const video = episode.locations.find(l => l.name === e.features[0].properties.name)?.video
+                const row = document.createElement(video ? 'a' : 'span');
+                row.style.display = 'block';
+                if(video) {
+                    row.href = video;
+                    row.target = '_blank';
+                    row.rel = 'noopener';
+                }
+                row.innerText = episode.date;
+                fragment.appendChild(row);
+            })
 
             while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                 coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
@@ -455,7 +470,7 @@
 
             new mapboxgl.Popup()
                 .setLngLat(coordinates)
-                .setHTML('<h2>' + e.features[0].properties.name + '</h2><p>' + description + '</p>')
+                .setHTML(fragment.innerHTML)
                 .addTo(map);
         });
     }
