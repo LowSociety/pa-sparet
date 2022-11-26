@@ -11,9 +11,14 @@
             height: 100%;
             margin: 0;
             padding: 0;
-            font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
             font-size:1em;
             background: #000;
+        }
+        * {
+            box-sizing: border-box;
+        }
+        html, input {
+            font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
         }
 
         #map {
@@ -29,7 +34,30 @@
             justify-content: center;
             z-index: 99;
             height: 2rem;
-            padding: 0 1rem;
+            padding: 1rem;
+        }
+        input[name=term] {
+            position: fixed;
+            right: 1rem;
+            padding: 0.5rem 1rem;
+            border: 1px solid rgba(255,255,255,0.8);
+            border-radius: 6px;
+            background: rgba(0,0,0,0.3);
+            backdrop-filter: blur(5px);
+            color: white;
+            width: 250px;
+        }
+
+        @media screen and (max-width: 780px) {
+            #controls {
+                display: block;
+            }
+            input[name=term] {
+                position: relative;
+                right: auto;
+                width: 100%;
+                margin-bottom: 0.5rem;
+            }
         }
 
         #stats {
@@ -38,7 +66,7 @@
             right: 1rem;
             top: 50%;
             transform: translateY(-50%);
-            width: 200px;
+            width: 250px;
             color: white;
             z-index: 99;
             padding: 2rem;
@@ -49,7 +77,16 @@
         }
         #stats ol {
             margin: 0;
-            padding: 0 1rem;
+            padding: 0;
+            list-style-position:inside;
+        }
+        #stats ol li {
+            /*margin: 0 0 0 1rem;*/
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            pointer-events: auto;
+            cursor: pointer;
         }
         @media screen and (max-width: 780px) {
             #stats {
@@ -59,18 +96,33 @@
                 left: 0;
                 width: 100%;
                 transform: none;
+                border-top-left-radius: 6px;
+                border-top-right-radius: 6px;
+                overflow: hidden;
+                padding: 1rem;
+            }
+            #stats ol {
                 column-count: 2;
             }
         }
-    </style>
-    <style>
-        .range_container {
+        @media screen and (max-width: 480px) {
+            #stats {
+                font-size: small;
+            }
+        }
+        .range-container {
             display: flex;
             flex-direction: column;
-            width: 100%;
-            max-width: 600px;
+            width: calc(100% - 500px - 2rem);
+            max-width: 500px;
             position: relative;
-
+            height: 2rem;
+        }
+        @media screen and (max-width: 780px) {
+            .range-container {
+                width: auto;
+                max-width: none;
+            }
         }
         input[type=range]::-webkit-slider-thumb {
             -webkit-appearance: none;
@@ -124,7 +176,7 @@
             z-index: 1;
         }
 
-        .range_container .dates {
+        .range-container .dates {
             position: absolute;
             color: white;
             top: 100%;
@@ -148,9 +200,10 @@
 </head>
 <body>
 <div id="controls">
-    <div class="range_container">
+    <input aria-label="Sök" type="search" name="term" placeholder="Sök..." />
+    <div class="range-container">
         <input aria-label="Från" name="from" type="range" value="" min="" max=""/>
-        <input aria-label="Till" id="toSlider" name="to" type="range" value="" min="" max=""/>
+        <input aria-label="Till" name="to" type="range" value="" min="" max=""/>
         <span class="dates"></span>
     </div>
 </div>
@@ -227,6 +280,7 @@
             {
                 from: minMax.min,
                 to: minMax.max,
+                term: null,
                 locations: null
             },
             {
@@ -253,13 +307,22 @@
     }
 
     const getLocations = function () {
+        const searchTerm = filter.term?.toLowerCase().trim().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
         return data.reduce((all, episode) => {
             const year = episode.date.match(/.+(\d{4})/)[1];
-            if ((filter.from && filter.from > year) || (filter.to && filter.to < year)) {
+            if (
+                (filter.from && filter.from > year) ||
+                (filter.to && filter.to < year)
+            ) {
                 return all;
             }
             episode.locations.forEach((location) => {
-                if (!location.lat && !location.lng) return;
+                if (!location.lat && !location.lng) {
+                    return;
+                }
+                if(searchTerm && location.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').indexOf(searchTerm) === -1) {
+                    return;
+                }
                 if (!(location.name in all)) {
                     all[location.name] = {
                         type: 'Feature',
@@ -296,6 +359,37 @@
         )
     }
 
+    const clickItem = (e) => {
+        const coordinates = e.features[0].geometry.coordinates.slice();
+        const fragment = document.createElement('div');
+        const title = document.createElement('h2');
+        title.innerText = e.features[0].properties.name;
+        fragment.appendChild(title);
+        const episodes = e.features[0].properties.episodes;
+        (typeof episodes === 'string'? JSON.parse(episodes) : episodes).forEach((episode) => {
+            const video = episode.locations.find(l => l.name === e.features[0].properties.name)?.video
+            const row = document.createElement(video ? 'a' : 'span');
+            row.style.display = 'block';
+            if(video) {
+                row.href = video;
+                row.target = '_blank';
+                row.rel = 'noopener';
+            }
+            row.innerText = episode.date;
+            fragment.appendChild(row);
+        })
+
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+            coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+
+        return new mapboxgl.Popup()
+            .setLngLat(coordinates)
+            .setHTML(fragment.innerHTML)
+            .addTo(map);
+    };
+
+    let popup = null;
     const updateStats = function() {
         const locations = [ ...filter.locations ].sort((a, b) => {
             return b.properties.count - a.properties.count;
@@ -304,7 +398,23 @@
         locations.forEach((location) => {
             const li = document.createElement('li');
             li.innerText = `${location.properties.name} (${location.properties.count})`;
-            list.appendChild(li)
+            list.appendChild(li);
+            li.addEventListener('click', () => {
+                map.flyTo({
+                    center: location.geometry.coordinates,
+                    zoom: Math.max(map.getZoom(), 7)
+                })
+                if(popup) {
+                    popup.remove();
+                }
+                popup = clickItem({
+                    features: [ location ],
+                    lngLat: {
+                        lng: location.geometry.coordinates[0],
+                        lat: location.geometry.coordinates[1]
+                    }
+                })
+            })
         })
         document.querySelector('#stats').innerHTML = '';
         document.querySelector('#stats').appendChild(list);
@@ -445,34 +555,8 @@
                 }
             }
         );
-        map.on('click', 'destinations-circle', (e) => {
-            const coordinates = e.features[0].geometry.coordinates.slice();
-            const fragment = document.createElement('div');
-            const title = document.createElement('h2');
-            title.innerText = e.features[0].properties.name;
-            fragment.appendChild(title);
-            JSON.parse(e.features[0].properties.episodes).forEach((episode) => {
-                const video = episode.locations.find(l => l.name === e.features[0].properties.name)?.video
-                const row = document.createElement(video ? 'a' : 'span');
-                row.style.display = 'block';
-                if(video) {
-                    row.href = video;
-                    row.target = '_blank';
-                    row.rel = 'noopener';
-                }
-                row.innerText = episode.date;
-                fragment.appendChild(row);
-            })
-
-            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
-            }
-
-            new mapboxgl.Popup()
-                .setLngLat(coordinates)
-                .setHTML(fragment.innerHTML)
-                .addTo(map);
-        });
+        map.on('click', 'destinations-circle', clickItem);
+        map.on('click', 'destinations-heat', clickItem);
     }
 
 
