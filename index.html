@@ -398,6 +398,8 @@
         locations.forEach((location) => {
             const li = document.createElement('li');
             li.innerText = `${location.properties.name} (${location.properties.count})`;
+            const hasVideo = location.properties.episodes.find(e => e.locations.find(l => l.name === location.properties.name && l.video));
+            if(hasVideo) li.innerText += ' 🎥';
             list.appendChild(li);
             li.addEventListener('click', () => {
                 map.flyTo({
