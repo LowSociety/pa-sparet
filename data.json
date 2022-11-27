@@ -1912,7 +1912,7 @@
         "lng": -4.1426565
       },
       {
-        "name": "Bombay (Mumbai)",
+        "name": "Bombay",
         "url": null,
         "lat": 19.0759837,
         "lng": 72.8776559
@@ -8009,7 +8009,26 @@
   },
   {
     "date": "26 november 2022",
-    "locations": []
+    "locations": [
+      {
+        "name": "Luleå",
+        "video": "https://www.svtplay.se/video/8vya9wY/pa-sparet/igar-20-00?position=244&id=8vya9wY",
+        "lat": 65.584819,
+        "lng": 22.1567026
+      },
+      {
+        "name": "Bombay",
+        "video": "https://www.svtplay.se/video/8vya9wY/pa-sparet/igar-20-00?position=1336&id=8vya9wY",
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      },
+      {
+        "name": "Cardiff",
+        "video": "https://www.svtplay.se/video/8vya9wY/pa-sparet/igar-20-00?position=2458&id=8vya9wY",
+        "lat": 51.483707,
+        "lng": -3.1680962
+      }
+    ]
   },
   {
     "date": "2 december 2022",
