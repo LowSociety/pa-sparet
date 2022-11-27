@@ -7991,19 +7991,22 @@
         "name": "Nicosia",
         "url": "https://sv.wikipedia.org/wiki/Nicosia",
         "lat": 35.1855659,
-        "lng": 33.38227639999999
+        "lng": 33.38227639999999,
+        "video": "https://www.svtplay.se/video/KQz6x1A/pa-sparet/fre-18-nov-20-00?position=282&id=KQz6x1A"
       },
       {
         "name": "Fjällbacka",
         "url": "https://sv.wikipedia.org/wiki/Fj%C3%A4llbacka",
         "lat": 58.59977559999999,
-        "lng": 11.2882238
+        "lng": 11.2882238,
+        "video": "https://www.svtplay.se/video/KQz6x1A/pa-sparet/fre-18-nov-20-00?position=1403&id=KQz6x1A"
       },
       {
         "name": "Indianapolis",
         "url": "https://sv.wikipedia.org/wiki/Indianapolis",
         "lat": 39.768403,
-        "lng": -86.158068
+        "lng": -86.158068,
+        "video": "https://www.svtplay.se/video/KQz6x1A/pa-sparet/fre-18-nov-20-00?position=2487&id=KQz6x1A"
       }
     ]
   },
