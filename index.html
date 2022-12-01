@@ -247,7 +247,7 @@
     let filter = null;
 
     const loadData = function() {
-        fetch('data.json').then((response) => {
+        fetch('data.json', { cache: "no-cache" }).then((response) => {
             return response.json()
         }).then((responseData) => {
             data = responseData
