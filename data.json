@@ -8035,7 +8035,26 @@
   },
   {
     "date": "2 december 2022",
-    "locations": []
+    "locations": [
+      {
+        "name": "Darwin",
+        "video": "https://www.svtplay.se/video/8zXaGLp/pa-sparet/igar-20-00?position=201&id=8zXaGLp",
+        "lat": -12.4258916,
+        "lng": 130.8632685
+      },
+      {
+        "name": "Dubrovnik",
+        "video": "https://www.svtplay.se/video/8zXaGLp/pa-sparet/igar-20-00?position=1493&id=8zXaGLp",
+        "lat": 42.65066059999999,
+        "lng": 18.0944238
+      },
+      {
+        "name": "Västervik",
+        "video": "https://www.svtplay.se/video/8zXaGLp/pa-sparet/igar-20-00?position=2459&id=8zXaGLp",
+        "lat": 57.75771559999999,
+        "lng": 16.6369759
+      }
+    ]
   },
   {
     "date": "16 december 2022",
