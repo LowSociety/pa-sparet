@@ -292,6 +292,8 @@
 
                     if(prop !== 'locations') {
                         obj.locations = Object.values(getLocations());
+                    } else {
+                        window.locations = value;
                     }
                     updateFilter();
                     updateStats();
@@ -340,6 +342,9 @@
                 }
                 all[location.name].properties.count += 1;
                 all[location.name].properties.episodes.push(episode);
+                if(location.video) {
+                    all[location.name].properties.video = true
+                }
             })
             return all;
         }, {});
@@ -398,8 +403,9 @@
         locations.forEach((location) => {
             const li = document.createElement('li');
             li.innerText = `${location.properties.name} (${location.properties.count})`;
-            const hasVideo = location.properties.episodes.find(e => e.locations.find(l => l.name === location.properties.name && l.video));
-            if(hasVideo) li.innerText += ' 🎥';
+            if(!!location.properties.video) {
+                li.innerText += ' 🎥';
+            }
             list.appendChild(li);
             li.addEventListener('click', () => {
                 map.flyTo({
@@ -530,9 +536,9 @@
                         ['linear'],
                         ['get', 'count'],
                         1,
-                        'rgba(33,102,172,0)',
-                        2,
                         'rgb(103,169,207)',
+                        2,
+                        'rgb(33,102,172)',
                         3,
                         'rgb(209,229,240)',
                         4,
@@ -557,6 +563,16 @@
                 }
             }
         );
+        // map.addLayer({
+        //     id: 'destinations-count',
+        //     type: 'symbol',
+        //     source: 'destinations',
+        //     filter: ['has', 'video'],
+        //     layout: {
+        //         'text-field': 'b🎥a',
+        //         'text-size': 12
+        //     }
+        // });
         map.on('click', 'destinations-circle', clickItem);
         map.on('click', 'destinations-heat', clickItem);
     }
