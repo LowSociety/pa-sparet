@@ -994,8 +994,8 @@
       {
         "name": "Munkfors",
         "url": null,
-        "lat": 59.057938,
-        "lng": 16.587912
+        "lat": 59.8397834,
+        "lng": 13.5049694
       },
       {
         "name": "Söderköping",
@@ -1414,7 +1414,7 @@
     "date": "2 oktober 1998",
     "locations": [
       {
-        "name": "Malaga",
+        "name": "Málaga",
         "url": "https://sv.wikipedia.org/wiki/Malaga",
         "lat": 36.721261,
         "lng": -4.4212655
