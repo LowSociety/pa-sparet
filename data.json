@@ -2389,7 +2389,7 @@
         "name": "Newcastle",
         "url": null,
         "lat": 54.966667,
-        "lng": -1.600000
+        "lng": -1.6
       },
       {
         "name": "Hultsfred",
@@ -3064,8 +3064,8 @@
       {
         "name": "Jokkmokk",
         "url": null,
-        "lat":66.60696089999999,
-        "lng":19.8229206
+        "lat": 66.60696089999999,
+        "lng": 19.8229206
       },
       {
         "name": "?",
@@ -3074,8 +3074,8 @@
       {
         "name": "Leksand",
         "url": null,
-        "lat":60.7303082,
-        "lng":14.9998922
+        "lat": 60.7303082,
+        "lng": 14.9998922
       }
     ]
   },
@@ -3621,7 +3621,7 @@
         "name": "Newcastle",
         "url": null,
         "lat": 54.966667,
-        "lng": -1.600000
+        "lng": -1.6
       },
       {
         "name": "Rio de Janeiro",
@@ -6053,7 +6053,7 @@
         "name": "Newcastle",
         "url": "https://sv.wikipedia.org/wiki/Newcastle_upon_Tyne",
         "lat": 54.966667,
-        "lng": -1.600000
+        "lng": -1.6
       },
       {
         "name": "Gaborone",
@@ -8058,42 +8058,202 @@
   },
   {
     "date": "16 december 2022",
-    "locations": []
+    "locations": [
+      {
+        "name": "Toulouse",
+        "lat": 43.604652,
+        "lng": 1.444209
+      },
+      {
+        "name": "Sigtuna",
+        "lat": 59.619144,
+        "lng": 17.723419
+      },
+      {
+        "name": "Philadelphia",
+        "lat": 39.9525839,
+        "lng": -75.1652215
+      }
+    ]
   },
   {
     "date": "23 december 2022",
-    "locations": []
+    "locations": [
+      {
+        "name": "Roskilde",
+        "lat": 55.64152,
+        "lng": 12.08048
+      },
+      {
+        "name": "Kivik",
+        "lat": 55.68499,
+        "lng": 14.22626
+      },
+      {
+        "name": "Detroit",
+        "lat": 42.331427,
+        "lng": -83.0457538
+      }
+    ]
   },
   {
     "date": "30 december 2022",
-    "locations": []
+    "locations": [
+      {
+        "name": "Sundsvall",
+        "lat": 62.390811,
+        "lng": 17.306927
+      },
+      {
+        "name": "Kyoto",
+        "lat": 35.0116363,
+        "lng": 135.7680294
+      },
+      {
+        "name": "Palma",
+        "lat": 39.5696005,
+        "lng": 2.6501603
+      }
+    ]
   },
   {
     "date": "6 januari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Kapstaden",
+        "lat": -33.9248685,
+        "lng": 18.4240553
+      },
+      {
+        "name": "Tammerfors",
+        "lat": 61.4977524,
+        "lng": 23.7609535
+      },
+      {
+        "name": "Skellefteå",
+        "lat": 64.7501262,
+        "lng": 20.9508496
+      }
+    ]
   },
   {
     "date": "13 januari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Jakarta",
+        "lat": -6.2087634,
+        "lng": 106.845599
+      },
+      {
+        "name": "Trelleborg",
+        "lat": 55.3751457,
+        "lng": 13.1563912
+      },
+      {
+        "name": "Oxford",
+        "lat": 51.7520209,
+        "lng": -1.2577263
+      }
+    ]
   },
   {
     "date": "20 januari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Hamburg",
+        "lat": 53.5510846,
+        "lng": 9.9936818
+      },
+      {
+        "name": "Abisko",
+        "lat": 68.3517178,
+        "lng": 18.8299782
+      },
+      {
+        "name": "Portland",
+        "lat": 45.5051064,
+        "lng": -122.6750261
+      }
+    ]
   },
   {
     "date": "27 januari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Buenos Aires",
+        "lat": -34.6036844,
+        "lng": -58.3815591
+      },
+      {
+        "name": "Motala",
+        "lat": 58.537058,
+        "lng": 15.036072
+      },
+      {
+        "name": "Zürich",
+        "lat": 47.3768866,
+        "lng": 8.541694
+      }
+    ]
   },
   {
     "date": "3 februari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Trollhättan",
+        "lat": 58.2837,
+        "lng": 12.2886
+      },
+      {
+        "name": "Tallinn",
+        "lat": 59.437,
+        "lng": 24.7535
+      },
+      {
+        "name": "Casablanca",
+        "lat": 33.5731,
+        "lng": -7.5898
+      }
+    ]
   },
   {
     "date": "10 februari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686
+      },
+      {
+        "name": "Warszawa",
+        "lat": 52.2297,
+        "lng": 21.0122
+      },
+      {
+        "name": "Vancouver",
+        "lat": 49.2827,
+        "lng": -123.1207
+      }
+    ]
   },
   {
     "date": "17 februari 2023",
-    "locations": []
+    "locations": [
+      {
+        "name": "Mora",
+        "lat": 61.0049,
+        "lng": 14.5371
+      },
+      {
+        "name": "Santiago",
+        "lat": -33.4489,
+        "lng": -70.6693
+      },
+      {
+        "name": "Florens",
+        "lat": 43.7696,
+        "lng": 11.2558
+      }
+    ]
   }
 ]
