@@ -3509,7 +3509,7 @@
         "lng": 6.129582999999999
       },
       {
-        "name": "Washington DC",
+        "name": "Washington D.C.",
         "url": null,
         "lat": 38.9071923,
         "lng": -77.0368707
@@ -5015,7 +5015,7 @@
     "date": "14 december 2012",
     "locations": [
       {
-        "name": "Washington, D.C.",
+        "name": "Washington D.C.",
         "url": "https://sv.wikipedia.org/wiki/Washington,_D.C.",
         "lat": 38.9071923,
         "lng": -77.0368707
@@ -8271,7 +8271,7 @@
         "lng": 2.168568
       },
       {
-        "name": "Washington",
+        "name": "Washington D.C.",
         "lat": 38.9071923,
         "lng": -77.0368707
       }
