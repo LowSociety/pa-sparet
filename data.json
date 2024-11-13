@@ -8110,9 +8110,10 @@
         "lng": 135.7680294
       },
       {
-        "name": "Palma",
-        "lat": 39.5696005,
-        "lng": 2.6501603
+        "name": "Palma de Mallorca",
+        "url": "https://sv.wikipedia.org/wiki/Palma_de_Mallorca",
+        "lat": 39.6013107,
+        "lng": 2.6387795
       }
     ]
   },
