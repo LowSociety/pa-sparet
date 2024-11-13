@@ -8255,5 +8255,46 @@
         "lng": 11.2558
       }
     ]
+  },
+  {
+    "date": "1 november 2024",
+    "locations": [
+      {
+        "name": "Eksjö",
+        "lat": 57.665176,
+        "lng": 14.973229
+      },
+      {
+        "name": "Barcelona",
+        "lat": 41.3873974,
+        "lng": 2.168568
+      },
+      {
+        "name": "Washington",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      }
+    ]
+  },
+  {
+    "date": "8 november 2024",
+    "locations": [
+      {
+        "name": "Lund",
+        "url": "https://sv.wikipedia.org/wiki/Lund",
+        "lat": 55.7046601,
+        "lng": 13.1910073
+      },
+      {
+        "name": "Thessaloniki",
+        "lat": 40.6400629,
+        "lng": 22.9444191
+      },
+      {
+        "name": "Rio de Janeiro",
+        "lat": -22.9068467,
+        "lng": -43.1728965
+      }
+    ]
   }
 ]
