@@ -8513,5 +8513,25 @@
       { "name": "Örebro", "lat": 59.2752626, "lng": 15.2134105 },
       { "name": "Chicago", "lat": 41.8781136, "lng": -87.6297982 }
     ]
+  },
+  {
+    "date": "30 januari 2026",
+    "locations": [
+      {
+        "name": "Stockholm",
+        "lat": 59.3293235,
+        "lng": 18.0685808
+      },
+      {
+        "name": "San Marino",
+        "lat": 43.94236,
+        "lng": 12.457777
+      },
+      {
+        "name": "Nuuk",
+        "lat": 64.1834701,
+        "lng": -51.7215717
+      }
+    ]
   }
 ]
