@@ -8258,6 +8258,110 @@
     ]
   },
   {
+    "date": "10 november 2023",
+    "locations": [
+      { "name": "Nice", "lat": 43.7101728, "lng": 7.2619532 },
+      { "name": "Örnsköldsvik", "lat": 63.2900474, "lng": 18.7166166 },
+      { "name": "Bogotá", "lat": 4.7109886, "lng": -74.072092 }
+    ]
+  },
+  {
+    "date": "13 november 2023",
+    "locations": [
+      { "name": "Las Vegas", "lat": 36.171563, "lng": -115.1391009 },
+      { "name": "Mariefred", "lat": 59.2620381, "lng": 17.22311 },
+      { "name": "Palermo", "lat": 38.11569, "lng": 13.3614868 }
+    ]
+  },
+  {
+    "date": "17 november 2023",
+    "locations": [
+      { "name": "Norrköping", "lat": 58.587745, "lng": 16.192421 },
+      { "name": "Dubai", "lat": 25.2048493, "lng": 55.2707828 },
+      { "name": "Newcastle", "lat": 54.966667, "lng": -1.6 }
+    ]
+  },
+  {
+    "date": "24 november 2023",
+    "locations": [
+      { "name": "Nairobi", "lat": -1.2920659, "lng": 36.8219462 },
+      { "name": "Skövde", "lat": 58.3902782, "lng": 13.8461208 },
+      { "name": "Skopje", "lat": 41.9981294, "lng": 21.4254355 }
+    ]
+  },
+  {
+    "date": "1 december 2023",
+    "locations": [
+      { "name": "Bollnäs", "lat": 61.3483795, "lng": 16.3942685 },
+      { "name": "Tromsø", "lat": 69.6492047, "lng": 18.9553238 },
+      { "name": "Phuket", "lat": 7.9519331, "lng": 98.3380884 }
+    ]
+  },
+  {
+    "date": "8 december 2023",
+    "locations": [
+      { "name": "Hongkong", "lat": 22.3193039, "lng": 114.1693611 },
+      { "name": "Funchal", "lat": 32.6669328, "lng": -16.9240554 },
+      { "name": "Lysekil", "lat": 58.275573, "lng": 11.435558 }
+    ]
+  },
+  {
+    "date": "15 december 2023",
+    "locations": [
+      { "name": "Falun", "lat": 60.60646, "lng": 15.6355 },
+      { "name": "Peking", "lat": 39.904211, "lng": 116.407395 },
+      { "name": "Leeds", "lat": 53.8007554, "lng": -1.5490774 }
+    ]
+  },
+  {
+    "date": "22 december 2023",
+    "locations": [
+      { "name": "Lund", "lat": 55.7046601, "lng": 13.1910073 },
+      { "name": "Vasa", "lat": 63.095089, "lng": 21.6164564 },
+      { "name": "Ho Chi Minh-staden", "lat": 10.8230989, "lng": 106.6296638 }
+    ]
+  },
+  {
+    "date": "29 december 2023",
+    "locations": [
+      { "name": "Södertälje", "lat": 59.197762, "lng": 17.6201942 },
+      { "name": "Muskat", "lat": 23.5880307, "lng": 58.3828717 },
+      { "name": "Ålborg", "lat": 57.0488195, "lng": 9.921747 }
+    ]
+  },
+  {
+    "date": "5 januari 2024",
+    "locations": [
+      { "name": "Zagreb", "lat": 45.8150108, "lng": 15.981919 },
+      { "name": "Wellington", "lat": -41.2923814, "lng": 174.7787463 },
+      { "name": "Jönköping", "lat": 57.7826137, "lng": 14.1617876 }
+    ]
+  },
+  {
+    "date": "12 januari 2024",
+    "locations": [
+      { "name": "La Paz", "lat": -16.489689, "lng": -68.1192936 },
+      { "name": "Varberg", "lat": 57.107118, "lng": 12.2520907 },
+      { "name": "Málaga", "lat": 36.721261, "lng": -4.4212655 }
+    ]
+  },
+  {
+    "date": "19 januari 2024",
+    "locations": [
+      { "name": "Köln", "lat": 50.937531, "lng": 6.9602786 },
+      { "name": "Torsby", "lat": 60.1409072, "lng": 13.0102132 },
+      { "name": "Zanzibar", "lat": -6.165917, "lng": 39.202641 }
+    ]
+  },
+  {
+    "date": "26 januari 2024",
+    "locations": [
+      { "name": "Istanbul", "lat": 41.0082376, "lng": 28.9783589 },
+      { "name": "Oskarshamn", "lat": 57.2656993, "lng": 16.4473984 },
+      { "name": "New York", "lat": 40.7127753, "lng": -74.0059728 }
+    ]
+  },
+  {
     "date": "1 november 2024",
     "locations": [
       {
